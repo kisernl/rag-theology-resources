@@ -1,6 +1,7 @@
 ---
 title: "De Servo Arbitrio "On the Enslaved Will" or The Bondage of Will"
 author: "Martin Luther"
+tradition: "lutheran"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

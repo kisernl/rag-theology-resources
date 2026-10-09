@@ -1,6 +1,7 @@
 ---
 title: "Systematic Theology - Volume II"
 author: "Charles Hodge"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

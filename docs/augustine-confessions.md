@@ -1,6 +1,7 @@
 ---
 title: "The Confessions of Saint Augustine"
 author: "Augustine, Saint, Bishop of Hippo (345-430)"
+tradition: "early-church"
 translator: "Edward B. Pusey"
 written: "AD 401"
 source: "Christian Classics Ethereal Library (ccel.org); print basis: Logos Research Systems, 1999 — public domain"

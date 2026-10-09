@@ -1,6 +1,7 @@
 ---
 title: "The Doctrine of the Saints' Perseverance Explained and Confirmed"
 author: "John Owen"
+tradition: "reformed"
 edition: "The Banner of Truth Trust, Edinburgh, 1966."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

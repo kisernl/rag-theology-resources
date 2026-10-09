@@ -1,6 +1,7 @@
 ---
 title: "A Discourse of the Nature of Regeneneration"
 author: "Stephen Charnock"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

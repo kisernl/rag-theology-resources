@@ -1,6 +1,7 @@
 ---
 title: "Harmony of the Law - Volume 3"
 author: "John Calvin"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

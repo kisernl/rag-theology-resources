@@ -1,6 +1,7 @@
 ---
 title: "History of Dogma - Volume V"
 author: "Adolf Harnack"
+tradition: "liberal-protestant"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

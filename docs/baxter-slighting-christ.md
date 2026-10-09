@@ -1,6 +1,7 @@
 ---
 title: "The Causes and Danger of Slighting Christ and His Gospel"
 author: "Richard Baxter"
+tradition: "reformed"
 editor: "Benjamin Fawcett (abridged)"
 edition: "Salop: J. Cotton and J. Eddowes, 1763"
 source: "https://ccel.org/ccel/baxter/causes"

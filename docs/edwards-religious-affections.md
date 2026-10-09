@@ -1,6 +1,7 @@
 ---
 title: "Religious Affections"
 author: "Jonathan Edwards"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

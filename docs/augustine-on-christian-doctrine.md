@@ -1,6 +1,7 @@
 ---
 title: "On Christian Doctrine, in Four Books"
 author: "Augustine of Hippo"
+tradition: "early-church"
 translator: "J. F. Shaw"
 edition: "Nicene and Post-Nicene Fathers, Series 1, Vol. 2 (1887)"
 source: "https://ccel.org/ccel/augustine/doctrine"

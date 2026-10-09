@@ -1,6 +1,7 @@
 ---
 title: "A Discourse of God's being the Author of Reconciliation"
 author: "Stephen Charnock"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

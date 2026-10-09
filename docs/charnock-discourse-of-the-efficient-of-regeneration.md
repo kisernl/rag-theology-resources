@@ -1,6 +1,7 @@
 ---
 title: "A Discourse of the Efficient of Regeneration"
 author: "Stephen Charnock"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

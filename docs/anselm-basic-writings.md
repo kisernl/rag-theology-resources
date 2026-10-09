@@ -1,6 +1,7 @@
 ---
 title: "Proslogium; Monologium; An Appendix in Behalf of the Fool by Gaunilon; and Cur Deus Homo"
 author: "Anselm, Saint, Archbishop of Canterbury (1033-1109)"
+tradition: "medieval"
 translator: "Sidney Norton Deane; James Gardiner Vose (Cur Deus Homo)"
 edition: "Open Court, Chicago, 1926 (reprint of 1903)"
 source: "Christian Classics Ethereal Library (ccel.org) — public domain"

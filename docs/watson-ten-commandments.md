@@ -1,6 +1,7 @@
 ---
 title: "The Ten Commandments"
 author: "Thomas Watson"
+tradition: "reformed"
 edition: "1692"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Dialog of Catherine of Siena"
 author: "St. Catherine of Siena"
+tradition: "medieval"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

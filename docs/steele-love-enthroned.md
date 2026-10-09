@@ -1,6 +1,7 @@
 ---
 title: "Love Enthroned"
 author: "Daniel Steele"
+tradition: "methodist"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

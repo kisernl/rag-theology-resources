@@ -1,6 +1,7 @@
 ---
 title: "The Character of Jesus forbidding his Possible Classification"
 author: "Horace Bushnell"
+tradition: "congregationalist"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

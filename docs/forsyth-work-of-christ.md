@@ -1,6 +1,7 @@
 ---
 title: "The Work of Christ"
 author: "P.T. Forsyth"
+tradition: "congregationalist"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

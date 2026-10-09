@@ -1,6 +1,7 @@
 ---
 title: "An Unpublished Essay on the Trinity"
 author: "Jonathan Edwards"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

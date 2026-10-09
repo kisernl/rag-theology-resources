@@ -1,6 +1,7 @@
 ---
 title: "The Government of the Tongue"
 author: "Richard Allestree (1619-1681)"
+tradition: "anglican"
 attribution: "By the Author of 'The Whole Duty of Man'"
 edition: "The Second Impression, 1674"
 source: "Christian Classics Ethereal Library (ccel.org) — public domain"

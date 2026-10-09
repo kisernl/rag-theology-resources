@@ -39,11 +39,42 @@ against the checklist at the bottom.
    ---
    title: "..."
    author: "..."
+   tradition: "..."         # see vocabulary below — required
    translator: "..."        # if applicable
    edition: "..."           # if applicable
    source: "<gutenberg URL or other origin>"
    ---
    ```
+
+   **`tradition` vocabulary** (single lowercase value; the vector DB
+   filters on this field):
+
+   - `early-church` — pre-schism patristic (roughly pre-1054)
+   - `medieval` — medieval Latin West, pre-Reformation
+   - `catholic` — Roman Catholic
+   - `orthodox` — Eastern Orthodox
+   - `anglican` — Church of England / Anglican communion
+   - `lutheran`
+   - `reformed` — Reformed, Presbyterian, Puritan
+   - `reformed-baptist` — Calvinistic/Particular Baptist
+   - `baptist` — other Baptist
+   - `congregationalist`
+   - `arminian` — Arminian/Remonstrant (non-Wesleyan)
+   - `methodist` — Wesleyan/Methodist/Holiness
+   - `anabaptist`
+   - `dispensationalist`
+   - `liberal-protestant`
+   - `evangelical` — broad evangelical, when nothing else fits
+   - `other`
+
+   `early-church` and `medieval` are shared-heritage labels: works
+   written before the relevant schism get the era label rather than a
+   later communion (e.g. Augustine → `early-church`, Aquinas →
+   `medieval`, not `catholic`). Downstream filters for any Western
+   tradition should generally include both. Otherwise assign the
+   tradition the *work's theology* belongs to — a study of
+   Schleiermacher is `liberal-protestant` even if the scholar who
+   wrote it was a Baptist.
 
 3. **Title block**: `#` title, author line, edition/imprint lines in
    italics, then a `>` blockquote source attribution. Gutenberg license

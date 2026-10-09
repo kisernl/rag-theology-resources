@@ -1,6 +1,7 @@
 ---
 title: "Felon's Maxims of the Saints"
 author: "Thomas Cogswell Upham"
+tradition: "catholic"
 edition: "Thomas Cogswell Upham, New York, 1847"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

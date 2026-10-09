@@ -1,6 +1,7 @@
 ---
 title: "God's Way of Peace: A Book for the Anxious"
 author: "Horatius Bonar"
+tradition: "reformed"
 edition: "Presbyterian Publication Committee, Philadelphia"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

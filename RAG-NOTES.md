@@ -1,0 +1,133 @@
+# Vector DB & Agent Notes
+
+Design decisions for ingesting this corpus and filtering retrieval by
+tradition. Update this file when the conventions change.
+
+## Doc metadata contract
+
+Every `docs/*.md` file carries YAML front matter:
+
+```yaml
+---
+title: "..."
+author: "..."
+tradition: "reformed"    # single value — see vocabulary
+translator: "..."        # optional
+edition: "..."           # optional
+source: "..."
+---
+```
+
+**`tradition` is always a single string.** We deliberately did NOT make
+it a list. The field answers "what *is* this work?" — the question of
+"who should *see* it?" belongs to the retrieval filter, not the doc.
+
+## Tradition vocabulary
+
+Controlled values (defined in `.devin/skills/txt-to-md-rag/SKILL.md`):
+
+| value | meaning |
+|---|---|
+| `early-church` | pre-schism patristic (roughly pre-1054) — shared heritage |
+| `medieval` | medieval Latin West, pre-Reformation — shared heritage |
+| `catholic` | Roman Catholic, post-Reformation |
+| `orthodox` | Eastern Orthodox |
+| `anglican` | Church of England / Anglican communion |
+| `lutheran` | Lutheran |
+| `reformed` | Reformed, Presbyterian, Puritan |
+| `reformed-baptist` | Calvinistic / Particular Baptist |
+| `baptist` | other Baptist |
+| `congregationalist` | Congregationalist |
+| `arminian` | Arminian / Remonstrant, non-Wesleyan |
+| `methodist` | Wesleyan / Methodist / Holiness |
+| `anabaptist` | Anabaptist |
+| `dispensationalist` | Dispensationalist |
+| `liberal-protestant` | Liberal/mainline Protestant |
+| `evangelical` | broad evangelical, when nothing else fits |
+| `other` | catch-all |
+
+## Tagging rules
+
+1. **Pre-schism works get the era label, not a later communion.**
+   Augustine → `early-church` (not `catholic`). Aquinas, Anselm,
+   Catherine of Siena → `medieval` (not `catholic`). They are shared
+   heritage claimed by multiple traditions.
+
+2. **Tag the work's theology, not the author's biography, when they
+   differ.** Cross's *Theology of Schleiermacher* → `liberal-protestant`
+   (the content is Schleiermacher). Upham's *Felon's Maxims* →
+   `catholic` (the content is Fénelon; Upham only edited/translated).
+   Bullinger → `dispensationalist` despite Anglican ordination.
+
+3. **Straddlers get a granular vocab value, not two tags.** Spurgeon →
+   `reformed-baptist`, not `["reformed", "baptist"]`. If a new
+   straddler appears, extend the vocabulary rather than multi-tagging.
+
+## Retrieval model
+
+**Embeddings do the finding; `tradition` only does the excluding.**
+The field contributes nothing to semantic similarity — it is purely a
+filter gate and a provenance label.
+
+Per-client filters are **inclusion lists**, and every Western client
+should include the shared-heritage labels:
+
+```python
+FILTERS = {
+    "reformed":  ["reformed", "reformed-baptist", "congregationalist",
+                  "early-church", "medieval"],
+    "anglican":  ["anglican", "early-church", "medieval"],
+    "catholic":  ["catholic", "early-church", "medieval"],
+    "lutheran":  ["lutheran", "early-church", "medieval"],
+    "methodist": ["methodist", "arminian", "early-church", "medieval"],
+    "baptist":   ["baptist", "reformed-baptist", "early-church",
+                  "medieval"],
+}
+```
+
+(Tune per client — e.g. whether `arminian`/`finney` belongs in a
+Reformed client's visible set is a product decision.)
+
+## If agents generate filters dynamically
+
+Put the mapping in the retrieval tool's description/system prompt —
+one paragraph in one place — rather than multi-tagging docs:
+
+> When filtering by tradition, always include `early-church` and
+> `medieval` alongside the communion label; they are shared heritage.
+> For `reformed` also include `reformed-baptist` and
+> `congregationalist`. For `methodist` also include `arminian`.
+
+## Why single-value, not multi-tag
+
+- Client-side inclusion lists already deliver shared-heritage recall;
+  redundant tags on every doc would duplicate that mapping across the
+  corpus and drift over time.
+- Overlapping tags hurt precision — `["catholic", "reformed"]` on
+  Augustine would surface him when a user asks for *distinctively*
+  Reformed perspectives.
+- Adding a new client tradition = editing one filter list, not
+  re-tagging the corpus.
+
+## Current corpus distribution
+
+(as of 2026-10-08, 96 docs)
+
+| tradition | count |
+|---|---|
+| reformed | 60 |
+| liberal-protestant | 8 |
+| congregationalist | 5 |
+| arminian | 5 |
+| medieval | 4 |
+| early-church | 4 |
+| catholic | 3 |
+| methodist | 2 |
+| lutheran | 2 |
+| reformed-baptist | 1 |
+| dispensationalist | 1 |
+| anglican | 1 |
+
+The corpus is Reformed-heavy and thin on `catholic`, `anglican`,
+`orthodox`, `anabaptist` — likely the next acquisition targets if
+those client traditions are planned.

@@ -1,6 +1,7 @@
 ---
 title: "The Demonstration of the Apostolic Preaching"
 author: "Bishop of Lyon St. Irenaeus"
+tradition: "early-church"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

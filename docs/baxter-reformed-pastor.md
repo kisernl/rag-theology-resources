@@ -1,6 +1,7 @@
 ---
 title: "The Reformed Pastor"
 author: "Richard Baxter"
+tradition: "reformed"
 editor: "William Brown"
 edition: "Edinburgh, 1829"
 source: "https://ccel.org/ccel/baxter/pastor"

@@ -1,6 +1,7 @@
 ---
 title: "Commentary on Revelation"
 author: "E.W. Bullinger"
+tradition: "dispensationalist"
 edition: "F.H. Revell, 1909"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

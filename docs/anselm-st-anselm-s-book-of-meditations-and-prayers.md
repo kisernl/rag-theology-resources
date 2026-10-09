@@ -1,6 +1,7 @@
 ---
 title: "St. Anselm's Book of Meditations and Prayers."
 author: "Archbishop of Canterbury Saint Anselm"
+tradition: "medieval"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

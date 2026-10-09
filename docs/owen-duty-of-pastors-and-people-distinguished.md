@@ -1,6 +1,7 @@
 ---
 title: "The Duty of Pastors and People Distinguished"
 author: "John Owen"
+tradition: "reformed"
 edition: "The Banner of Truth Trust, Edinburgh, 1967."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "The Reformed Doctrine of Predestination"
 author: "Loraine Boettner"
+tradition: "reformed"
 edition: "Eerdmans, 1932"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

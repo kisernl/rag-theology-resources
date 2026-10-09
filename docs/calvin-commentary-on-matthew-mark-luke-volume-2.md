@@ -1,6 +1,7 @@
 ---
 title: "Commentary on Matthew, Mark, Luke - Volume 2"
 author: "John Calvin"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

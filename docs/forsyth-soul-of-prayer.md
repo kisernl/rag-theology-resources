@@ -1,6 +1,7 @@
 ---
 title: "The Soul of Prayer"
 author: "P.T. Forsyth"
+tradition: "congregationalist"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

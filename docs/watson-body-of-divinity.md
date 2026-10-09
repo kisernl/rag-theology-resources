@@ -1,6 +1,7 @@
 ---
 title: "A Body of Divinity"
 author: "Thomas d. 1686 Watson"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

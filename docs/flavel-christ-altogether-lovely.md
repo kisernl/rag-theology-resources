@@ -1,6 +1,7 @@
 ---
 title: "Christ Altogether Lovely"
 author: "John Flavel"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

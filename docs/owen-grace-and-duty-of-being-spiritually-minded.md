@@ -1,6 +1,7 @@
 ---
 title: "The Grace and Duty of being Spiritually Minded"
 author: "John Owen"
+tradition: "reformed"
 edition: "The Banner of Truth Trust, Edinburgh, 1965."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

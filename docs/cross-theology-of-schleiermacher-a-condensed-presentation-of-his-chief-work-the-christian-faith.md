@@ -1,6 +1,7 @@
 ---
 title: "The Theology of Schleiermacher: A Condensed Presentation of His"
 author: "George Cross"
+tradition: "liberal-protestant"
 edition: "The University of Chicago Press: Chicago, Illinois (1911)"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

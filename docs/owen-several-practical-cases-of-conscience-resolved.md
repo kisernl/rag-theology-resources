@@ -1,6 +1,7 @@
 ---
 title: "Several Practical Cases of Conscience Resolved"
 author: "John Owen"
+tradition: "reformed"
 edition: "Edinburgh: The Banner of Truth Trust, 1965."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Institutes of the Christian Religion"
 author: "John Calvin"
+tradition: "reformed"
 translator: "John Allen"
 edition: "Sixth American Edition, Revised and Corrected"
 volume: 1

@@ -1,6 +1,7 @@
 ---
 title: "Pensées"
 author: "Blaise Pascal"
+tradition: "catholic"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Summa Theologica"
 author: "Saint Thomas Aquinas"
+tradition: "medieval"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

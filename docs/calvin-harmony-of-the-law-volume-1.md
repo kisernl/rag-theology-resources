@@ -1,6 +1,7 @@
 ---
 title: "Harmony of the Law - Volume 1"
 author: "John Calvin"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

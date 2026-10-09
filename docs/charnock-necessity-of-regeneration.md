@@ -1,6 +1,7 @@
 ---
 title: "The Necessity of Regeneration"
 author: "Stephen Charnock"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

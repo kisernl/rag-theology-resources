@@ -1,6 +1,7 @@
 ---
 title: "Of Schism"
 author: "John Owen"
+tradition: "reformed"
 edition: "The Banner of Truth Trust, Edinburgh, 1967."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

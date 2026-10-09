@@ -1,6 +1,7 @@
 ---
 title: "The Death of Christ"
 author: "James Denney"
+tradition: "reformed"
 edition: "1911"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

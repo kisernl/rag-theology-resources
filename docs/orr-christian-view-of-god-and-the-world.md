@@ -1,6 +1,7 @@
 ---
 title: "Christian View of God and the World"
 author: "James Orr"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

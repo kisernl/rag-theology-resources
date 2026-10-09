@@ -1,6 +1,7 @@
 ---
 title: "The Works of Jonathan Edwards, Volume One"
 author: "Jonathan Edwards"
+tradition: "reformed"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

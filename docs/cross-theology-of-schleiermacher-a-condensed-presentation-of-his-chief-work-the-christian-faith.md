@@ -97,22 +97,22 @@ March 15, 1911
 #### Table of Contents
 
 
-#### Page I. Historical Introduction 3-113
+#### Page I. Historical Introduction 3–113
 
 A. A Sketch of Schleiermacher's Life 3-66
 
 B. Schleiermacher's Relation to Earlier Protestantism 67-113
 
 
-#### Ii. Presentation of "the Christian Faith" 117-293
+#### Ii. Presentation of "the Christian Faith" 117–293
 
 Introduction (1-31) 117
 
 
-### Chapter I — Explanation of Dogmatics (§§2-19)
+### Chapter I — Explanation of Dogmatics (§§2–19)
 
 
-### Chapter II — The Method of Dogmatics (§§20-31)
+### Chapter II — The Method of Dogmatics (§§20–31)
 
 **I.** Unfolding of the Religious Self-Consciousness(§§32-61) 153-174
 
@@ -123,10 +123,10 @@ Introduction (1-31) 117
 **2.** Unfolding of the Consciousness of Grace (§§86-169) 194-293
 
 
-#### Iii. an Estimate 297-334
+#### Iii. an Estimate 297–334
 
 
-#### Works of Reference 335-337
+#### Works of Reference 335–337
 
 INDEX 341~344
 
@@ -535,14 +535,14 @@ Did space permit, we might show how upon a foundation of Christian religious fai
 #### A Systematic Exposition Based on the Principles of the Evangelical Church
 
 
-#### Introduction (§§ 1-31 )
+#### Introduction (§§ 1–31 )
 
 At the outset of this undertaking it is necessary to explain the meaning that is here attached to the term dogmatics and to set forth the method and the arrangement appropriate to it. For, while Christian communions generally make use of dogmatical (doctrinal) statements both in their own internal economy and in their intercourse with other religious bodies, an examination of the theological writings best known among them will discover great diversity and confusion in the articulation of the different theological disciplines and in the application of them to the purposes of the societies concerned. Of dogmatics this is true in an eminent degree.
 
 The greatest differences in the orderly development of the subject will occur, of course, in those works which represent thoroughly different conceptions of dogmatics, but minor differences appear even in works which repose on a similar basis. In any case the method and order of treatment are best justified by results and, in order to the best results, should be set forth for the reader at the beginning.
 
 
-### Chapter I — Explanation of Dogmatics (§§ 2-19)
+### Chapter I — Explanation of Dogmatics (§§ 2–19)
 
 Dogmatics is a theological discipline. Its sole use is to serve the interest of the Christian church. This consideration determines for us its peculiar task. Since it presupposes the Christian church, a right apprehension of the church in general and of the character of the Christian church in particular becomes its basis and the touchstone of all that claims a place in it. This being the case, we are not obliged, for example, to derive a doctrine of God, of man, and of last things from universal principles of reason, because these principles have no more relation to the Christian church than to any other form of association among men; but there are three auxiliary sciences whose aid we do need as an introduction to dogmatics: first, ethics, because the idea of the church pertains to this realm, since it denotes a fellowship or association which originates and continues only through free human activities. Second, philosophy of religion, because in defining the term church it is necessary to distinguish the essential and permanent elements, subsisting in religious communions through all the stages of their development, from the individual historical forms in which their common principle may temporarily be embodied, so as to exhibit those elements as constituting the entire manifestation of religion in human nature. (Compare the philosophy of law as an analogous critical discipline.) Third, apologetics, attaching itself to the philosophy of religion in order to describe the peculiar essence of Christianity and its relations to other religious communions. Availing itself of propositions borrowed from these sciences, dogmatics then proceeds to its own peculiar task, though it is to be remembered that the value of the dogmatic does not depend on the correctness of the processes or conclusions adopted in all or any of these three auxiliary sciences (§ 2).
 
@@ -631,7 +631,7 @@ Dogmatics stands in a derivative relation to the Christian religious experience 
 Christian piety expresses itself in the world in a multiplicity of ways, varying with the conditions of human progress in various places and ages. Its nature will, accordingly, be understood with growing perfection, as its expression in the many forms of Christian activity becomes ever more complete. Thus while dogmatics may gather its statement of doctrines from all this ever-varying and ever-growing material, it must itself ever remain incomplete, ever capable of fuller and more accurate expression, and ever in need of new scientific treatment. Dogmatic theology may be defined as "the science of the combination of the doctrines which are valid in a Christian church-communion at a given time." From this, three conclusions may be drawn: (1) No statement of doctrines can be final but Christian dogmatics must be ever progressive; (2) Yet there is a standard for the testing of dogmatical expression the fundamental Christian self-consciousness; (3) The teacher of dogmatics must be in personal possession of the definite Christian consciousness pervading a Christian Church-communion (§§ 15-19).
 
 
-### Chapter II — The Method of Dogmatics (§§ 20-31)
+### Chapter II — The Method of Dogmatics (§§ 20–31)
 
 In a statement of the doctrines of the Christian faith, as has been already pointed out, we cannot begin with some principle externally given and then develop from it by a dialectical process a system of doctrines; but since Christianity is a modification of the self-consciousness, Christian doctrine will be the expression of that self-consciousness and all alleged doctrines of Christianity must be tested by the same. In the course of history a great number of these in a more or less systematic form have already appeared, It is necessary, therefore, to find a rule for the testing of them and then a principle according to which they may be arranged and combined in an articulated system.
 
@@ -674,7 +674,7 @@ Since all Christian piety rests upon the appearing of the Redeemer, nothing that
 We shall treat the historic confessional statements under these three heads and in the order indicated. This order of discussion differs from that which has been the rule among dogmaticians. They have given the question of the being and nature of God the first place in the order of topics, but our method is more in harmony with the requirements of science and the needs of the religious spirit (§§ 27-31).
 
 
-#### I. Unfolding of the Religious Self-consciousness (§§ 32-61)
+#### I. Unfolding of the Religious Self-consciousness (§§ 32–61)
 
 The Christian consciousness presupposes and involves the consciousness of absolute dependence on God. But in that peculiar modification of the religious consciousness which is experienced in Christianity the exaltation of the God-consciousness from a condition of repression to a position of dominancy over all the sensuous impulses is referred to Christ, so that there can be no reference (relation) to Christ in which there is not also a reference to God. The pain which is felt at being unable to realize the supremacy of the God-consciousness is attributed to a want of communion with the Redeemer, while the satisfaction experienced in the opposite state is contemplated as an impartation which has come to us out of this communion; so that there is no religious activity or potency within the Christian communion in which a reference to Christ is not involved.
 
@@ -764,7 +764,7 @@ But besides this inner impulse to arrive at the realization of the God-conscious
 But as to the degree in which the religious consciousness has been developed in particular men, that is a matter for the historian and not for the dogmatician. Accordingly all that dogmatics may predicate of primitive man is: since religion is a necessary and universal element of human nature, it must have existed in primitive man to the extent that he was able to communicate it to posterity. Religion must be as old as the human race. When, however, men speak of an "original righteousness" in Adam, they make the mistake of taking as a type of righteousness a mere original capacity for development out of which no positive gain came to mankind since, according to the common view, that "righteousness" was lost; whereas, the true manifestation of righteousness is to be sought in Christ, in whom it came as a gain to all mankind. Summarily then, original perfection pertains to human nature, in that man possesses the original capacity of connecting all his experiences with God, that he is capable of propagating that same religious attitude to all men, and that all men are consequently capable of receiving it (§§ 57-61).
 
 
-#### Ii. the Antithesis in the Religious Self-consciousness (§§ 62-169)
+#### Ii. the Antithesis in the Religious Self-consciousness (§§ 62–169)
 
 Introductory
 
@@ -779,12 +779,12 @@ Consequently, redemption involves the consciousness of sin and the consciousness
 The framework in which the doctrines of sin and grace are to be exhibited will be the same as in Part I, and for a similar reason.
 
 
-#### I. First Side of the Antithesis: Unfolding of the Consciousness of Sin (§§ 65-84)
+#### I. First Side of the Antithesis: Unfolding of the Consciousness of Sin (§§ 65–84)
 
 If it be attempted to set forth a doctrine of sin in and for itself, such a doctrine could not form a consistent whole with that, already exhibited, of the religious consciousness in general. First, as man's own act it would appear contradictory to the tendency to the development of the God-consciousness as a living impulse in man, and inconsistent with the original perfection of human nature. Second, since in the state of sin a man exists in his place within the world-whole, then sin, as not proceeding from the divine causality, would destroy the unity and integrity of Nature, because it would be an entity existing in opposition to the divine omnipotence. Third, if it be referred to the divine causality, then, that attribute which represents the divine causality in relation to sin must be out of harmony with other divine attributes, and so the unity of the divine nature would be destroyed. Finally, if sin has developed in man on occasion of receiving impressions from the world, the perfection of the world in relation to man is destroyed. If, therefore, we are to avoid both the Manichaean and Pelagian heresies, which in opposite ways denied the reference of sin to the divine causality, the Christian consciousness must be viewed in its unity, and sin must be considered only in reference to redemption, and only so can it have a place in dogmatics.
 
 
-## Section 1 — Sin as the State of Man (§§ 66-74)
+## Section 1 — Sin as the State of Man (§§ 66–74)
 
 The method adopted in this work requires that sin be treated from the standpoint of the personal consciousness. Sin and the consciousness of sin are not to be separated. It is an experience of the God-consciousness being hindered by sensuousness from controlling the activities of life and it is expressed in a feeling of pain, dissatisfaction. But no activities of life, not even those which are governed by the impulses of religion, are without the appearing of sin in consciousness, at least in germ, in some way--warning, presentiment, self-reproof, regret. Ami so we may say that in all the stages of human development, if we except the states of innocency and obduracy, a strife exists between the lower impulses and the higher--a struggle of flesh and spirit against each other.
 
@@ -843,7 +843,7 @@ Similarly the righteousness of God is that attribute which corresponds to our co
 Our exposition brings out the truth that the divine holiness and righteousness cohere but at the same time are differentiated (§§ 84, 85).
 
 
-#### Ii. the Other Side of the Antithesis: Unfolding of the Consciousness of Grace ( 86-169)
+#### Ii. the Other Side of the Antithesis: Unfolding of the Consciousness of Grace ( 86–169)
 
 Introductory
 
@@ -865,7 +865,7 @@ The unfolding of the consciousness of grace in the same framework as was used fo
 In all the various forms of Christianity the fundamental element of every Christian's consciousness of grace is that of fellowship with God only in a life-fellowship with Christ of such a sort that in our need of redemption we are freely receptive to his free self-originated activity in the communication of his absolutely sinless perfection and blessedness. These two elements, Christ's activity and our receptivity thereto, will yield for us a discussion of the manner in which the Redeemer and the redeemed appear in the Christian consciousness of grace, in two divisions. In the first division will appear those propositions concerning Christ which are immediate expressions of this consciousness of grace; and in the second, those propositions which describe the relation between grace and the state of sin in the human soul, as that relation is mediated by Christ.
 
 
-#### First Division: Doctrine of Christ (§§ 92-105)
+#### First Division: Doctrine of Christ (§§ 92–105)
 
 In the doctrine of Christ we may take our starting-point either from his person or from his activity. These are inseparable and each finds in the other its full expression. It is in respect of his work that we treat him as Redeemer; we set him over against all other men in such a way that their conscious blessed relation to God is ascribed solely to him as the author of it and not in any degree to themselves or others. But this is to ascribe an exclusive and absolute dignity to his person. Or, if we regard him as the one in whom the creation of human nature is perfected, we then ascribe to him a quality which is not the product of his environment, or which he owes to the developed insight of those who so regard him, but which, on the contrary, is itself the secret of their personal development. But this is to assign an absolute and exclusive value to his activity. Thus his person and his work correspond in value. We are not to conceive of a dignity of his person which is not fully exhibited in his activity, nor of an exhibition of activity which has its spring in any degree outside of himself. However, in deference to current ecclesiastical formulae, we may treat of his person and of his work separately. Our method will be to exhibit these, first, as related to the individual, and then, as related to the church, which must be the perfect revelation of the worth of the Redeemer, just as the universe is a perfect revelation of the attributes of God.
 
@@ -991,7 +991,7 @@ This activity was exerted upon them prior to their consciousness of redemption, 
 We perceive, then, that the law of self-organization, as it appears in the naturalization of the super natural in Christ, finds its parallel in the communion founded by him. For the incarnation of Christ in relation to human nature in general corresponds to the regeneration of the individual in relation to the whole nature of the individual; so also to sanctification, as the progressive appropriation by Christ of individual functions, corresponds the work of the Christian communion as an organic body which progressively organizes itself and appropriates to itself the mass (i.e., the world) which lies over against it. Three stages in this process may be defined: (1) the origin of the church, or the manner in which the church is builded out of the world; (2) the present existence of the church in antithesis to the world; (3) the removal of this antithesis in the perfection of the church. Though the second is alone present immediately to experience, and therefore constitutes the kernel of this whole section, it will be better to discuss these stages in the historical order.
 
 
-#### First Division: the Origin of the Church (§§ 115-25)
+#### First Division: the Origin of the Church (§§ 115–25)
 
 The character common to all the regenerate is the governing will of the kingdom of God. That will is exerted in two forms, (1) in gaining other individuals and receiving them into the kingdom, (2) in the process of perfecting the work of the kingdom in ourselves and the other members by mutual and complementary activity. But this spatial extension of the kingdom and this co-operative and mutual influence are subject to those circumstances of time and place in which the members of the kingdom find themselves placed. Accordingly, on the one hand, the origin of the church must be viewed in its relation to the divine world-government, because the individuals composing the church are called out of the world; and on the other hand, in relation to the moving, unifying principle which constitutes all the members of the church one moral person. These will be treated under the titles Election, and Communication of the Holy Spirit.
 
@@ -1026,7 +1026,7 @@ The believer is conscious of possessing this spirit with the act of faith in Chr
 Consequently, the life and activity of the church proceeds historically--not in some secret, magical, or mysterious way--from Christ. His incarnation was the naturalization of the supernatural, the union of the divine with human nature. So the communication of the Holy Spirit constitutes the union of the Divine Being with human nature in the form of a common spirit animating the collective life of believers which Christ founded. The operations of the Holy Spirit are not to be found in something outside the Christian church or in some superhuman nature or in some divine power affecting human nature from without; but the Holy Spirit is an actual spiritual force in the souls of believers and must be conceived of as united with the human nature in them, so as to become one with it. Each believer participates in this common spirit, not in his personal self-consciousness regarded by itself alone, but only in so far as he is conscious of his existence in this whole, personal peculiarities being no element in this common consciousness. If then we regard the union of the divine with Christ's human personality as an endowment of human nature in its collective capacity, participation in the Holy Spirit and fellowship of life with Christ are one and the same, reversely contemplated. The Christian church animated by the Holy Spirit is in its purity and perfection the perfect image of the Redeemer, and every regenerated individual is a complementary constituent part of this communion, That is to say that in the Christian church as a collective life, as a moral person, the modes of apprehension and of action are the same as those of the Redeemer because the same human powers are united with the same divine principle. This image, however, appears in its perfection only when we view the human race (with which the church is destined to be identical) apart from sin, and is to be progressively realized. Accordingly, if we contemplate the church's gradual realization of its ideal according to the divine order of its extension and development in the world, we shall see that in its entirety it is at every instant at v the highest stage of perfection possible to it and carries in itself the ground of a highest perfection yet to be attained. This, however, is apprehensible only to faith and is not demonstrable by experience (§§ 121-25).
 
 
-#### Second Division: the Church in Its Coexistence with the World (§§ 126-59)
+#### Second Division: the Church in Its Coexistence with the World (§§ 126–59)
 
 The church is the creation by the Spirit of Christ, out of individuals in the world, of a communion whose common spirit is the same Holy Spirit. Its state of existence in the world must, then, be in analogy with that of the person of Christ. In him the supernatural, the divine, as the abiding self-identical element of his person, united to itself the natural, the human, which was the variable element of his person. So also in its common spirit the church possesses an ever self-identical element, which makes its appearance in a variable element, the world. The church and the world are not to be described as two mutually exclusive entities, as if it sufficed to say that just as the world is not the church, so the church is not the world. Such a view tends to separation and legal righteousness. A better and more adequate statement would be the following: The world is excluded from participation in the church because in itself it is mere nullity and negation--not a self-contained unity, but a manifold of elements temporarily, oppositely, and contingently related. That alone which is permanent in the world is the feeling of the need of help which itself is a product of the Holy Spirit's self-exertion upon the world and is the basis of the church's title to the world.
 
@@ -1107,7 +1107,7 @@ The gradual improvement of the church's doctrine will be a consequence.
 Now the error existing in every part of the church being an error in relation to the truth which it possesses, the degree of error must be gradually diminished, the more the Holy Spirit in the church appropriates the organism of thought in its members. This is wrought out through the influence of the whole church upon the individual members in its public services, and through the influence of all those who are specially endowed with a clear Christian consciousness. We may conclude, therefore, that all error is finally to be banished.
 
 
-#### Third Division: the Perfecting of the Church (§§ 157-63)
+#### Third Division: the Perfecting of the Church (§§ 157–63)
 
 The sufficient ground of the perfecting of the church lies in the Holy Spirit as its common life-principle. That perfection implies, on the one hand, the expansion of Christianity over the whole earth and the disappearance of all other religious communions with their opposing and contaminating influences; and, on the other hand, it implies that the church ceases to take the world into itself. That is to say, that the present increasing conflict with sin which is characteristic of the church militant--owing to the consciousness of sin which is continuously being renewed by the propagation of the race--gives place to that condition in which the church has assimilated the world, that is, the church triumphant.
 

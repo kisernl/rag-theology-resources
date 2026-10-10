@@ -66,7 +66,7 @@ Ezekiel 15:2-4 -- Son of man, What is the vine tree more than any tree? Or than 
 **[18]**The Vain Self Flatteries of the Sinner **[19]**mp3
 
 
-### Psalm 36 — 2 -- For he flattereth himself in his own eyes, until his
+### Ps 36:2 --For he flattereth himself in his own eyes, until his
 
 **[20]**The Future Punishment of the Wicked
 
@@ -95,7 +95,7 @@ Isaiah 32:2 -- And a man shall be as an hiding-place from the wind, and a covert
 **[31]**Pardon for the Greatest Sinners **[32]**mp3
 
 
-### Psalm 25 — 11 -- For thy name's sake, O Lord, pardon my iniquity; for it
+### Ps 25:11 --For thy name's sake, O Lord, pardon my iniquity; for it
 
 **[33]**Pressing Into The Kingdom of God **[34]**mp3
 
@@ -1133,7 +1133,7 @@ Hell, therefore, if you remain unfruitful and cumberers of the ground, will be t
 The Vain Self-Flatteries of the Sinner
 
 
-### Psalm 36 — 2 -- For he flattereth himself in his own eyes, until his iniquity be
+### Ps 36:2 --For he flattereth himself in his own eyes, until his iniquity be
 
 IN the foregoing verse, David says, that the transgression of the wicked said within his heart, "that there is no fear of God before his eyes;" that is, when he saw that the wicked went on in sin, in an allowed way of wickedness, it convinced him, that he was not afraid of those terrible judgments, and of that wrath with which God hath threatened sinners If he were afraid of these he could never go on so securely in sin, as he doth.
 
@@ -2202,7 +2202,7 @@ Here is love for us to admire, for us to praise, and for us to rejoice in, with 
 #### Pardon for the Greatest Sinners
 
 
-### Psalm 25 — 11 -- For thy name's sake, O Lord, pardon my iniquity; for it
+### Ps 25:11 --For thy name's sake, O Lord, pardon my iniquity; for it
 
 IT is evident by some passages in this psalm, that when it was penned, it was a time of affliction and danger with David. This appears particularly by the 15th and following verses: "Mine eyes are ever towards the Lord; for he shall pluck my feet out of the net," etc. His distress makes him think of his sins, and leads him to confess them, and to cry to God for pardon, as is suitable in a time of affliction. See ver. 7. "Remember not the sins of my youth, nor my transgressions;" and verse 18. "Look upon mine affliction, and my pain, and forgive all my sins."
 

@@ -41,7 +41,7 @@ Secondly, What he is, or what she claims of him: That he is a lovely one. The He
 Thirdly, What he is like: He is altogether lovely, the every part to be desired. He is lovely when taken together, and in every part; as if she had said, "Look on him in what respect or particular you wish; cast your eye upon this lovely object, and view him any way, turn him in your serious thoughts which way you wish; consider his person, his offices, his works, or any other thing belonging to him; you will find him altogether lovely, There is nothing disagreeable in him, there is nothing lovely without him." Hence note,
 
 
-### DOCTRINE: That Jesus Christ is the loveliest person souls can set their eyes upon: "Thou art fairer than the children of men." Psalm 45:2
+### DOCTRINE: That Jesus Christ is the loveliest person souls can set their eyes upon: "Thou art fairer than the children of men." Ps 45:2
 
 He is "Altogether Lovely"
 

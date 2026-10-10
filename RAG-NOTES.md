@@ -45,6 +45,7 @@ Controlled values (defined in `.devin/skills/txt-to-md-rag/SKILL.md`):
 | `methodist` | Wesleyan / Methodist / Holiness |
 | `anabaptist` | Anabaptist |
 | `dispensationalist` | Dispensationalist |
+| `restorationist` | Stone-Campbell / Disciples of Christ / Churches of Christ |
 | `liberal-protestant` | Liberal/mainline Protestant |
 | `evangelical` | broad evangelical, when nothing else fits |
 | `other` | catch-all |
@@ -177,40 +178,68 @@ one paragraph in one place — rather than multi-tagging docs:
 
 ## Current corpus distribution
 
-(as of 2026-10-08, 96 docs)
+(as of 2026-10-09, 253 docs — includes the gen-COM commentary batch)
+
+By tradition:
 
 | tradition | count |
 |---|---|
-| reformed | 60 |
-| liberal-protestant | 8 |
-| congregationalist | 5 |
+| reformed | 136 |
+| anglican | 27 |
+| baptist | 22 |
+| congregationalist | 10 |
+| liberal-protestant | 9 |
+| methodist | 6 |
+| medieval | 6 |
+| lutheran | 6 |
+| evangelical | 5 |
+| early-church | 5 |
 | arminian | 5 |
-| medieval | 4 |
-| early-church | 4 |
-| catholic | 3 |
-| methodist | 2 |
-| lutheran | 2 |
-| reformed-baptist | 1 |
-| dispensationalist | 1 |
-| anglican | 1 |
+| restorationist | 4 |
+| dispensationalist | 4 |
+| catholic | 4 |
+| reformed-baptist | 3 |
+| other | 1 |
 
 By genre:
 
 | genre | count |
 |---|---|
-| treatise | 52 |
-| sermon | 10 |
-| devotional | 8 |
+| commentary | 125 |
+| treatise | 61 |
+| sermon | 28 |
+| devotional | 11 |
+| history | 10 |
 | systematic | 7 |
-| history | 7 |
-| commentary | 4 |
+| reference | 4 |
 | catechism | 3 |
 | apologetics | 3 |
 | biography | 1 |
-| reference | 1 |
 
-The corpus is Reformed-heavy and thin on `catholic`, `anglican`,
-`orthodox`, `anabaptist` — likely the next acquisition targets if
-those client traditions are planned. By genre, `commentary`,
-`illustration` (0), `biography`, and `liturgy` (0) are the gaps if the
-pipeline is aimed at sermon preparation.
+Still thin: `catholic` (4), `orthodox` (0), `anabaptist` (0),
+`illustration` (0), `liturgy` (0), `biography` (1).
+
+## gen-COM batch notes (2026-10-09)
+
+- 194 sources fetched; 37 were scan-only editions (image placeholders,
+  no OCR) and were removed — recorded in `fetch_ccel.py` `DUPLICATES`
+  so re-runs skip them. Darby's Synopsis has no plain-text edition.
+- Barnes' individual NT volumes are scan-only, but
+  `barnes-barnes-new-testament-notes` (22MB) contains the whole set.
+- `white-acts-of-the-apostles` (Ellen G. White, SDA) was in the genre
+  list — tagged `other`; remove if unwanted.
+- Heading OSIS normalization: `tools/normalize_headings.py` handles
+  full book names → codes, JFB abbrevs (`Ge 1:1` → `Gen 1:1`), spaced
+  caps (`G E N E S I S` / `M a T T H E W`), `Psalm N — v` → `Ps N:v`,
+  `Book Chapter N` → `Book N`, roman→arabic, en dashes, and book-context
+  tracking for `Chapter N` headings — opt-in per file via `CHAPTER_CTX`
+  (only chapter-by-chapter commentaries: Jamieson, Barnes NT, Henry
+  vols I–VI, Leupold). `tools/tag_frontmatter.py` holds the
+  tradition/genre/covers maps so a reconverted doc can be retagged.
+- Known residual gaps: `gray_jm-cwc` and `henry-concise` keep bare
+  `Chapter N` headings — their book dividers aren't reliably detectable
+  (wrong-book labels are worse than none). `bennett-jeremiah-ii` and
+  similar Expositor's Bible vols use *commentary* chapter numbers that
+  don't equal Bible chapters — covers + inline refs only.
+  Some files carry raw `[N]` footnote leftovers (largest: schaff-psalms
+  1059, smith_ga-isaiah-ii 529, nave 4366 — dictionary entry markers).

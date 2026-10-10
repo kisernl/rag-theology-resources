@@ -90,7 +90,7 @@ There is one thing yet whereof I must advise those readers which are pleased to 
 The Nature and Causes of Apostasy from the Gospel.
 
 
-### Chapter I — The nature of apostasy from the gospel declared, in an exposition of Hebrews vi. 4-6
+### Chapter I — The nature of apostasy from the gospel declared, in an exposition of Hebrews vi. 4–6
 
 Intending an inquiry into the nature, causes, and occasions of the present defection that is in the world from the truth, holiness, and worship of the gospel, I shall lay the foundation of my whole discourse in an exposition of that passage in the Epistle of Paul the apostle unto the Hebrews, wherein he gives an account both of the nature of apostasy and of the punishment due unto apostates; for as this will lead us naturally unto what is designed, so an endeavour to free the context from the difficulties wherewith it is generally supposed to be attended, and to explain the mind of the Holy Ghost therein, may be neither unacceptable nor unuseful. And this is chap. vi. 4-6, whose words are these that follow:--
 

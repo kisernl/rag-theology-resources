@@ -65,6 +65,8 @@ against the checklist at the bottom.
    - `methodist` — Wesleyan/Methodist/Holiness
    - `anabaptist`
    - `dispensationalist`
+   - `restorationist` — Stone-Campbell / Disciples of Christ /
+     Churches of Christ
    - `liberal-protestant`
    - `evangelical` — broad evangelical, when nothing else fits
    - `other`

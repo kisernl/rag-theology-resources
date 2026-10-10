@@ -40,6 +40,11 @@ ALREADY = {
     ('bonar', 'rentveil'):        'bonar-the-rent-veil.txt',
     ('boston', 'crook'):          'boston-crook-in-the-lot.txt',
     ('calvin', 'institutes'):     'calvin-institutes.txt',
+    # gen-COM works already converted under different filenames
+    ('bullinger', 'apocalypse'):  'bullinger-commentary-on-revelation.txt',
+    ('calvin', 'calcom03'):       'calvin-harmony-of-the-law-volume-1.txt',
+    ('calvin', 'calcom05'):       'calvin-harmony-of-the-law-volume-3.txt',
+    ('calvin', 'calcom32'):       'calvin-commentary-on-matthew-mark-luke-volume-2.txt',
 }
 # listed works intentionally excluded (content duplicated elsewhere, or not
 # useful for the RAG corpus)
@@ -51,7 +56,38 @@ DUPLICATES = {
     ('owen', 'poema'): 'single Latin poem',
     ('cranmer', 'necessarydoctrine'): 'partial digitization — only the '
         'justification excerpt (~950 words); removed from corpus',
+    # gen-COM exclusions
+    ('calvin', 'commentaries'): 'meta index for the commentary set — '
+        'individual calcom* volumes are fetched instead',
+    ('brenton', 'lxx2'): 'Bible text (LXX English), not a commentary',
+    ('luther', 'romans_pt'): 'Portuguese — corpus is English-language',
+    # scan-only editions (image placeholders, no OCR text)
+    ('cyril', 'stluke'): 'scan-only edition',
+    ('charles', 'otpseudepig'): 'scan-only edition',
+    ('hastings', 'dictv1'): 'scan-only edition',
+    ('wigram', 'greekcon'): 'scan-only edition',
+    ('oehler', 'ot_theol'): 'scan-only edition',
+    ('scrivener', 'ntcrit1'): 'scan-only edition',
+    ('scrivener', 'ntcrit2'): 'scan-only edition',
+    ('hoskier', 'codexb1'): 'scan-only edition',
+    ('hoskier', 'codexb2'): 'scan-only edition',
+    ('pusey', 'prophets1'): 'scan-only edition',
+    ('pusey', 'prophets2'): 'scan-only edition',
+    ('cook_fc', 'exod_ruth'): 'scan-only edition',
+    ('cook_fc', '1sam'): 'scan-only edition',
+    ('cook_fc', 'provez'): 'scan-only edition',
+    ('spurgeon', 'treasury3'): 'scan-only edition',
+    ('spurgeon', 'treasury4'): 'scan-only edition',
+    ('spurgeon', 'treasury5'): 'scan-only edition',
+    ('spurgeon', 'treasury6'): 'scan-only edition',
 }
+# Barnes' individual Notes volumes are all scan-only; the NT set is also
+# contained whole in barnes/ntnotes (which IS digitized)
+for _w in ('epc', 'hebrews', '1cor', '2cor', 'james', 'luke', 'matthew',
+           'rev', 'romans', 'tttp', 'acts', 'job1', 'daniel1', 'daniel2',
+           'isaiah1', 'isaiah2', 'psalms1', 'psalms2', 'psalms3'):
+    DUPLICATES[('barnes', _w)] = ('scan-only edition; NT vols duplicated '
+                                  'in barnes-ntnotes')
 
 
 def fetch(url):

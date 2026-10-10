@@ -58,7 +58,7 @@ Translated by Fathers of the English Dominican Province
 Acknowledgment: This digital file was produced through the kindness of Sandra K. Perry, Perrysburg, Ohio.
 
 
-## First Part (fp: Qq 1-119)
+## First Part (fp: Qq 1–119)
 
 
 ### Treatise on Sacred Doctrine(q)
@@ -5833,7 +5833,7 @@ There is some truth in both of these opinions; because when a person is describe
 The answers to the objections appear from the above.
 
 
-### Treatise on the Creation (qq 44-46)
+### Treatise on the Creation (qq 44–46)
 
 
 #### The Procession of Creatures from God, and of the First Cause of All Things (four Articles)
@@ -26405,7 +26405,7 @@ In this way also is to be understood the saying of Anselm, wherefore the Reply t
 **Reply to Objection 3:** The child that is beginning to have the use of reason can refrain from other mortal sins for a time, but it is not free from the aforesaid sin of omission, unless it turns to God as soon as possible. For the first thing that occurs to a man who has discretion, is to think of himself, and to direct other things to himself as to their end, since the end is the first thing in the intention. Therefore this is the time when man is bound by God's affirmative precept, which the Lord expressed by saying (Zech. 1:3): "Turn ye to Me . . . and I will turn to you."
 
 
-### Treatise on Law (qq 90-108)
+### Treatise on Law (qq 90–108)
 
 
 #### Of the Essence of Law (four Articles)

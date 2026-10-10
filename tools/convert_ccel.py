@@ -101,6 +101,10 @@ OVERRIDES = {
                      (r'^\s{0,3}\d+\.\d+\s+', 3)],
         'bracket_enum': True,
     },
+    'watson-beatitudes-an-exposition-of-matthew-5-1-12.txt': {
+        'head_res': [(r'^\d+\.\s+[A-Z]', 2)],
+        'bracket_enum': True,
+    },
     'chesterton-heretics.txt': {
         'head_res': [(r'^\s{0,4}(?:[IVX]{1,6})\.\s+\S', 2)],
     },
@@ -136,10 +140,22 @@ OVERRIDES = {
         'caps_level': 3,
         'lone': ['INTRODUCTORY'],
     },
+    'calvin-commentary-on-matthew-mark-luke-volume-1.txt': {
+        'caps_level': 2,
+        'body_sep': 3,
+        'head_res': [(r'^\s*(?i:matthew|mark|luke|john)\s+\d+:\d+'
+                      r'(?:\s*-\s*\d+)?\s*\.?\s*$', 3)],
+    },
     'calvin-commentary-on-matthew-mark-luke-volume-2.txt': {
         'caps_level': 2,
         'body_sep': 3,
         'head_res': [(r'^\s*(Matthew|Mark|Luke|John)\s+\d+:\d+'
+                      r'(?:\s*-\s*\d+)?\s*\.?\s*$', 3)],
+    },
+    'calvin-commentary-on-matthew-mark-luke-volume-3.txt': {
+        'caps_level': 2,
+        'body_sep': 3,
+        'head_res': [(r'^\s*(?i:matthew|mark|luke|john)\s+\d+:\d+'
                       r'(?:\s*-\s*\d+)?\s*\.?\s*$', 3)],
     },
     'calvin-harmony-of-the-law-volume-1.txt': {
@@ -148,11 +164,31 @@ OVERRIDES = {
         'head_res': [(r'^\s*(?:EXODUS|LEVITICUS|NUMBERS|DEUTERONOMY|GENESIS)'
                       r'\s+\d+\s*$', 2)],
     },
+    'calvin-harmony-of-the-law-volume-2.txt': {
+        'caps_level': 3,
+        'body_sep': 2,
+        'head_res': [(r'^\s*(?i:exodus|leviticus|numbers|deuteronomy'
+                      r'|genesis)\s+\d+:\d+(?:[-,]\s*\d+)*\s*$', 3),
+                     (r'^\s*(?i:exodus|leviticus|numbers|deuteronomy'
+                      r'|genesis)\s+\d+\s*$', 2)],
+    },
     'calvin-harmony-of-the-law-volume-3.txt': {
         'caps_level': 3,
         'body_sep': 2,
         'head_res': [(r'^\s*(?:EXODUS|LEVITICUS|NUMBERS|DEUTERONOMY|GENESIS)'
                       r'\s+\d+\s*$', 2)],
+    },
+    'calvin-harmony-of-the-law-volume-4.txt': {
+        'caps_level': 3,
+        'body_sep': 2,
+        'head_res': [(r'^\s*(?i:exodus|leviticus|numbers|deuteronomy'
+                      r'|genesis)\s+\d+:\d+(?:[-,]\s*\d+)*\s*$', 3),
+                     (r'^\s*(?i:exodus|leviticus|numbers|deuteronomy'
+                      r'|genesis)\s+\d+\s*$', 2)],
+    },
+    'ryle-expository-thoughts-on-matthew.txt': {
+        'head_res': [(r'^\s*Matthew\s+\d+:\d+(?:\s*-\s*\d+)?\s*$', 3),
+                     (r'^\s*Matthew\s+\d+\s*$', 2)],
     },
     'schmid-doctrinal-theology.txt': {
         'loose_defs': True,
@@ -168,6 +204,76 @@ OVERRIDES = {
     },
     'edwards-select-sermons.txt': {
         'bracket_enum': True,
+    },
+    # gen-COM batch: Expositor's Bible vols and others whose sections are
+    # marked by a bare roman numeral line (title block follows)
+    'dods-expositor-s-bible-the-book-of-genesis.txt': {
+        'head_res': [(r'^\s*[IVXL]+\.\s*$', 2)],
+    },
+    'dods-expositor-s-bible-the-gospel-of-st-john-volume-ii.txt': {
+        'head_res': [(r'^\s*[IVXL]+\.\s*$', 2)],
+    },
+    'ball-expositor-s-bible-the-prophecies-of-jeremiah-volume-i.txt': {
+        'head_res': [(r'^\s*[IVXL]+\.\s*$', 2)],
+    },
+    'bennett-expositor-s-bible-the-book-of-jeremiah-volume-ii.txt': {
+        # INDEX sits between preface and body — skip it, don't end on it
+        'front_index': True,
+        'head_res': [(r'^\s*[IVXL]+\.\s*$', 2)],
+    },
+    'gibson-expositor-s-bible-the-gospel-of-st-matthew.txt': {
+        'head_res': [(r'^\s*[IVXL]+\.\s*$', 2)],
+    },
+    'jowett-epistles-of-st-peter.txt': {
+        'head_res': [(r'^\s*[IVXL]+\.\s*[\d,.\s\u2013-]+\.?\s*$', 3)],
+    },
+    'watson_ra-expositor-s-bible-judges-and-ruth.txt': {
+        'head_res': [(r'^\s*[IVXL]+\.\s*$', 2)],
+    },
+    'watson_ra-expositor-s-bible-the-book-of-numbers.txt': {
+        # bare roman numeral section markers (II, III, …) without a period
+        'head_res': [(r'^\s*[IVXL]+\.?\s*$', 2)],
+    },
+    'mcgarvey-commentary-on-acts-of-the-apostles.txt': {
+        # section markers are centered "Acts I", "Acts II", … lines
+        'head_res': [(r'^\s*Acts\s+[IVXLC]+\s*$', 3)],
+    },
+    'maclaren-expositor-s-bible-colossians-and-philemon.txt': {
+        'head_res': [(r'^\s*[IVXL]+\.\s*$', 2)],
+    },
+    'tischendorf-origin-of-the-four-gospels.txt': {
+        'head_res': [(r'^\s*[IVXL]+\.\s*$', 2)],
+    },
+    # Maclaren Expositions: sermon titles are standalone caps lines
+    'maclaren-expositions-of-holy-scripture-deuteronomy-joshua-judges-ruth-and-first-book-of-samuel-second-samuel-first-kings-and-second-kings-chapters.txt': {
+        'caps_level': 2,
+    },
+    'maclaren-expositions-of-holy-scripture-ezekiel-daniel-and-the-minor-prophets-and-matthew-chaps-i-to-viii.txt': {
+        'caps_level': 2,
+    },
+    'maclaren-expositions-of-holy-scripture-genesis-exodus-leviticus-and-numbers.txt': {
+        'caps_level': 2,
+    },
+    'maclaren-expositions-of-holy-scripture-isaiah-and-jeremiah.txt': {
+        'caps_level': 2,
+    },
+    'maclaren-expositions-of-holy-scripture-mark.txt': {
+        'caps_level': 2,
+    },
+    'maclaren-expositions-of-holy-scripture-matthew-ix-to-xviii.txt': {
+        'caps_level': 2,
+    },
+    'maclaren-expositions-of-holy-scripture-st-john-ch-i-to-xiv.txt': {
+        'caps_level': 2,
+    },
+    'maclaren-expositions-of-holy-scripture-st-john-chs-xv-to-xxi.txt': {
+        'caps_level': 2,
+    },
+    'maclaren-expositions-of-holy-scripture-the-acts.txt': {
+        'caps_level': 2,
+    },
+    'maclaren-expositions-of-the-holy-scriptures-second-kings-from-chap-viii-and-chronicles-ezra-and-nehemiah-esther-job-proverbs-and-ecclesiastes.txt': {
+        'caps_level': 2,
     },
 }
 
@@ -308,10 +414,25 @@ def convert(src_path, report_only=False):
     raw = open(src_path, encoding='utf-8').read().split('\n')
     meta = parse_header(raw)
     elems = blocks_of(raw)
+
+    # 'front_index': a INDEX block placed before the body — drop the whole
+    # run (INDEX block through the blocks up to the next ___ separator)
+    # and don't let it trigger end-of-document detection
+    idx_skip = set()
+    if OVERRIDES.get(src_path.name, {}).get('front_index'):
+        for i, (k, *rest) in enumerate(elems):
+            if k == 'block' \
+                    and joined(rest[0]).strip().rstrip(':') == 'INDEX':
+                j = i
+                while j < len(elems) and elems[j][0] != 'sep':
+                    idx_skip.add(j)
+                    j += 1
+                break
+
     # find body end (Indexes / References / license line)
     end_i = len(elems)
     for i, (k, *rest) in enumerate(elems):
-        if k != 'block':
+        if k != 'block' or i in idx_skip:
             continue
         t0 = joined(rest[0])
         if t0 in END_MARKERS or t0.startswith('This document is from the '
@@ -428,7 +549,7 @@ def convert(src_path, report_only=False):
     pending = None          # (level, label) awaiting a title block
     for i, (k, *rest) in enumerate(elems):
         if k == 'sep' or i in def_blocks or i <= body_start \
-                or i in toc_skip:
+                or i in toc_skip or i in idx_skip:
             continue
         lines = rest[0]
         t = joined(lines)

@@ -2,6 +2,7 @@
 title: "An Inquiry into the Original, Nature, Institution, Power, Order,"
 author: "John Owen"
 tradition: "reformed"
+genre: "treatise"
 edition: "The Banner of Truth Trust, Edinburgh, 1965, 1968."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

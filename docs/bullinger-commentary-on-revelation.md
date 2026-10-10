@@ -2,6 +2,8 @@
 title: "Commentary on Revelation"
 author: "E.W. Bullinger"
 tradition: "dispensationalist"
+genre: "commentary"
+covers: ["Rev"]
 edition: "F.H. Revell, 1909"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
@@ -1105,7 +1107,7 @@ Seven past phases of Israel's history
 are referred to in these Epistles: and the literary order in Revelation corresponds with, and answers to, the historical order in the Old Testament.
 
 
-### Ephesus
+### Rev 2:1–11 — Ephesus
 
 In the Epistle to the Assembly at Ephesus, the reference is to Exodus: to God's love in choosing them out of Egypt, and them making them a nation. See Hos. xi. 1: "When Israel was a child, then I loved him, and called my son out of Egypt." In Jer. ii. 2 we see this "first love," which Jehovah calls "the love of thine espousals." And in Ezek. xvi. we have a full description of the workings and outcome of this "first love." The whole of Ezek. xvi. must be read with Ex. xix. 4-6. It is this "first love" which Israel is here charged with having "left." This is the beginning of all the subsequent evil.
 
@@ -1140,7 +1142,7 @@ And what is this or any such period to do with the Church of God, which has noth
 It is quite probable that the time referred to here may that of Matt. xxiv. 9, 10, and Isa. lxvi. 5.
 
 
-### Pergamos
+### Rev 2:12–17 — Pergamos
 
 In Pergamos we have the reference to Balaam, which will have its counterpart in a yet future day.
 
@@ -1155,7 +1157,7 @@ It is clear, therefore, that that special feature of idolatry connected with Bal
 And, as, upon this great evil the special judgment of the "sword" was sent and executed (Num. xxxi. 1-15), so here. He who speaks to the same People of the same evil, speaks also of the same judgment, "I will fight against them with the sword of my mouth" (Rev. ii. 16), which threat will be carried out in chap. xix. 21. This is why we have that special mention of the "sharp sword," describing the speaker in ii. 12, referring to the same feature of the Vision as seen in i. 16.
 
 
-### Thyatira
+### Rev 2:18–3:6 — Thyatira
 
 In the Epistle to Thyatira we have the reference to another and more intensified form of idolatry as developed and established in the days of Ahab, king of Israel; another who, like Balaam, "made Israel to sin" (1 Kings xvi. 30).
 
@@ -1188,7 +1190,7 @@ Indeed, the prophecy of Deut. xxix. 20 is fulfilled, not only as to the individu
 It is in this Epistle, next in order (to the assembly at Sardis) that we have the reference to this silence, in the promise to the few names of such as have not defiled their garments: "He that overcometh... I will not blot out his name out of the book of life, but I will confess his name before my Father and before his Angels" (Rev. iii. 5).
 
 
-### Philadelphia
+### Rev 3:7–13 — Philadelphia
 
 We have had two references to Israel's history, and now we are to have two references to Judah's, and these refer, not any more to failure, sin and judgment; but to the hope of restoration and blessing.
 
@@ -1221,7 +1223,7 @@ We are taken right on, beyond Jerusalem and its Temple, to the days of final ble
 When this is exactly what is promised in Rev. iii. 12, "I will write upon him my new name," it is difficult to understand how such a promise could ever have been diverted from Israel to the Church: taken away from what it is directly associated with; and applied to that with which it has no connection whatsoever.
 
 
-### Laodicea
+### Rev 3:14–22 — Laodicea
 
 We reach, in this last Epistle, the lowest point of Judah's degradation, in that long line of departure from God, from the day Israel left her "first love," even the day of her espousals, when brought forth out of Egypt, down, down through one vast scene of idolatry and judgment, until we find that nation described in the Epistle to the Assembly in Laodicea in a condition of spiritual destitution such as characterised the People in the period of the Minor Prophets.
 
@@ -1274,7 +1276,7 @@ We have seen enough in the consideration of this fourteenth point to furnish us 
 The same is seen when we look at our last point, viz., the order of the promises contained in these Epistles.
 
 
-### The Promises to the Seven Assemblies
+### Rev 2–3 — The Promises to the Seven Assemblies
 
 As we have seen that the references to the Old Testament in the seven Epistles correspond with the historical order of the events, so it is with respect to the promises contained in these Epistles. The literary order follows the historical order.
 
@@ -1315,7 +1317,7 @@ This is because the first three are connected, by reference, to what is written 
 Let us look at these Promises in order.
 
 
-### The First
+### Rev 2:7 — The First
 
 refers to Genesis ii., the promise being, "I will give to eat of the tree of life, which is in the midst of the paradise of God" (Rev. ii. 7).
 
@@ -1328,12 +1330,12 @@ Only in Israel's restoration can the way to the "Tree of Life" be restored.
 Sovereignty and government on the earth is the great subject of the Apocalypse; therefore the promise goes back to the point where sovereignty was ignored and government was overthrown. This becomes the starting-point. That is why the cherubim reappear in the Apocalypse, intimately associated with this work of restoration of Divine Government on the earth. their song is of "creation" (Rev. iv. 11). Their likeness is to creation. Their song is of the redemption of Israel (not their own. See the notes on them in chap. iv. and v.).
 
 
-### The Second
+### Rev 2:10–11 — The Second
 
 refers to Genesis iii., the promise being "Be thou faithful unto death, and I will give thee the crown of life." "He that overcometh shall not be hurt of the second death" (ii. 10, 11). The reference is to Genesis iii., where death first enters. But the promise goes beyond this; for it relates not merely to the death which came in with sin, but to the "second death," which is revealed in Rev. xx. 14; xxi. 8.
 
 
-### The Third
+### Rev 2:17 — The Third
 
 refers to Exodus. The promise is, "I will give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth, saving he that receiveth it" (ii. 17).
 
@@ -1348,7 +1350,7 @@ Besides these stones there were the stones of the "Urim and Thummin," of which l
 Here, amid their scenes of trial and tribulation, when God's people will find themselves in another wilderness, they are reminded, by this Exodus-promise, of Jehovah's presence with them; and of the blessed fact that He has their names in remembrance; that His love is everlasting; that His strength is almighty, and able to nourish them when their enemies might prevail and human resources fail.
 
 
-### The Fourth
+### Rev 2:26–28 — The Fourth
 
 refers to the books of Numbers and Samuel. The promise is, "to him will give power over the nations: And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers; even as I received of my Father. And I will give him the morning star" (Rev. ii. 26-28).
 
@@ -1369,7 +1371,7 @@ The promise is given in this fourth Epistle, because the prophecy of Numbers xxi
 In Rev. ii. 26-28 the time is at hand for the fulfilment of it. Hence the promise is repeated; and in chap. xx. 4 we see it accomplished; for the "morning star" shall then have risen (Rev. xxii. 16), and the prophecy of Psalm ii. shall be fulfilled.
 
 
-### The Fifth
+### Rev 3:5 — The Fifth
 
 refers again to the times of David -- not the beginning of his reign, but to the end of it.
 
@@ -1406,7 +1408,7 @@ The other names are duly confessed.
 The scene is unspeakably solemn; and has, by application, a warning voice for all. But, by interpretation, it comes with special force in this promise to the Assembly at Sardis, and refers to the fulfilment of Matt. x. 32, 33 and Luke xii. 8, 9. "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven. But whosoever shall deny me before men, him will I also deny before my Father which is in heaven." Thus this promise refers not only to that solemn past scene in Israel's history, but is shown to be closely connected with the Four Gospels, and points on to the scenes of final judgment and glory in connection with David's Lord, and "a greater than Solomon."
 
 
-### The Sixth
+### Rev 3:12 — The Sixth
 
 refers to Solomon, as does the seventh (Laodicea). In the former the reference is to the "Temple" and to the "City;" while, in the latter, it is to the "Throne."
 
@@ -1441,7 +1443,7 @@ Ezekiel (chap. xiii.) also addresses Israel; but as he speaks not of promises an
 The promise in Rev. iii. 12 refers to the New Jerusalem (chap. xxi. and xxii.). If the city of David and Solomon was such that "glorious things" were spoken of it as "the city of God," what will be the glories of that city which "cometh down out of heaven from my God"? And what will be the blessing of Zion and Jerusalem when, as written in Isa. lxii. 1, "the righteousness thereof shall go forth as brightness and the salvation thereof as a lamp that burneth"? Then it is that the promise is given, "Thou shalt be called by a new name, which the mouth of the Lord shall name." (Compare Isa. lx 14). In Isa. lxii. 4 and 12 we have further instruction as to this "new name" referred to in Rev. iii. 12.
 
 
-### The Seventh
+### Rev 3:21 — The Seventh
 
 refers to the throne, of which Solomon's was in every respect the ideal type.
 
@@ -2840,7 +2842,7 @@ John sees it all, of course, "in Heaven," but what he saw (vi. 1- vii. 8) "in He
 This is the first Vision of what will take place "on Earth" in "the day of the Lord." The great subject is
 
 
-### The Opening of the Six Seals
+### Rev 6:1–17 — The Opening of the Six Seals
 
 For the Six Seals are separated off from the seventh in a remarkable manner; as though to point out to us that the seventh is not immediately consecutive on the sixth, as the other seals are consecutive one on the other.
 
@@ -3731,7 +3733,7 @@ In the chapters immediately following (chaps. xi. -- xviii.) these prophecies ar
 The contrast also with the historical interpretation is very clear. The angel here descends. This, we are asked to believe, is the "sun of righteousness rising over Europe." The cry like a lion is, we are told, "the preaching of Luther." But others tell us it was the Papal Bulls: others, that it was the "shout of the Wittenbergers when Luther burnt the Pope's Bull." But these voices and thunders came from heaven. They do not come from Rome, nor were they made in Germany. John was commanded to "seal up" what he heard; Luther made it known. We need not go further. The bare statement of such wild extravagancies are their own, sufficient and best, refutation.
 
 
-### The Two Witnesses
+### Rev 11:1–14 — The Two Witnesses
 
 y., xi. 1-14. The Two Witnesses. o^1., xi. 1, 2. The Measuring of the Temple.
 
@@ -3914,7 +3916,7 @@ The Third Vision "In Heaven"
 H3, xi. 15-19-.
 
 
-### The Sounding of the Seventh Trumpet
+### Rev 11:15–18:24 — The Sounding of the Seventh Trumpet
 
 The Seventh Trumpet brings us back to Heaven and to the Third Vision seen there by John. For it is "in heaven" that the Trumpet is sounded.
 
@@ -4211,7 +4213,7 @@ Satan's object, from the going forth of that prophecy, was to prevent that "seed
 He has used, of course, various instruments and agents, and while these have had their own respective objects and motives, Satan's object has been one -- and one only -- and this has formed
 
 
-### The Great Conflict of the Ages
+### Rev 12:1–17 — The Great Conflict of the Ages
 
 We see the first great attempt in Gen. vi. 2, when Satan strove to corrupt the whole of mankind. He succeeded so far, that only one family was uncontaminated. That is the meaning of the "perfect in his generation" in Gen. vi. 9. (...) (tahmim) means without blemish, especially as to pure descent, or blood (Ex. xii. 5; xxix. 1, etc.). It refers to genital perfection.  [fn. 262: "generation" is not the same word rendered "generations" in the former part of the verse. Here i means contemporaries; there it means family history.] So vast was the corruption from the irruption of evil angels (2 Pet. ii. 4-7. Jude 6-8), that the whole race had to be destroyed. Noah and his three sons were alone pure from the awful defilement.  [fn. 263: If so, and his sons married the fearful progeny, we have a sidelight on the diversity of the great races, though originally descended from a single pair.]
 
@@ -5539,7 +5541,7 @@ The seventh head can be no person or king that has ever yet existed on the earth
 The "Kingdoms" and the "Kings," in Dan. and Apoc.:
 
 
-### "kingdoms"
+### Rev 17:9–12 — "kingdoms"
 
 "HEADS" or "KINGS"
 
@@ -6320,7 +6322,7 @@ Each of these five Scriptures has its own peculiar Structure, which we propose t
 The following is the Structure of
 
 
-### The First Judgment
+### Rev 19:17–21 — The First Judgment
 
 A1, xix. 17-21. The Judgment of the Beast and the False Prophet.
 
@@ -6359,7 +6361,7 @@ They will have come up from the Abyss; and they are still found alive in the lak
 Thus ends the first of these final five judgments.
 
 
-### The Second Judgment
+### Rev 20:1–3 — The Second Judgment
 
 The outcome of the first of these final five judgments is the binding of Satan. The judgment of the Beast and the False Prophet and their Confederacy is not enough. He who was planned all, and used all for the accomplishment of his purposes, must now be dealt with. The chief instigator of all the evil must now be deprived of all further opportunity of attempting to frustrate the counsels and purposes of God. He has been cast out of heaven: he must now be cast out of the earth.
 
@@ -6400,7 +6402,7 @@ If the year-day theory is to be consistently held, then we have a period of at l
 After the 1,000 years Satan "must be loosed a little season." The consideration of why this "must be" we will defer till we come to verse 7. Meantime, the Structure binds us consider first the blessedness of the Millennial state on earth.
 
 
-### The Third Judgment
+### Rev 20:4–6 — The Third Judgment
 
 The third, or central judgment of the last five differs from the two that precede and follow it, in that it is a judgment of vindication and award, and not of condemnation and punishment.
 
@@ -6511,7 +6513,7 @@ The latter is the subject we have before us now, and the first resurrection has 
 It is again affirmed that those who have part in the "first resurrection" will have this blessedness for the thousand years. During that time they live and reign with Christ. How "principles" can do this (as some teach) we are at a loss to understand! How the "memory" and the "character" of the saints can reign over the Gentiles is a still greater mystery, and we must leave the difficulty with those who create it, and "give it up." Man may say they reign "as if they were martyrs raised from the dead." The Word says that they will be actually raised, and will actually reign. They do not "live again" "spiritually," or "in their successors." Those who were beheaded are the same as those who reign; and how "principles" or "character" can be beheaded we have yet to learn.
 
 
-### The Fourth Judgment
+### Rev 20:7–10 — The Fourth Judgment
 
 We come now to the fourth of these final five judgments. The third-- central one-- differs (as we have seen) in character from the others. It is a judgment which vindicates and rewards those who are the subjects of it. The others are all for condemnation and judgment.
 
@@ -6626,7 +6628,7 @@ H. xx. 10. Satan Cast into the Lake of Fire.
 This is reason of Satan's hatred of this book of the Revelation. It is the book which tells of his doom; as Genesis foretells it (Gen. iii. 15). That lake of fire was prepared for him and his angels (Matt. xxv. 41). His dupes are devoured by fire from above; he is to be tormented by fire from beneath.
 
 
-### The Fifth Judgment
+### Rev 20:11–15 — The Fifth Judgment
 
 We now come to the last of these final five judgment scenes-- of the Great White Throne. This is not a "general judgment." That fact that there are five judgments recorded in this last Vision on Earth shows, not only that the expression "general" is foreign to Scripture, but that such a judgment is unknown. As to the Church, if it can be called a "judgment" at all, the Church has already passed through hers as to service and works (not as to standing, of course), according to 2 Cor. v. 10, and Rom. xiv. 10, where wrong service will be "made manifest," and rewards will be "received" at the Bema of Christ. The third of these five judgments is that of the Overcomers, who, like the Church, will be vindicated and rewarded.
 
@@ -6843,7 +6845,7 @@ Here, in Rev. xxi., we have the New Heaven and the New Earth; we have the Twelve
 In harmony also with this is the teaching of
 
 
-### Ephesians V. 25-33
+### Eph 5:25–33
 
 Christians, in their selfishness, intrude themselves into the place of others as the Bride, and thus lose the blessed enjoyment of their own place which is theirs as part of the Bridegroom!
 
@@ -7030,7 +7032,7 @@ The word "servants" (verse 3) tells us that the church of God is not here. They 
 This is the brief summary of the New Heavens and the New Earth; of Paradise regained; of the Holy City, and its inhabitants; and all the people of the New Earth. More is said below.
 
 
-## The Conclusion
+## Rev 22:6–21 — The Conclusion
 
 A. xxii. 6-21. The Conclusion of the Whole Book.
 

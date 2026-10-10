@@ -2,6 +2,7 @@
 title: "A Discourse on the Cleansing Virtue of Christ's Blood"
 author: "Stephen Charnock"
 tradition: "reformed"
+genre: "sermon"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

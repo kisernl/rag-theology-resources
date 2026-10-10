@@ -2,6 +2,7 @@
 title: "A Discourse concerning Evangelical Love, Church Peace, and Unity"
 author: "John Owen"
 tradition: "reformed"
+genre: "treatise"
 edition: "Edinburgh: The Banner of Truth Trust, 1965."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

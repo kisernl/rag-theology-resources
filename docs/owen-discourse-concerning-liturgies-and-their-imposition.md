@@ -2,6 +2,7 @@
 title: "A Discourse Concerning Liturgies, and their Imposition"
 author: "John Owen"
 tradition: "reformed"
+genre: "treatise"
 edition: "The Banner of Truth Trust, Edinburgh, 1965."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

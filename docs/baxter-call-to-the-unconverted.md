@@ -2,6 +2,7 @@
 title: "A Call to the Unconverted to Turn and Live"
 author: "Richard Baxter"
 tradition: "reformed"
+genre: "treatise"
 edition: "York: Wilson, Spence, and Mawman, 1795"
 source: "https://ccel.org/ccel/baxter/unconverted"
 ---

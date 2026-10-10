@@ -12,15 +12,18 @@ Every `docs/*.md` file carries YAML front matter:
 title: "..."
 author: "..."
 tradition: "reformed"    # single value — see vocabulary
+genre: "treatise"        # single value — see vocabulary
+covers: ["Rev"]          # commentaries only — OSIS books/ranges
 translator: "..."        # optional
 edition: "..."           # optional
 source: "..."
 ---
 ```
 
-**`tradition` is always a single string.** We deliberately did NOT make
-it a list. The field answers "what *is* this work?" — the question of
-"who should *see* it?" belongs to the retrieval filter, not the doc.
+**`tradition` and `genre` are always single strings.** We deliberately
+did NOT make them lists. These fields answer "what *is* this work?" —
+the question of "who should *see* it?" belongs to the retrieval
+filter, not the doc.
 
 ## Tradition vocabulary
 
@@ -63,6 +66,47 @@ Controlled values (defined in `.devin/skills/txt-to-md-rag/SKILL.md`):
    `reformed-baptist`, not `["reformed", "baptist"]`. If a new
    straddler appears, extend the vocabulary rather than multi-tagging.
 
+## Genre vocabulary
+
+| value | meaning |
+|---|---|
+| `systematic` | systematic / dogmatic theologies |
+| `treatise` | focused theological monographs, works collections |
+| `commentary` | scripture commentaries — see `covers` below |
+| `sermon` | sermons & sermon collections (incl. discourses) |
+| `devotional` | meditations, prayers, practical piety |
+| `catechism` | catechisms & catechism expositions |
+| `history` | church history, history of doctrine |
+| `biography` | lives, autobiographies, memoirs |
+| `apologetics` | apologetic works |
+| `illustration` | sermon illustration collections |
+| `letters` | correspondence collections |
+| `liturgy` | prayer books, liturgies, orders of service |
+| `reference` | bibliographies, dictionaries, guides |
+| `other` | catch-all |
+
+Genre calls on fuzzy cases follow "tag what the work *is*": Charnock's
+and Flavel's published discourses are `sermon` (preached), Baxter's
+evangelistic books are `treatise` (written as books), *Confessions* is
+`biography`, Spurgeon's commentary guide is `reference`.
+
+## Scripture references (commentaries)
+
+For `genre: "commentary"` docs, pericope-level metadata is the most
+valuable retrieval signal for sermon prep ("what do commentators say
+on Romans 8:28?"). Convention:
+
+- Doc-level: `covers: [...]` — OSIS book codes or ranges for the whole
+  volume (`["Rev"]`, `["Matt 13–28"]`, `["Exod", "Lev", "Num",
+  "Deut"]`). Book-granular is fine when exact ranges aren't known.
+- Section-level: headings for commented passages carry the range in
+  OSIS form — `### Rom 8:18–25`, optionally with the book's own title
+  after an em dash (`### Rom 8:18–25 — Future Glory`).
+- At ingest, the splitter parses headings and attaches a
+  `scripture_refs` list to each chunk. Agents can then query
+  `scripture_refs intersects "Rom 8"` — plan the DB schema for
+  per-chunk ref arrays, not just doc-level `covers`.
+
 ## Retrieval model
 
 **Embeddings do the finding; `tradition` only does the excluding.**
@@ -87,6 +131,28 @@ FILTERS = {
 
 (Tune per client — e.g. whether `arminian`/`finney` belongs in a
 Reformed client's visible set is a product decision.)
+
+Genre filters compose with tradition filters: an illustration agent
+uses `genre: "illustration"`, a commentary agent uses
+`genre: "commentary"` + `scripture_refs intersects <passage>`, a
+"models of preaching" agent uses `genre: "sermon"`.
+
+### Filtering posture
+
+Genre is **opt-in**, not a default gate. Metadata never affects
+embedding similarity — it only excludes. So:
+
+- Default queries run unfiltered by genre (client tradition filter
+  only).
+- Apply a genre filter only when the query clearly targets a genre —
+  and use inclusive sibling lists: "preaching models" →
+  `["sermon", "devotional"]`; "doctrinal depth" → `["systematic",
+  "treatise", "catechism", "commentary"]`.
+- Fallback: if a genre-filtered query returns thin results, retry
+  without it. Granular tags can always be unioned; false exclusion is
+  the failure mode to avoid.
+- Inject `author`/`genre`/`tradition` into chunk context headers at
+  ingest so agents see provenance in unfiltered results too.
 
 ## If agents generate filters dynamically
 
@@ -128,6 +194,23 @@ one paragraph in one place — rather than multi-tagging docs:
 | dispensationalist | 1 |
 | anglican | 1 |
 
+By genre:
+
+| genre | count |
+|---|---|
+| treatise | 52 |
+| sermon | 10 |
+| devotional | 8 |
+| systematic | 7 |
+| history | 7 |
+| commentary | 4 |
+| catechism | 3 |
+| apologetics | 3 |
+| biography | 1 |
+| reference | 1 |
+
 The corpus is Reformed-heavy and thin on `catholic`, `anglican`,
 `orthodox`, `anabaptist` — likely the next acquisition targets if
-those client traditions are planned.
+those client traditions are planned. By genre, `commentary`,
+`illustration` (0), `biography`, and `liturgy` (0) are the gaps if the
+pipeline is aimed at sermon preparation.

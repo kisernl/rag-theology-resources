@@ -2,6 +2,7 @@
 title: "Gospel Grounds and Evidences of the Faith of God's Elect"
 author: "John Owen"
 tradition: "reformed"
+genre: "treatise"
 edition: "The Banner of Truth Trust, Edinburgh, 1965."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

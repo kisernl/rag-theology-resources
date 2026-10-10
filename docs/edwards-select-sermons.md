@@ -2,6 +2,7 @@
 title: "Select Sermons"
 author: "Jonathan Edwards"
 tradition: "reformed"
+genre: "sermon"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

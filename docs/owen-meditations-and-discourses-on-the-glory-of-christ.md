@@ -2,6 +2,7 @@
 title: "Meditations and Discourses on the Glory of Christ"
 author: "John Owen"
 tradition: "reformed"
+genre: "devotional"
 edition: "The Banner of Truth Trust, Edinburgh, 1965."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

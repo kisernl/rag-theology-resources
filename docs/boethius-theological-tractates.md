@@ -2,6 +2,7 @@
 title: "The Theological Tractates"
 author: "Boethius (Anicius Manlius Severinus)"
 tradition: "early-church"
+genre: "treatise"
 translator: "H. F. Stewart and E. K. Rand"
 edition: "Loeb Classical Library. London: Heinemann; New York: Putnam's, 1918"
 source: "https://ccel.org/ccel/boethius/tracts"

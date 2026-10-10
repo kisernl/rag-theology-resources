@@ -2,6 +2,7 @@
 title: "The Nature, Power, Deceit, and Prevelancy of the Remainders of"
 author: "John Owen"
 tradition: "reformed"
+genre: "treatise"
 edition: "The Banner of Truth Trust, Edinburgh, 1967."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

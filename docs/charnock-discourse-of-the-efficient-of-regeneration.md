@@ -2,6 +2,7 @@
 title: "A Discourse of the Efficient of Regeneration"
 author: "Stephen Charnock"
 tradition: "reformed"
+genre: "sermon"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

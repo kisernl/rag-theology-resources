@@ -2,6 +2,7 @@
 title: "Systematic Theology [1878]"
 author: "Charles Grandison Finney"
 tradition: "arminian"
+genre: "systematic"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

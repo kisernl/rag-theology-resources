@@ -2,6 +2,7 @@
 title: "A Brief Instruction in the Worship of God"
 author: "John Owen"
 tradition: "reformed"
+genre: "treatise"
 edition: "The Banner of Truth Trust, Edinburgh, 1965."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

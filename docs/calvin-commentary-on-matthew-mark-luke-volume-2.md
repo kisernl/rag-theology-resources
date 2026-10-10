@@ -2,6 +2,8 @@
 title: "Commentary on Matthew, Mark, Luke - Volume 2"
 author: "John Calvin"
 tradition: "reformed"
+genre: "commentary"
+covers: ["Matt", "Mark", "Luke"]
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 
@@ -211,10 +213,10 @@ source: "Christian Classics Ethereal Library (CCEL)"
   - Luke 19:41-44
   - Luke 19:41-44
 
-## Mark 6:12-13; Luke 9:6
+## Mark 6:12–13; Luke 9:6
 
 
-### Mark 6:12-13
+### Mark 6:12–13
 
 
 ### Luke 9:6
@@ -228,13 +230,13 @@ Mark 6:12. And they departed, and preached. Matthew silently passes over what th
 The only matter that requires exposition here is the fact related by Mark, that they anointed with oil many diseased persons Christ having conferred on them the power of healing, it is asked, why did they apply oil? Some learned persons suppose that it was a sort of medicine; and I acknowledge that in these countries the use of oil was very common. But nothing is more unreasonable than to imagine, that the Apostles employed ordinary and natural remedies, which would have the effect of obscuring the miracles of Christ. They were not instructed by our Lord in the art and science of healing, but, on the contrary, were enjoined to perform miracles which would arouse all Judea. I think, therefore, that this anointing was a visible token of spiritual grace, by which the healing that was administered by them was declared to proceed from the secret power of God; for under the Law oil was employed to represent the grace of the Spirit. The absurdity of an attempt to imitate the Apostles, by making the anointing of the sick a perpetual ordinance of the Church, appears from the fact, that Christ bestowed on the Apostles the gift of healing, not as an inheritance which they should hand down to posterity, but as a temporary seal of the doctrine of the Gospel. In our own day, the ignorance of the Papists is exceedingly ridiculous in maintaining that their nasty unction,  [fn. 3: The allusion is to extreme unction, (or last anointing,) which is one of the Seven Sacraments recognized by the Church of Rome. -- Ed.] by which they hurry to the grave persons who are fast dying, is a Sacrament.
 
 
-## Matthew 11:1-6; Luke 7:18-23
+## Matt 11:1–6; Luke 7:18–23
 
 
-### Matthew 11:1-6
+### Matt 11:1–6
 
 
-### Luke 7:18-23
+### Luke 7:18–23
 
 **1.** And it happened that when Jesus had made an end of commanding his twelve disciples,  [fn. 4: "Quand Iesus eut acheve de donner mandemens a ses douze disciples;" -- "when Jesus had finished giving injunctions to his twelve disciples."] he departed thence to teach and to preach in their cities. 2. Now when John had heard in the prison the works of Christ, he sent two of his disciples, 3. And said to him, Art thou he who was to come, or do we look for another? 4. And Jesus answering said to them, Go and relate to John those things which you hear and see. 5. The blind receive their sight, and the lame walk; the lepers are cleansed, and the deaf hear; the dead are raised up, and the poor receive the message of the Gospel.  [fn. 5: "Et l'Evangile est annonce aux poures;" -- "and the Gospel is preached to the poor."] 6. And blessed is he who shall not be offended at me.
 
@@ -259,13 +261,13 @@ rock of offense and stone of stumbling, by which many fall, (1 Peter 2:8.)
 This happens, no doubt, through our own fault, but that very fault is remedied, when he pronounces those to be blessed who shall not be offended in him; from which too we infer, that unbelievers have no excuse, though they plead the existence of innumerable offenses. For what hinders them from coming to Christ? Or what drives them to revolt from Christ? It is because he appears with his cross, disfigured and despised, and exposed to the reproaches of the world; because he calls us to share in his afflictions; because his glory and majesty, being spiritual, are despised by the world; and in a word, because his doctrine is totally at variance with our senses. Again, it is because, through the stratagems of Satan, many disturbances arise, with the view of slandering and rendering hateful the name of Christ and the Gospel; and because every one, as if on purpose, rears up a mass of offenses, being instigated by not less malignity than zeal to withdraw from Christ.  [fn. 7: "Pource que tous non seulement sont bien aises de se retirer de Christ, mais aussi tachent malicieusement d'entrouver les moyens;" -- "because not only are all strongly disposed to withdraw from Christ, but they even endeavor maliciously to discover the means of doing so."]
 
 
-## Matthew 11:7-15; Luke 7:24-28
+## Matt 11:7–15; Luke 7:24–28
 
 
-### Matthew 11:7-15
+### Matt 11:7–15
 
 
-### Luke 7:24-28
+### Luke 7:24–28
 
 **7.** And as they were departing, Jesus began to say to the multitudes concerning John, What went you out into the wilderness to see? A reed, which is shaken by the wind? 8. But what went you out to see? A man clothed in soft raiment?  [fn. 8: "Un homme vestu de precieux vestemens?" -- "A man clothed with costly garments?"] Lo, they who wear soft clothing are in the houses of kings. 9. But what went you out to see? A Prophet? Yea, I say to you, and higher than a Prophet. 10. For this is he of whom it is written, Lo, I send my messenger before thy face, who will prepare the way before thee. 11. Verily, I say to you, Among those who are born of women, there hath not arisen a greater than John the Baptist: yet he who is least in the kingdom of heaven is greater than he. 12. And from the days of John the Baptist to this day, the kingdom of heaven suffereth violence, and the violent take it by force. 13. For all the Prophets and the Law itself prophesied until John. 14. And if you are willing to receive it,  [fn. 9: "Si vous le voulez recevoir, ou, et si vous voulez recevoir mon dire;" -- "if you are willing to receive it, or, and if you are willing to receive my saying."] he is Elijah, who was to come. 15. He that hath ears to hear, let him hear.
 
@@ -299,10 +301,10 @@ Matthew 11:13. All the Prophets and the Law itself Prophesied. The word prophesi
 MATTHEW 11:16-19; Luke 7:29-35
 
 
-### Matthew 11:16-19
+### Matt 11:16–19
 
 
-### Luke 7:29-35
+### Luke 7:29–35
 
 **16.** But to what shall I compare this generation? It is like children, who sit in the market-place, and call out to their companions, 17. And say, We have played on the flute to you, and you have not danced; we have sung mournful airs to you, and you have not lamented. 18. For John came neither eating nor drinking, and they say, He hath a devil. 19. The Son of man came eating and drinking, and they say, Lo, a man who is a glutton and a wine-bibber,  [fn. 19: "Gourmand et; yvrongne;" -- "a glutton and a drunkard."] a friend to publicans and sinners; and Wisdom is justified by her children.
 
@@ -333,10 +335,10 @@ Some interpret it more harshly, and with greater excess of freedom, to mean that
 I have not yet brought forward that meaning which appears to my own mind the most appropriate and natural. First, the words of Christ contain an implied contrast between true children and bastards, who hold but an empty title without the reality; and they amount to this: "Let those who haughtily boast of being the children of Wisdom proceed in their obstinacy: she will, notwithstanding, retain the praise and support of her own children. Accordingly, Luke adds a term of universality, by all her children; which means, that the reluctance of the scribes will not prevent all the elect of God from remaining steadfast in the faith of the Gospel. With respect to the Greek word apo, it undoubtedly has sometimes the same meaning as hupo. Not to mention other instances, there is a passage in Luke's Gospel, (17:25,) where Christ says, that he must suffer many things, kai apodokimasthonai apo tos geneas tautes, and be rejected By this generation. Everybody will admit, that the form of expression is the same as in the corresponding clause.  [fn. 28: "On void bien que la ce mot De se rapporte a la personne qui fait, et non pas a celuy qui souffre;" -- "It is very evident that the word By relates to the person that acts, and not to him who suffers."] Besides, Chrysostom, whose native language was Greek, passes over this matter, as if there were no room for debate. Not only is this meaning more appropriate, but it corresponds to a former clause, in which it was said, that God was justified by the people, (v. 29.) Although many apostates may revolt from the Church of God, yet, among all the elect, who truly belong to the flock, the faith of the Gospel will always remain uninjured.
 
 
-### Luke 10:1-12
+### Luke 10:1–12
 
 
-### Luke 10:1-12
+### Luke 10:1–12
 
 **1.** And after these things the Lord appointed other seventy also, and sent them two by two before his face into every city and place, to which he was to come 2. He said, therefore to them, The harvest is indeed abundant, but the laborers are few; pray ye, therefore, the Lord of the harvest to send out the laborers into his harvest 3. Go: behold, I send you as lambs among wolves. 4. Carry neither purse, nor bag nor shoes, and salute no man by the way. 5. Into whatsoever house you shall enter, first say, Peace be to this house. 6. And if the son of peace will remain upon it: but if not, it will return to you. 7. And remain in the same house eating and drinking those things which shall be given by them;  [fn. 29: "Mangeans et beuvans de ce qui sera mis devant vous;" -- "eating and drinking of what shall be set before you."] for the laborer is worthy of his hire. Go not from house to house. 8. And into whatsoever city you shall enter, and they shall receive you, eat those things which are set before you: 9. And cure the diseased who are in it, and say to them, The kingdom of God is nigh to you. 10. And in whatsoever city you shall enter, and they shall not receive you, go out into its streets and say, 11. Even the dust, which has cleaved to us from your city, we wipe off against you: yet know this, that the kingdom of God is nigh to you. 12. I say to you, That in that day it will be more tolerable for Sodom than for that day.
 
@@ -355,10 +357,10 @@ Christ does not intend that his disciples shall be so unkind  [fn. 34: "Si inhum
 matthew 11:20-24; luke 10:13-16
 
 
-### Matthew 11:20-24
+### Matt 11:20–24
 
 
-### Luke 10:13-16
+### Luke 10:13–16
 
 **20.** Then he began to upbraid the cities, in which most of his mighty works were done, because they had not repented of crimes: 21. Woe to thee, Chorazin! woe to thee, Bethsaida! for if the mighty works, which have been done in you, had been done in Tyre and Sidon, they would have repented of their crimes long ago in sackcloth and ashes. 22. But I say to you, It will be more tolerable for Tyre and Sidon  [fn. 36: "Que Tyr et Sidon seront plus doucement traittez;" -- "that Tyre and Sidon will be treated more gently."] in the day of judgment than for you. 23. And thou, Capernaum, which art exalted even to heaven shall be cast down even to hell; for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day. 24. But I say to you, That it will be more tolerable for the land of Sodom  [fn. 37: "Que ceux de Sodome seront traittez plus doucement;" -- "that those of Sodom will be treated more gently."] in the day of judgment than for thee.
 
@@ -389,10 +391,10 @@ This is a remarkable commendation  [fn. 49: "C'est donc une louange et recommend
 He that despiseth you despiseth me; and he that despiseth me despiseth him that sent me. Those who disdain to listen to ministers, however mean and contemptible they may be, offer an insult, not to men only, but to Christ himself, and to God the Father. While a magnificent eulogium is here pronounced on the rank of pastors, who honestly and faithfully discharge their office, it is absurd in the Pope and his clergy to take this as a pretense for cloaking their tyranny. Assuredly, Christ does not speak in such a manner, as to surrender into the hands of men the power which the Father has given him, but only to protect his Gospel against contempt. Hence it follows, that he does not transfer to the persons of men the honor which is due to himself, but only maintains that it cannot be separated from his Word. If the Pope wishes to be received, let him bring forward the doctrine by which he may be recognized as a minister of Christ; but so long as he continues to be what he now is, a mortal enemy of Christ, and destitute of all resemblance to the Apostles, let him cease to deck himself with borrowed feathers.
 
 
-### Luke 10:17-20
+### Luke 10:17–20
 
 
-### Luke 10:17-20
+### Luke 10:17–20
 
 **17.** And the seventy returned with joy, saying, Lord, even the devils are subject to us in thy name.  [fn. 50: "Par ton Nom;" -- "by thy Name."] 18. And he said to them, I beheld Satan falling from heaven like lightning. 19. Lo, I give you power to tread on serpents and scorpions, and on all the power of the enemy, and nothing shall hurt you. 20. Nevertheless, rejoice not in this, that the spirits are subject to you; but rejoice, because your names are written in heaven.
 
@@ -409,10 +411,10 @@ Hence we infer, that our deliverance from the bondage of Satan is effected in no
 Matthew 11:25-30; Luke 10:21-22
 
 
-### Matthew 11:25-30
+### Matt 11:25–30
 
 
-### Luke 10:21-22
+### Luke 10:21–22
 
 **25.** At that time Jesus answering said, I acknowledge to thee,  [fn. 56: "Ie te ren graces;" -- "I give thee thanks."] O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them to little children. 26. Undoubtedly, O Father, such was thy good pleasure.  [fn. 57: "Il est ainsi, Pere, pourtant que ton bon plaisir a este tel;" -- "it i so, O Father, because thy good pleasure was such."] 27. All things have been delivered to me by my Father; and none knoweth the Son but the Father; and none knoweth the Father but the Son, and he to whom the Son has chosen to reveal him.  [fn. 58: "Le Fils le vent reveler, ou, donner a cognoistre;" --"the Son chooses to reveal him, or, to make him known."] 28. Come to me, all that labor and are burdened, and I will relieve you. 29. Take my yoke upon you, and learn of me, that I am meek and lowly in heart, and you shall find rest in your souls. 30. For my yoke is easy, and my burden is light.
 
@@ -459,13 +461,13 @@ Learn of me It is a mistake, I think, to suppose that Christ here assures us of 
 Matthew 12:1-8; Mark 2:23-28; Luke 6:1-5
 
 
-### Matthew 12:1-8
+### Matt 12:1–8
 
 
-### Mark 2:23-28
+### Mark 2:23–28
 
 
-### Luke 6:1-5
+### Luke 6:1–5
 
 **1.** At that time Jesus was passing through the corn-fields on the Sabbath;  [fn. 73: "Un iour du Sabbath;" -- "on a Sabbath-day."] and his disciples were hungry, and began to pluck the ears of corn, and to eat. 2. But when the Pharisees saw it, they said to him, Lo, thy disciples do what it is not lawful to do on the Sabbath. 3. But he said to them, Have you not read what David did, when he was hungry, and those who were with him? 4. How he entered into the house of God, and ate the shew-bread, which it was not lawful for him to eat, nor for those who were with him, but for the priests alone? 5. Or have you not read in the Law, that on the Sabbath the priests in the temple profane the temple, and are free from blame?  [fn. 74: "Et n'en sont point reprehensibles;" -- "and are not blameable for it."] 6. But I say to you, That one greater than the temple is in this place. 7. But if you knew what that is, I choose mercy, and not sacrifice, you would not have condemned the innocent. 8. For the Son of man is Lord even of the Sabbath.
 
@@ -504,13 +506,13 @@ Mark 2:27. The Sabbath was made for man. This Fifth argument is related by Mark 
 Matthew 12:9-13; Mark 3:1-5; Luke 6:6-10
 
 
-### Matthew 12:9-13
+### Matt 12:9–13
 
 
-### Mark 3:1-5
+### Mark 3:1–5
 
 
-### Luke 6:6-10
+### Luke 6:6–10
 
 **9.** And having departed thence, he came into their synagogue: 10. And, lo, there was a man having a withered hand, and they asked him, saying, Is it lawful to heal on the Sabbaths? that they might accuse him. 11. But he said to them, What man shall there be among you who shall have one sheep, and if it fall on the Sabbath into a ditch, will not lay hold on it, and lift it out? 12. How much more then is a man better than a sheep? Therefore it is lawful to do well on the Sabbaths. 13. Then he saith to the man, Stretch out thy hand. And he stretched it out, and it was restored to soundness like the other.
 
@@ -533,10 +535,10 @@ Mark 3:5. And when he had looked around upon them with indignation To convince u
 Matthew 12:14-21; Mark 3:6-12; Luke 6:11
 
 
-### Matthew 12:14-21
+### Matt 12:14–21
 
 
-### Mark 3:6-12
+### Mark 3:6–12
 
 
 ### Luke 6:11
@@ -590,13 +592,13 @@ The example of Christ instructs all his ministers in what manner they ought to c
 Matthew 12:22-24; Mark 3:20-22; Luke 11:14-15
 
 
-### Matthew 12:22-24
+### Matt 12:22–24
 
 
-### Mark 3:20-22
+### Mark 3:20–22
 
 
-### Luke 11:14-15
+### Luke 11:14–15
 
 **22.** Then was brought to him one who was tormented by a devil, blind and dumb; and he cured him, so that the blind and dumb person both spoke and saw. 23. And all the multitudes were astonished, and said, Is not this the son of David? 24. But when the Pharisees heard it, they said, This man doth not cast out devils but by Beelzebub prince of the devils.
 
@@ -625,13 +627,13 @@ Matthew 12:22. Then was brought to him. Luke explains from the effect, that the 
 Matthew 12:25-32; Mark 3:23-30; Luke 11:16-23; 12:10
 
 
-### Matthew 12:25-32
+### Matt 12:25–32
 
 
-### Mark 3:23-30
+### Mark 3:23–30
 
 
-### Luke 11:16-23
+### Luke 11:16–23
 
 **25.** But as Jesus knew their thoughts, he said to them,  [fn. 108: "Mais Iesus, cognoissant leurs pensees, leur dit;" -- "but Jesus, knowing their thoughts, said to them."] Every kingdom divided against itself shall be laid waste; and every city or house divided against itself shall not stand. 26. And if Satan casteth out Satan, he is divided against himself, and how then shall his kingdom stand? 27. And if I, by the assistance of Beelzebub, cast out devils, by whose assistance do your children cast them out? therefore they shall judge concerning you.  [fn. 109: "Parquoy iceux seront vos iuges;" -- "therefore they shall be your judges."] 28. But if by the Spirit of God I cast out devils, then the kingdom of God has come to you. 29. Otherwise, how can a man enter into the house of a strong man, and pillage his property, unless he first bind the strong man, and then he will pillage his house? 30. He that is not with me is against me; and he that gathereth not with me scattereth. 31. Therefore I say to you, All sin and blasphemy  [fn. 110: "Toute sorte de peche et blaspheme;" -- "every description of sin and blasphemy."] shall be forgiven to men; but the blasphemy against the Spirit shall not be forgiven to men. 32. And whosoever shall speak a word against the Son of man, it shall be forgiven him; but he who shall speak against the Holy Spirit, it shall not be forgiven him, neither in the present life nor in the future.
 
@@ -691,10 +693,10 @@ From all that has been said, we may conclude that those persons sin and blasphem
 With regard to the inference drawn by the Papists, that the sins of men are forgiven after death, there is no difficulty in refuting their slander. First, they act foolishly in torturing the expression, future life, to mean an intermediate period, while any one may perceive that it denotes "the last judgment." But it is likewise a proof of their dishonesty; for the objection which they sophistically urge is inconsistent with their own doctrine. Who knows not their distinction, that sins are freely pardoned in respect of guilt, but that punishment and satisfaction are demanded? This is an acknowledgment, that there is no hope of salvation to any one whose guilt is not pardoned before death. To the dead, therefore, there remains no forgiveness, except as regards punishment; and surely they will not venture to deny that the subject of this discourse is guilt. Let them now go and light their fire of purgatory with these cold materials, if ice can kindle a flame.  [fn. 133: "Voire s'i1 est possible de tant souffler la glace, qu'on la face flamber;" -- "that is, if it be possible to blow upon the ice in such a manner as to produce a flame."]
 
 
-## Matthew 12:33-37
+## Matt 12:33–37
 
 
-### Matthew 12:33-37
+### Matt 12:33–37
 
 **33.** Either make the tree good, and its fruit good: or make the tree bad, and its fruit bad; for the tree is known by the fruit. 34. Offspring of vipers, how can you speak what is good, when you are bad? for out of the abundance of the heart the mouth speaketh. 35. A good man, out of the good treasure of his heart, bringeth forth what is good, and a bad man, out of the bad treasure, bringeth forth what is evil. 36. But I say to you, That men will give account, at the day of judgment, for every idle word which they shall have spoken. 37. For by thy words thou shalt be justified, and by thy words thou shalt be condemned.
 
@@ -719,10 +721,10 @@ Now since no man is so cautious in speech, or maintains such a wise restraint up
 Matthew 12:43-45; Luke 11:24-26
 
 
-### Matthew 12:43-45
+### Matt 12:43–45
 
 
-### Luke 11:24-26
+### Luke 11:24–26
 
 **43.** But when the unclean spirit hath gone out of a man, he walketh through dry places, seeking rest, and findeth it not. 44. Then he saith, I will return to my house, whence I came out; and coming, he findeth it empty, and swept, and embellished. 45. Then he goeth away, and taketh with him seven other spirits more wicked than himself; and entering, he dwelleth there: and the last state of that man is worse than the first.  [fn. 143: "La fin de cest homme est pire que le commencement;" -- "the end of that man is worse than the beginning."] So shall it be also to this wicked generation.
 
@@ -749,13 +751,13 @@ yet we are plainly taught by these words of Christ, that Satan views with deeper
 MATTHEW 12:46-50; Mark 3:31-35; Luke 11:27-28; 8:19-21
 
 
-### Matthew 12:46-50
+### Matt 12:46–50
 
 
-### Mark 3:31-35
+### Mark 3:31–35
 
 
-### Luke 11:27-28
+### Luke 11:27–28
 
 **46.** And while he was still talking to the multitudes, lo, his mother and his brethren stood without, desiring to speak to him. 47. And one said to him, Lo, thy mother and thy brethren stand without, desiring to speak to thee. 48. But he answering said to him who had told him, Who is my mother, or who are my brethren? 49. And stretching out his hand toward his disciples, he said, Lo, my mother and my brethren. 50. For whosoever shall do the will of my Father who is in heaven, he is my brother, and sister, and mother.
 
@@ -764,7 +766,7 @@ MATTHEW 12:46-50; Mark 3:31-35; Luke 11:27-28; 8:19-21
 **27.** And it happened while he was saying these things, a certain woman from among the multitude, raising her voice, said to him, Blessed is the womb that bore thee, and the breasts which thou hath sucked. 28. but he said, Nay, rather, blessed are they that hear the word of God, and keep it.
 
 
-### Luke 8:19-21
+### Luke 8:19–21
 
 **19.** And his mother and his brethren came to him, and could not reach him on account of the crowd. 20. And it was related and told him, Thy mother and thy brethren stand without, desiring to see thee. 21. Who answering said to them, My mother and my brethren are those who hear the word of God, and do it.  [fn. 153: "Mais luy respondant leur dit, Ceux-la sont ma mere et mes freres, qui oyent la parole de Dieu, et la mettent en effect;" -- "but he answering said to them, Those are my mother and my brethren, who hear the word of God, and put it in practice."]
 
@@ -791,7 +793,7 @@ Although these words seem to imply that Christ has no regard to the ties of bloo
 Matthew 12:38-42; Luke 11:16, 29-32
 
 
-### Matthew 12:38-42
+### Matt 12:38–42
 
 Luke 11:16, 29-32
 
@@ -816,7 +818,7 @@ Matthew 12:41. The men of Nineveh will rise in judgment. Having spoken of the Ni
 Matthew 13:1-17; Mark 4:1-12, 24-25; Luke 8:1-10, 18; 10:23-24
 
 
-### Matthew 13:1-17
+### Matt 13:1–17
 
 Mark 4:1-12, 24-25
 
@@ -829,7 +831,7 @@ Luke 8:1-10, 18
 **1.** And it happened afterwards, and he was traveling through each city and village,  [fn. 171: "Il alloit de ville en ville, et de village en village;" -- "he was going from town to town, and from village to village."] preaching and proclaiming the glad tidings of the kingdom of God; and the twelve were with him, 2. And likewise some women, who had been cured of evil spirits and diseases, Mary, who is called Magdalene, out of whom had gone seven devils, 3. And Joanna, the wife of Chuza, Herod's steward, and Susanna, and many others, who assisted him out of their property 4. And while a very great multitude was assembling, and while they were crowding to him out of each city, he said by a parable: 5. One who sowed went out to sow his seed, and while he was sowing, some fell near the road, and the fowls of heaven ate it up. 6. And some fell on a rock, and when it was sprung up, it withered, because it hath not moisture. 7. And some fell among thorns, and the thorns springing up along with it, choked it. 8. And some fell on a good soil, and, springing up, produced fruit a hundred-fold. Saying these things, he exclaimed, He that hath ears to hear, let him hear. 9. And his disciples asked him, saying, What was this parable?  [fn. 172: "Et ses disciples l'interroguerent, dema, dans quelle estoit ceste similitude;" -- "and his disciples interrogated him, asking what was this parable."] 10. But he said, To you it is given to know the mysteries  [fn. 173: "De cognoistre les secrets;" -- "to know the secrets."] of the kingdom of God, but to the rest by parables; that seeing, they may not see, and hearing, they may not understand. -- (A little after,) 18. Consider then how you hear. For whosoever hath, it shall be given to him; and whosoever hath not, even that which he thinketh that he hath shall be taken from him.
 
 
-### Luke 10:23-24
+### Luke 10:23–24
 
 **23.** And turning to his disciples, he said to them privately, Blessed are the eyes that see the things which you see. 24. For I say to you, That many prophets and kings have desired to see the things which you see, and have not seen them; and to hear the things which you hear, and have not heard them.
 
@@ -910,13 +912,13 @@ Luke 10:24. Many Prophets and Kings have desired to see. The condition of the Ch
 MATTHEW 13:18-23; Mark 4:13-20; Luke 8:11-15
 
 
-### Matthew 13:18-23
+### Matt 13:18–23
 
 
-### Mark 4:13-20
+### Mark 4:13–20
 
 
-### Luke 8:11-15
+### Luke 8:11–15
 
 **18.** Hear therefore the parable of the sower. 19. When any one heareth the word of the kingdom, and understandeth not, that wicked one cometh, and taketh away what was sown in the heart. This is he who received seed near the road. 20. But he that received the seed thrown into stony places, is he that heareth the word, and immediately receiveth it with joy: 21. But hath not root in himself, but is of short duration: when affliction or persecution ariseth on account of the word, immediately he is offended. 22. And he that received the seed among thorns is he that heareth the word, and the care of this life, and the deceitfulness of riches, choke the word, and it becometh unfruitful. 23. But he who receiveth seed into a good soil is he that heareth the word and understandeth it, and who afterwards yieldeth and produceth fruit,  [fn. 193: "Celuy qui oit la Parole, et l'entend, a scavoir celuy qui porte et produit fruict;" -- "he who heareth the word, and understandeth it, that is he who beareth and produceth fruit."] some a hundred-fold, some sixty-fold, and some thirty-fold.
 
@@ -995,13 +997,13 @@ The kingdom of the Father, as the inheritance of the godly, is contrasted with t
 Matthew 13:31-35; Mark 4:26-34; Luke 13:18-22
 
 
-### Matthew 13:31-35
+### Matt 13:31–35
 
 
-### Mark 4:26-34
+### Mark 4:26–34
 
 
-### Luke 13:18-22
+### Luke 13:18–22
 
 **31.** He delivered another parable to them, saying, The kingdom of heaven is like a grain of mustard, which a man took and sowed in his field: 32. Which indeed is the least of all seeds: but when it is grown up, it is the largest among herbs,  [fn. 220: "Il est plus grand que les autres herbes;" -- "it is larger than the other herbs."] and becometh a tree, so that the fowls of heaven come and make their nests among its branches. 33. He spake another parable to them: The kingdom of heaven is like leaven, which a woman took and hid among three measures of meal, till the whole was leavenened. 34. All these things Jesus spoke in parables to the multitudes, and without a parable he spoke nothing to them. 35. That it might be fulfilled which was spoken by the prophet, who saith, I will open my mouth in parables; I will utter things which have been hidden from the foundation of the world.
 
@@ -1036,10 +1038,10 @@ Now though Matthew seems to allude to the word parable, he undoubtedly means, th
 Luke 13:22. Journeying towards Jerusalem. It is uncertain whether Luke speaks only of one journey, or means that, while Christ walked throughout Judea, and visited each part of it for the purpose of teaching, he was wont to go up to Jerusalem at the festivals. The former clause, certainly, appears to describe that course of life which Christ invariably pursued, from the time that he began to discharge the office which had been committed to him by the Father. To make the latter clause agree with this, the meaning will be, that, when the festivals were at hand, he attended, along with others,  [fn. 226: "Sa coustume estoit de se trouver;" -- "his custom was to be present."] the holy assemblies.
 
 
-### Matthew 13:44-52
+### Matt 13:44–52
 
 
-### Matthew 13:44-52
+### Matt 13:44–52
 
 **44.** Again, the kingdom of heaven is like a treasure hid in a field, which when found a man hideth,  [fn. 227: "Que quelqu'un a trouve et cache;" -- "which some one hath found and hidden."] and for the joy which he hath on account of it, goeth away, and selleth all that he hath, and buyeth that field. 45. Again, the kingdom of heaven is like a merchant, seeking beautiful pearls,  [fn. 228: "Qui cherche de bonnes perles;" -- "who seeks good pearls."] 46. Who, having found one valuable pearl, went away, and sold all that he possessed, and bought it. 47. Again, the kingdom of heaven is like a net east into the sea, and collecting of every kind,  [fn. 229: "De toutes sortes de choses;" -- "of all sorts of things."] 48. Which, when it was full, they drew to shore, and sat down, and collected the good into vessels, but cast away the bad.  [fn. 230: "Lequel estant plein, les pescheurs' le tirent en haut sur la rive: et estant assis mettent le bon a part en leurs vaisseaux, et iettent hors ce qui ne vaut rien;" -- "which being full, the fishers' draw it upwards on the bank; and sitting down, put the good aside in their vessels, and throw away what is worth nothing."] 49. So shall it be at the end of the world: the Angels will come, and will separate the bad from the midst of the righteous, 50. And will cast them into a furnace of fire: there shall be lamentation and gnashing of teeth. 51. Jesus saith to them, Have you understood all these things? They say to him, Yes, Lord. 52. But he said to them, Therefore every scribe instructed in reference to the kingdom of heaven  [fn. 231: "Quant au royaume des cieux;" -- "as to the kingdom of heaven."] is like a householder, who bringeth forth out of his treasure things new and old.
 
@@ -1070,7 +1072,7 @@ and, therefore, recommends to us discipline; but he permits hypocrites to remain
 LUKE 7:36-50
 
 
-### Luke 7:36-50
+### Luke 7:36–50
 
 **36.** And one of the Pharisees requested him to take food with him; and he entered into the house of the Pharisee, and sat down at table. 37. And, lo, a woman in the city, who was a sinner, when she knew that he sat at table in the house of the Pharisee, brought an alabaster box of ointment:  [fn. 236: "Or voyci il y avoit une femme de la ville qui avoit este de mauvaise vie, laquelle ayant cognu qu'il estoit assis a table en la maison du Pharisien, apporta une boiste d'ongnement;" -- "but, lo, there was a woman of the city who was of wicked life, who, having learned that he sat at table in the house of the Pharisee, brought a box of ointment."] 38. And sitting at his feet behind him, and weeping, she began to wash his feet with tears, and wiped them with the hairs of her head, and kissed his feet, and anointed them with ointment.  [fn. 237: "Et les frottoit d'ongnement;" -- "and rubbed them with ointment."] 39. And the Pharisee, who had invited him, seeing it, said, speaking within himself, If this man were a Prophet, he would certainly know who and what sort of woman this is that toucheth him; for she is a sinner.  [fn. 238: "Car elle est de mauvaise vie;" -- "for she is of wicked life."] 40. And Jesus answering, said to him, Simon, I have something to say to thee. And he said, Master, say on. 41. A certain creditor had two debtors: one owed five hundred pence, and another fifty. 42. And when they had nothing to pay, he forgave them both. Tell me then, which of them will love him more? 43. Simon answering said, I suppose that it will be he to whom he forgave more. And he said to him, Thou hast decided aright. 44. And turning to the woman, he said to Simon, Seest thou this woman? I entered into thy house, thou gavest not water for my feet; but she hath moistened my feet with tears, and wiped them with the hairs of her head. 45. Thou gavest me not a kiss; but she, since the time that I entered, hath not ceased to kiss my feet. 47. For which reason I say to thee, Her many sins are forgiven, for she hath loved much; but he to whom less is forgiven loveth less. 48. And he said to her, Thy sins are forgiven thee. 49. And those who sat at table with him began to say within themselves, Who is this that even forgiveth sins? 50. And he said to the woman, Thy faith hath saved thee; go in peace.
 
@@ -1101,10 +1103,10 @@ The verb, which is in the present tense, must, no doubt, be resolved into a pret
 **50.** Thy faith hath saved thee. To repress those murmurings,  [fn. 251: "Pour reprimer les murmures de ces gens;" -- "to repress the murmurings of those people."] and, at the same time, to confirm the woman, Christ commends her faith. Let others grumble as they may, but do thou adhere steadfastly to that faith which has brought thee an undoubted salvation.  [fn. 252: "Qui t'a apporte certitude de salut;" -- "which has brought thee certainty of salvation."] At the same time, Christ claims for himself the authority which had been given to him by the Father; for, as he possesses the power of healing, to him faith is properly directed. And this intimates that the woman was not led by rashness or mistake to come to him, but that, through the guidance of the Spirit, she had preserved the straight road of faith. Hence it follows, that we cannot believe in any other than the Son of God, without considering that person to have the disposal of life and death. If the true reason for believing in Christ be, that God hath given him authority to forgive sins, whenever faith is rendered to another, that honor which is due to Christ must of necessity be taken from him. This saying refutes also the error of those who imagine that the forgiveness of sins is purchased by charity; for Christ lays down a quite different method, which is, that we embrace by faith the offered mercy. The last clause, Go in peace, denotes that inestimable fruit of faith which is so frequently commended in Scripture. It brings peace and joy to the consciences, and prevents them from being driven hither and thither by uneasiness and alarm.
 
 
-### Luke 10:38-42
+### Luke 10:38–42
 
 
-### Luke 10:38-42
+### Luke 10:38–42
 
 **38.** And it happened, while they were traveling, that he entered into a certain village; and a certain woman, called Martha, received him into her house. 39. And she had a sister called Mary, who also, sitting at the feet of Jesus, heard his word. 40. And Martha was cumbered about much serving; who stood, and said, Lord, hast thou no care that my sister hath left me to serve alone? bid her therefore assist me. 41. And Jesus answering said to her, Martha, Martha, thou art anxious and distressed about many things. 42 But one thing is necessary: Mary hath chosen the good part, which shall not be taken from her.
 
@@ -1121,10 +1123,10 @@ We now see that the kind attention of Martha, though it deserved praise, was not
 Mary hath chosen the good part. There is no comparison here, as unskillful and mistaken interpreters dream. Christ only declares, that Mary is engaged in a holy and profitable employment, in which she ought not to be disturbed. "You would have a good right," he says, "to blame your sister, if she indulged in ease, or gave herself up to trifling occupations, or aimed at something unsuitable to her station, and left to you the whole charge of the household affairs. But now, when she is properly and usefully employed in hearing, it would be an act of injustice to withdraw her from it; for an opportunity so favorable is not always in her power." There are some, indeed, who give a different interpretation to the latter clause, which shall not be taken away from her, as if Christ intended to say, that Mary hath chosen the good part, because the fruit of heavenly doctrine can never perish. For my own part, I have no objection to that opinion, but have followed the view which appeared to me to be more in accordance with Christ's design.  [fn. 260: Calvin appears to interpret the words, which shall not be taken from her, not as a doctrinal statement, but as a command, or, at least, as marking out the line of conduct which ought to be pursued by Martha and others towards Mary. The good part, or, as he explains it, "the holy and profitable employment," shall not be take, from her. "She ought not to be disturbed," and "it would be an act of injustice to withdraw her from it." -- Ed.]
 
 
-### Luke 12:13-21
+### Luke 12:13–21
 
 
-### Luke 12:13-21
+### Luke 12:13–21
 
 **13.** And one out of the multitude said to him, Master, bid my brother divide the inheritance with me. 14. And he said to him, Man, who made me a judge or a divider over you? 15. And he said to them, Take heed and beware of covetousness; for the life of any man does not consist in the abundance of those things which he possesseth.  [fn. 261: "Car encore que les biens' abondent a quelqu'un, si n'a-il pas vie par les biens;" -- "for though a man may abound in wealth, yet he has no life by his wealth."] 16. And he spoke a parable to them, saying, The field of a certain rich man yielded an abundant produce. 17. And he thought within himself, saying, What shall I do? for I have no place in which I can collect my fruits. 18. And he said, I will do this: I will pull down my barns, and will build larger ones, and there I will collect all my fruits and my goods. 19. And I will say to my soul, Soul, thou hast many goods laid up for many, years: take thine ease, eat, drink, and enjoy thyself.  [fn. 262: "Et fay grand'chere;" -- "and make great cheer."] 20. But God said to him, Fool, this night they shall demand thy soul from thee;  [fn. 263: "En ceste nuict ton ame to sera ostee, ou, on to redemandera ton ame;" -- "this night thy soul shall be taken from thee, or, thy soul shall be asked again from thee."] and as to the things which thou hast provided, to whom shall they go? 21. So is he that layeth up for himself:  [fn. 264: "Ainsi est celuy qui thesaurize (ou, a fait grand areas de biens) pour soy;" -- "so is he that hoards up (or, has formed a great heap of goods) for himself."] and is not rich toward God.
 
@@ -1155,10 +1157,10 @@ This parable shows us, first, that the present life is short and transitory. Sec
 **21.** So is he that layeth up for himself. As the two clauses are evidently contrasted, the one must be taken into account for the exposition of the other. Let us ascertain, therefore, what is meant by being rich in God, or, "towards God" or, "with respect to God." Those who are tolerably acquainted with the Scriptures know that the preposition eis not unfrequently takes the sense of en. But whether it be understood in the one sense or in the other, is of little consequence; for the meaning comes to this, that they are rich according to God, who do not trust to earthly things, but depend solely on his providence. It matters not whether they are in abundance or in want, provided that both classes present their sincere prayers to the Lord for their daily bread. The corresponding phrase, layeth up for himself, conveys the idea that this man paid no attention to the blessing of God, but anxiously heaped up an immense store, so that his confidence was shut up in his barns.  [fn. 273: "En sorte que la fiance de l'homme est en ses greniers, ou en ses coffres;" -- "so that the confidence of the man is in his granaries, or in his chests."] Hence we may easily conclude that the parable was intended to show, that vain are the deliberations and foolish attempts of those who, trusting to the abundance of their wealth, do not rely on God alone, and are not satisfied with their own share, or prepared for whatever may befall them;  [fn. 274: "Estans prests a recevoir ce qu'il plaira a Dieu leur envoyer;" -- "being prepared to receive what God may be pleased to send to them."] and, finally, that such persons will suffer the penalty of their own folly.
 
 
-### Luke 13:1-9
+### Luke 13:1–9
 
 
-### Luke 13:1-9
+### Luke 13:1–9
 
 **1.** And at that time some were present, who told him of the Galileans, whose blood Pilate had mingled with their sacrifices. 2. And Jesus answering said to them, Do you imagine that these Galileans were sinners beyond all the Galileans, because they suffered such things? 3. I tell you, no; but unless you repent, you will all perish in like manner. 4. Or those eighteen, on whom the tower in Siloah fell and slew them, do you imagine that they were debtors beyond all men that dwell in Jerusalem?  [fn. 275: "Eussent offense plus que tous les habitans de Ierusalem;" -- "had offended more than all the inhabitants of Jerusalem."] 5. I tell you, no; but unless you repent, you shall all perish in like manner. 6. And he spake this parable: A certain man had a fig-tree planted in his vineyard, and came seeking fruit on it, and did not find it. 7. And he said to the vine-dresser, Lo, there are three years that I come seeking fruit on this fig-tree, and find none: cut it down; why does it even occupy the ground?  [fn. 276: "A quel propos aussi empesche-t-il la terre?" -- "for what end does it even cumber the ground?"] 8. But he answering, said to him, Lord, let it alone this year also, till I shall dig about it, and dung it: 9. And if it bear fruit:  [fn. 277: "Que s'il fait fruict, bien:' sinon tu le couperas ci-apres;" -- "and if it bears fruit, well:' if not, thou shalt cut it down afterwards."] but if not, afterwards thou shalt cut it down.
 
@@ -1179,10 +1181,10 @@ treasuring up to themselves the wrath of God against the last day, (Romans 2:5.)
 It is well known that trees are sometimes preserved, not because their owners find them to be useful and productive, but because the careful and industrious husbandman makes every possible trial and experiment before he determines to remove them out of the field or vineyard. This teaches us that, when the Lord does not immediately take vengeance on the reprobate, but delays to punish them, there are the best reasons for his forbearance. Such considerations serve to restrain human rashness, that no man may dare to murmur against the supreme Judge of all, if He does not always execute his judgments in one uniform manner. A comparison is here drawn between the owner and the vine-dresser: not that God's ministers go beyond him in gentleness and forbearance, but because the Lord not only prolongs the life of sinners, but likewise cultivates them in a variety of ways, that they may yield better fruit.
 
 
-### Luke 13:10-17
+### Luke 13:10–17
 
 
-### Luke 13:10-17
+### Luke 13:10–17
 
 **10.** And he was teaching in one of the synagogues on the Sabbath. 11. And, lo, a woman who had a spirit of infirmity during eighteen years, and was bent down, and was altogether unable to lift up her head.  [fn. 279: "Laquelle estoit courbe, et ne pouvoit aucunement se dresser;"-- "who was bent down, and was quite unable to stand upright."] 12. Whom when Jesus saw, he called her to him, and said to her, Woman, thou art delivered from thine infirmity. 13. And he laid his hands on her, and immediately she stood upright, and glorified God. 14. And the ruler of the synagogue answering, being offended because Christ had performed a cure on the Sabbath, said to the multitude, There are six days on which we ought to work: on them therefore come, and you shall be cured, and not on the Sabbath-day. 15. And the Lord answering said to her, Doth not each of you, on the Sabbath, loose his ox or his ass from the stall, and lead him away to watering? 16. And must not this daughter of Abraham, whom Satan hath bound, lo, eighteen years, be loosed from this bond on the Sabbath-day? 17. And while he was saying these things, all his adversaries were ashamed, and all the people rejoiced on account of all the glorious actions which were done by him.
 
@@ -1203,10 +1205,10 @@ On them, therefore, come and you shall be cured. He bids them come on the other 
 Now though the wicked reprover was struck dumb with shame, yet we perceive that Christ never performed any work, however illustrious, which wicked men did not seize as an occasion for slander. Nor need we wonder that Satan labored, with incessant zeal and exertions, to subvert the glory of Christ; for he is constantly employed in spreading his clouds, in order to darken the holy actions of believers.
 
 
-### Luke 13:31-33
+### Luke 13:31–33
 
 
-### Luke 13:31-33
+### Luke 13:31–33
 
 **31.** The same day some of the Pharisees came, saying to him, Depart, and go hence: for Herod intends to kill thee. 32. And he said to them, Go, tell that fox, Lo, I cast out devils, and I perform cures today and tomorrow, and the third day I am completed.  [fn. 280: "Et au troisieme iour ie pren fin;" -- "and on the third day I conclude."] 33. But yet I must walk today and tomorrow, and the following day; for it is not a usual occurrence that a prophet perish anywhere else than in Jerusalem.  [fn. 281: "Car il n'advient point qu'aucun Prophete meure hors de Ierusalem;" -- "for it does not happen that any Prophet dies out of Jerusalem."]
 
@@ -1227,10 +1229,10 @@ It usually happened that the prophets were slain there; because not only was it 
 The exclamation which immediately follows in Luke, (13:34,) appears to be connected in such a manner, as if Christ had taken occasion from the present occurrence to inveigh, at this time, against Jerusalem But for my own part, I rather think, that Luke, having said that Jerusalem had been formerly stained by the blood of the prophets, nay, had been, through an uninterrupted succession of many ages, the slaughter-place, where the prophets were cruelly and wickedly put to death, immediately inserts, according to his custom, a statement which harmonized with that discourse. We have seen, on former occasions, that it is by no means unusual with him to introduce into one place a collection of Christ's sayings, which were uttered at various times.
 
 
-### Luke 11:37-41
+### Luke 11:37–41
 
 
-### Luke 11:37-41
+### Luke 11:37–41
 
 **37.** And while he was speaking, a certain Pharisee requested him to dine with him; and he entered and sat down at table. 38. And when the Pharisee saw it, he wondered that he had not first washed before dinner. 39. And the Lord said to him, Now you Pharisees cleanse the outside of the cup and of the plate; and what is within you is full of cruelty and wickedness. 40. Fools, did not he who made what is without make also what is within? 41. But out of what you have  [fn. 284: "Des choses presentes, ou, de ce que vous avez;" --"of present things, or, of what you have."] give alms; and, lo, all things are clean to you.
 
@@ -1247,10 +1249,10 @@ The inference which the Papists draw from these words, that alms are satisfactio
 The reproofs which immediately follow may be reserved, with greater propriety, for another occasion. I do not think it probable that Christ, while sitting at table, indulged in this continuous strain of invective against scribes and Pharisees, but that Luke has introduced here what was spoken at another time; for the Evangelists, as we have frequently mentioned, paid little attention to the order of dates.
 
 
-### Luke 14:1-6
+### Luke 14:1–6
 
 
-### Luke 14:1-6
+### Luke 14:1–6
 
 **1.** And it happened that he entered into the house of a certain ruler of the Pharisees on a Sabbath, to take food, and they watched him. 2. And, lo, a certain man who had a dropsy was before him, 3. And Jesus answering said to the lawyers  [fn. 288: "Aux Docteurs de la Loy;" -- "to the Doctors of the Law."] and Pharisees, saying, Is it lawful to cure on the Sabbath? 4. But they were silent; and he took and cured him, and sent him away. 5. And he answering to them said, Which of you shall have an ass or an ox that shall fall into a pit, and will not immediately pull him out on the Sabbath-day? 6. And they could not answer him to these things.
 
@@ -1261,10 +1263,10 @@ This narrative contains nothing more than a miracle which Christ performed, in o
 **5.** Which of you shall have an ox or an ass? Though they did not deserve that Christ should take pains to remove the offense, yet he shows that he did nothing inconsistent with the observance of the Sabbath. And this he undoubtedly does, not so much with the view of instructing them, as of protecting himself against their slanders; for he knew that they were too much blinded by virulent hatred to yield submissively, to argument, but wished to triumph over their malice, by compelling them through shame to be silent. If we are at liberty to relieve brute animals on Sabbath, it would be unreasonable that we should not perform a similar office of kindness to man, who is formed after the image of God.
 
 
-### Luke 14:7-14
+### Luke 14:7–14
 
 
-### Luke 14:7-14
+### Luke 14:7–14
 
 **7.** And he spoke a parable to those who were invited, observing how they chose the first seats, saying to them: 8. When thou shalt be invited by any one to a marriage, do not sit at table in the first seat, lest perhaps a more honorable person than thyself be invited by him, 9. And he who invited thee and him come and say to thee, Give place to this man, and thou begin then with shame to occupy the lowest place. 10. But on the contrary, when thou shalt be invited, go, and sit at table in the lowest place, that when he who hath invited thee shall come, he may say to thee, Friend, go up higher: then shalt thou have honor in presence of those who sit at table with thee. 11. For every one that exalteth himself shall be humbled, and he that humbleth himself shall be exalted. 12. And he said to him by whom he had been invited, When thou makest a dinner or supper, invite not thy friends, nor thy brethren, nor thy relatives, nor rich neighbors, lest they also in their turn invite thee, and a recompense be made thee. 13. But when thou makest a banquet, invite the poor, the maimed, the lame, the blind. 14. And thou shalt be blessed, because they cannot recompense thee; for thou shalt be recompensed at the resurrection of the righteous.
 
@@ -1283,10 +1285,10 @@ Christ addresses, in a particular manner, the person who had invited him; becaus
 Matthew 22:1-14; Luke 14:15-24
 
 
-### Matthew 22:1-14
+### Matt 22:1–14
 
 
-### Luke 14:15-24
+### Luke 14:15–24
 
 **1.** And Jesus answering, spoke again by parables, and said, 2. The kingdom of heaven is like a human king who made a marriage for his son, 3. And sent out his servants to call those who were invited to the marriage, and they refused to come. 4. Again he sent out other servants, saying, Tell those who are invited, Lo, I have prepared my dinner, my oxen and fatlings are killed, and all things are ready: come to the marriage. 5. But they treated it with indifference, and went away, one to his farm, and another to his merchandise: 6. And the rest took his servants, and abused and killed them. 7. But when the king heard it, he was angry, and sent his soldiers, and slew these murderers, and burnt up their city. 8. Then he said to his servants, The marriage is indeed ready, but those who were invited were not worthy. 9. Go then to the highways, and whomsoever you shall find invite to the marriage. 10. And his servants went out to the roads, and collected all that they found, both bad and good, so that the marriage-apartment was filled with guests. 11. And the king, having come in to see the guests, when he saw there a man not wearing the wedding garment, 12. Said to him, Friend, how camest thou hither, not having the wedding garment? And he was speechless. 13. Then said the king to his attendants, Bind him hand and foot, and cast him into outer darkness: weeping and gnashing of teeth will be there. 14. For many are called, but few are chosen.
 
@@ -1331,10 +1333,10 @@ let every one that calleth on the name of the Lord depart from iniquity, (2 Timo
 I enter no farther, at present, into the question about the eternal election of God; for the words of Christ mean nothing more than this, that the external profession of faith is not a sufficient proof that God will acknowledge as his people all who appear to have accepted of his invitation.  [fn. 293: "Tous ceux qui semblent s'estre rangez sous son enseigne;" -- "all those who appear to have ranked themselves under his banner."]
 
 
-### Luke 16:1-15
+### Luke 16:1–15
 
 
-### Luke 16:1-15
+### Luke 16:1–15
 
 **1.** And he said also to his disciples, There was a certain rich man who had a steward, and he was accused to him that he was wasting his estate. 2. And he called him, and said to him, What is this that I hear of thee? render an account of thy stewardship, for thou shalt no longer have it in thy power to be steward. 3. And the steward said within himself, What shall I do, since my master taketh from me my stewardship? I cannot dig, and am ashamed to beg. 4. I know what I shall do, that, when I shall be dismissed from the stewardship, they may receive me  [fn. 294: "Que quelques uns' me recoyvent;" -- "that some persons' may receive me."] into their houses. 5. Having therefore sent for each of his master's debtors, he said to the first, How much owest thou to my master? 6. And he said, A hundred baths of oil. And he said to him, Take thy bill, and sit down quickly, and write fifty.  [fn. 295: "Et en escri cinquante;" -- "and write fifty of them."] 7. Then he said to another, And how much owest thou? Who said, A hundred measures of barley. He saith to him, Take thy bill, and write eighty. 8. And the master commended the unjust steward, because he had acted prudently; for the children of this world are more prudent in their generation than the children of light. 9. And I say to you, Make to yourselves friends of the unjust mammon, that, when you shall fail, they may receive you into eternal habitations. 10. He that is faithful in that which is least is faithful also in much; and he that is unjust in that which is least is unjust also in much. 11. If therefore you have not been faithful in the unjust mammon, who shall entrust to you what is true?  [fn. 296: "Du vray 'thresor' qui s'en fiera en vous?" -- "who shall entrust to you the true (treasure?)"] 12. And if you have not been faithful in what belongs to another, who will give you what is your own? -- (A little after.) 14. And the Pharisees, who were covetous, heard all these things, and they ridiculed him. 15. And he said to them, It is you that, justify yourselves in the sight of men: but God knoweth your hearts; for that which is highly esteemed among men is abomination in the sight of God.
 
@@ -1377,10 +1379,10 @@ But God knoweth your hearts. He says that they reckon it enough if they appear t
 What is highly esteemed by men is abomination in the sight of God. Not that God rejects those virtues, the approbation of which He hath engraved on the hearts of men; but that God detests whatever men are disposed, of their own accord, to applaud. Hence it is evident in what light we ought to view all pretended acts of worship which the world contrives according to its own fancy. How much soever they may please their inventors, Christ pronounces that they are not only vain and worthless, but are even detestable.
 
 
-### Luke 16:19-31
+### Luke 16:19–31
 
 
-### Luke 16:19-31
+### Luke 16:19–31
 
 **19.** There was a certain rich man, who was clothed in purple and fine linen,  [fn. 306: "De pourpre et de soye;" -- "in purple and silk."] and feasted sumptuously every day: 20. And there was a certain beggar, named Lazarus, who lay at his gate, full of sores, 21. And desiring to be fed from the crumbs which fell from the rich man's table: and even the dogs came and licked his sores. 22. And it happened that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried; 23. And, lifting up his eyes in hell, when he was in torments, he seeth Abraham afar off, and Lazarus in his bosom. 24. And he, crying out, said, Father Abraham, have compassion on me, and send Lazarus to dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. 25. And Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and Lazarus likewise evil things: but now he enjoys comfort, and thou art tormented. 26. And besides all these things, a vast gulf lieth between us and you; so that they who wish to pass hence to you cannot, nor can they pass to us thence. 27. And he said, I beseech thee, therefore, father, to send him to my father's house: 28. For I have five brothers, that he may testify to them, lest they also come into this place of torment. 29. Abraham saith to him, They have Moses and the prophets: let them hear them. 30. But he said, Nay, father Abraham; but if one went to them from the dead, they will repent. 31. And he said to him, If they hear not Moses and the prophets, neither will they be persuaded though one rose from the dead.
 
@@ -1431,10 +1433,10 @@ The division of the word of God, which Abraham makes, into the Law and the Proph
 **30.** Nay, father Abraham. This is a personification, as we have said, which expresses rather the feelings of the living than the anxiety of the dead. The doctrine of the Law is little esteemed by the world, the Prophets are neglected, and no man submits to hear God speaking in his own manner. Some would desire that angels should descend from heaven; others, that the dead should come out of their graves; others, that new miracles should be performed every day to sanction what they hear; and others, that voices should be heard from the sky.  [fn. 312: "Les autres, que Dieu parlast a eux du ciel en personne;"-- "others, that God would speak to them from heaven in person."] But if God were pleased to comply with all their foolish wishes, it would be of no advantage to them; for God has included in his word all that is necessary to be known, and the authority of this word has been attested and proved by authentic seals. Besides, faith does not depend on miracles, or any extraordinary sign, but is the peculiar gift of the Spirit, and is produced by means of the word. Lastly, it is the prerogative of God to draw us to himself, and he is pleased to work effectually through his own word. There is not the slightest reason, therefore, to expect that those means, which withdraw us from obedience to the word, will be of any service to us. I freely acknowledge, that there is nothing to which the flesh is more strongly inclined than to listen to vain revelations; and we see how eagerly those men, to whom the whole of Scripture is an object of dislike, throw themselves into the snares of Satan. Hence have arisen necromancy and other delusions, which the world not only receives with avidity, but runs after with furious rage. But all that is here affirmed by Christ is, that even the dead could not reform,  [fn. 313: "Ne s'amenderont point, mesmes quand les morts viendroyent parler a eux, et les advertir;" -- "will not reform, even though the dead should come to talk to them and warn them."] or bring to a sound mind, those who are deaf and obstinate against the instructions of the law.
 
 
-### Luke 17:7-10
+### Luke 17:7–10
 
 
-### Luke 17:7-10
+### Luke 17:7–10
 
 **7.** But which of you that hath a servant ploughing or feeding, when he hath returned from the field, will immediately say to him, Come  [fn. 314: "Avance-toy incontinent;" -- "come forward immediately."] and sit down at table? 8. And doth not rather say to him, Prepare supper for me, and gird thyself, and serve me, till I have eaten and drunk, and, after that, eat and drink thou.  [fn. 315: "Et apres cela tu mangeras et boiras;" -- "and after that thou shalt eat and drink."] 9. Doth he thank that servant,  [fn. 316: "Scait-il gre a ce serviteur-la?" -- "does he feel obliged to that servant?"] because he did the things which were commanded him? I suppose not. 10. So likewise, when you shall have done those things which were commanded you, do you say, We are unprofitable servants: we have done what we were bound to do.
 
@@ -1451,10 +1453,10 @@ There are two principles, therefore, that must be maintained: first, that God na
 **10.** We have done what we were bound to do. That is, "we have brought nothing of our own, but have only done what we were bound by the law to do " Christ speaks here of an entire observance of the law, which is nowhere to be found; for the most perfect of all men is still at a great distance from that righteousness which the law demands. The present question is not, Are we justified by works? but, Is the observance of the law meritorious of any reward from God? This latter question is answered in the negative; for God holds us for his slaves, and therefore reckons all that can proceed from us to be his just right. Nay, though it were true, that a reward is due to the observance of the law in respect of merit, it will not therefore follow that any man is justified by the merits of works; for we all fail: and not only is our obedience imperfect, but there is not a single part of it that corresponds exactly to the judgment of God.
 
 
-### Luke 18:1-8
+### Luke 18:1–8
 
 
-### Luke 18:1-8
+### Luke 18:1–8
 
 **1.** And he spake also a parable to them, that they ought always to pray, and not to grow weary: 2. Saying, There was a judge in a city, who neither feared God, nor regarded man. 3. And there was a widow in that city, who came to him, saying, Do me justice on my adversary. 4. And he refused for some time,  [fn. 322: "Et par un temps il n'en voulut rien faire;" -- "and for a time he would do nothing in it."] but afterwards said within himself, Though I neither fear God, nor regard man, 5. Yet because this widow is troublesome to me,  [fn. 323: "Pourtant que ceste vefue me donne fascherie;" --"because this widow gives me annoyance."] I will do her justice, lest by coming perpetually she weary me out.  [fn. 324: "Et me rompe la teste.".] 6. And the Lord said, Hear what the unjust judge saith. 7. And will not God avenge his elect, who cry to him night and day, even though he forbear with respect to them?  [fn. 325: "Combien qu'il il differe de se courroucer pour eux; ou, et aura-il patience quant a eux?" -- "Though he delay to be offended on their account; or, and will he have patience in reference to them?"] 8. I tell you that he will speedily avenge them. But when the Son of man shall come, will he find faith on the earth?  [fn. 326: "Pensez-vous qu'il trouve foy en terre?" -- "Do you think that he will find faith on the earth?"]
 
@@ -1473,10 +1475,10 @@ But it is asked, How does Christ instruct his disciples to seek vengeance, while
 Shall he find faith on the earth? Christ expressly foretells that, from his ascension to heaven till his return, unbelievers will abound; meaning by these words that, if the Redeemer does not so speedily appear, the blame of the delay will attach to men, because there will be almost none to look for him. Would that we did not behold so manifest a fulfillment of this prediction! But experience proves that though the world is oppressed and overwhelmed by a huge mass of calamities, there are few indeed in whom the least spark of faith can be discerned. Others understand the word faith to denote uprightness, but the former meaning is more agreeable to the context.
 
 
-### Luke 18:9-14
+### Luke 18:9–14
 
 
-### Luke 18:9-14
+### Luke 18:9–14
 
 **9.** And he spoke also this parable to some who trusted in themselves that they were righteous, and despised others: 10. Two men went up into the temple to pray; the one a Pharisee, and the other a publican. 11. The Pharisee standing  [fn. 327: "Le Pharisien se tenant l'a;" -- "the Pharisee standing there."] prayed these things within himself: God, I thank thee that I am not as other men, extortioners, unjust, adulterous, or even as this publican. 12. I fast twice in the week, I give tithes of all that I possess. 13. And the publican standing at a distance, did not even wish to raise his eyes towards heaven, but smote upon his breast, saying, Lord, be reconciled to me a sinner. 14. I say to you, this man went down into his house justified rather than the other; for every one that exalteth himself shall be humbled, and he that humbleth himself shall be exalted.
 
@@ -1505,10 +1507,10 @@ The word Sabbath (sabbaton) denotes in this passage, as in many others, a week B
 But it may be thought absurd, that all should be reduced to the same level, since the purity of saints is widely different from that of the publican I reply: whatever proficiency any man may have made in the worship of God and in true holiness, yet if he consider how far he is still deficient, there is no other form of prayer which he can properly use than to begin with the acknowledgment of guilt; for though some are more, and others less, yet all are universally guilty. We cannot doubt, therefore, that Christ now lays down a rule for all to this effect, that God will not be pacified towards us, unless we distrust works, and pray that we may be freely reconciled. And, indeed, the Papists are compelled to acknowledge this in part, but immediately afterwards they debase this doctrine by a wicked invention. They admit that all need the remedy of forgiveness, because no man is perfect; but they first intoxicate wretched men with reliance on what they call imperfect righteousness, and next add satisfactions, in order to blot out their guilt. But our faith needs no other support than this, that God has accepted us, not because we deserved it, but because he does not impute our sins.
 
 
-### Luke 17:11-21
+### Luke 17:11–21
 
 
-### Luke 17:11-21
+### Luke 17:11–21
 
 **11.** And it happened, while he was going to Jerusalem, that he passed through the midst of Samaria and of Galilee. 12. And as he was entering into a certain village, there met him ten men, lepers, who stood at a distance; 13. And, lifting up their voice, said, Jesus, Master, take pity on us. 14. When he saw them, he said, Go, show yourselves to the priests. And it happened that, while they were going, they were cleansed. 15. And one of them, when he saw that he was cleansed, turned back, glorifying God with a loud voice, 16. And fell on his face  [fn. 335: "Et se ietta en terre sur sa face;" -- "and threw himself on the ground on his face."] at his feet, thanking him: and he was a Samaritan. 17. And Jesus answering said, Were not ten cleansed? But where are the nine? 18. None are found that have returned to give glory to God except this stranger. 19. And he saith to him, Arise, go, thy faith hath saved thee.  [fn. 336: "Ta foy t'a guairi, ou, sauve;" -- "thy faith hath healed, or, saved thee."] 20. And being interrogated by the Pharisees, when the kingdom of God would come, he replied to them and said, The kingdom of God will not come with observation;  [fn. 337: "Le regne de Dieu ne viendra point a veue d'oeil, ou, avec apparence;" -- "the kingdom of God will not come visibly, or, maniifestly."] 21. For they shall not say, Lo, he is here! or, Lo, he is there! for, lo, the kingdom of God is within you.
 
@@ -1535,10 +1537,10 @@ The word observation is here employed by Christ to denote extraordinary splendor
 Matthew 13:53-58; Mark 6:1-6
 
 
-### Matthew 13:53-58
+### Matt 13:53–58
 
 
-### Mark 6:1-6
+### Mark 6:1–6
 
 **53.** And it happened, when Jesus had concluded these discourses,  [fn. 342: "Quand Iesus ent acheve ces similitudes-ci;" -- "when Jesus had concluded these parables."] that he departed thence. 54. And when he was come into his own country, he taught them in their synagogue, so that they were amazed, and said, Whence hath this man this wisdom and these miracles? 55. Is not this the carpenter's son? Is not his mother called Mary, and his brothers James, and Joses, and Simon, and Judas? 56. And his sisters, do not they all live amongst us? Whence then hath this man all these things? 57. And they were offended at him. But Jesus said to them, A prophet is not destitute of honor, except in his own country and in his own house. 58. And he did not perform many miracles there on account of their unbelief.
 
@@ -1561,13 +1563,13 @@ When Mark declares that Christ could not perform any miracles, he represents the
 Matthew 14:1-2; Mark 6:14-16; Luke 9:7-9
 
 
-### Matthew 14:1-2
+### Matt 14:1–2
 
 
-### Mark 6:14-16
+### Mark 6:14–16
 
 
-### Luke 9:7-9
+### Luke 9:7–9
 
 **1.** At that time, Herod the tetrarch heard of the fame of Jesus, 2. And said to his servants, This is John the Baptist: he is raised from the dead, and therefore miracles work in him.
 
@@ -1590,10 +1592,10 @@ And therefore miracles work in him. We naturally wonder what reasoning could hav
 Matthew 14:3-12; Mark 6:17-29
 
 
-### Matthew 14:3-12
+### Matt 14:3–12
 
 
-### Mark 6:17-29
+### Mark 6:17–29
 
 **3.** For Herod had seized John, and bound him, and put him in prison, on account of Herodias, the wife of his brother Philip. 4. For John said to him, It is not lawful for thee to have her. 5. And though he wished to put him to death, he feared the multitude, because they accounted him a prophet. 6. But when Herod's birthday was kept, the daughter of Herodias danced before the company, and pleased Herod. 7. And therefore he promised with an oath, that he would give her whatever she would ask. 8. But she, after having been instructed by her mother, said Give me here in a dish the head of John the Baptist. 9. And the king was sorry, yet on account of the oath, and of those who sat with him at table, he commanded that it should be given. 10. And he sent and beheaded John in the prison. 11. And his head was brought in a dish and given to the girl, and she carried it to her mother. 12. And his disciples came and carried away the body, and buried it, and went and told Jesus.
 
@@ -1630,13 +1632,13 @@ On account of the oath, and of those who sat at table with him. It deserves our 
 Matthew 14:13-21; Mark 6:30-44; Luke 9:10-17
 
 
-### Matthew 14:13-21
+### Matt 14:13–21
 
 
-### Mark 6:30-44
+### Mark 6:30–44
 
 
-### Luke 9:10-17
+### Luke 9:10–17
 
 **13.** When Jesus heard this, he departed thence to a ship to a desert place apart; and when the multitudes heard it, they followed him on foot out of the cities. 14. And Jesus, when leaving (the ship,) saw a great multitude, and was moved with compassion towards them, and healed of such of them as were diseased. 15. And when the evening was drawing on, his disciples came to him, saying, It is a desert place, and the time is now past: send the multitudes away, that they may go into the village, and purchase victuals for themselves. 16. And Jesus said to them, It is not necessary that they should go away: give you to them something to eat. 17. And they say to him, We have nothing here but five loaves and two fishes. 18. And he said, Bring them hither to me. 19. And he commanded the multitudes to sit down on the grass, and, taking the five loaves and the two fishes, and raising his eyes to heaven, he blessed.  [fn. 370: "Rendit graces;" -- "gave thanks."] And when he had broken the loaves, he gave them to the disciples, and the disciples to the multitudes. 20. And they all ate, and were satisfied, and carried away what remained of the fragments  [fn. 371: "Puis recueillerent le residu des pieces des pains;" -- "then gathered what was left of the pieces of bread."] twelve baskets full. 21. And they who had eaten were nearly five thousand men, besides women and children.
 
@@ -1675,10 +1677,10 @@ Now though Christ does not every day multiply our bread, or feed men without the
 Matthew 14:22-33; Mark 6:45-52
 
 
-### Matthew 14:22-33
+### Matt 14:22–33
 
 
-### Mark 6:45-52
+### Mark 6:45–52
 
 **22.** And immediately Jesus constrained his disciples to embark, and to go before him to the opposite bank, till he had sent away the multitudes. 23. And when he had sent away the multitudes, he went up into a mountain alone to pray; and when the evening came, he was there alone. 24. But the ship was now in the midst of the sea, tossed with waves; for the wind was contrary. 25. And about the fourth watch of the night Jesus came to them, walking on the sea. 26. And when the disciples saw him walking on the sea, they were terrified, saying, It is an apparition, and cried out for fear. 27. But immediately Jesus spoke to them, saying, Take courage; it is I, be not afraid. 28. And Peter replying to him said, Lord, if it be thou, bid me come to thee on the water. 29. And he said, Come. And when Peter had come down out of the ship, he walked on the water, to go to Jesus. 30. But when he perceived the wind to be boisterous, he was afraid; and when he began to sink, he cried, saying, Lord, save me. 31. And immediately Jesus stretched out his hand and caught him, and said to him, O man of little faith, why didst thou doubt? 32. And when they had entered into the ship, the wind ceased. 33. Then they that were in the ship approached and worshipped him, saying, Truly thou art the Son of God.
 
@@ -1713,10 +1715,10 @@ Hence too it happens that Peter immediately begins to smart for his rashness. Le
 Matthew 14:34-36; Mark 6:53-56
 
 
-### Matthew 14:34-36
+### Matt 14:34–36
 
 
-### Mark 6:53-56
+### Mark 6:53–56
 
 **34.** And when they had passed over, they came into the country of Gennesareth. 35. And when the men of that place had recognized him, they sent messengers into all the surrounding country, and brought to him all that were diseased. 36. And besought him that they might ouch only the fringe of his robe; and as many as touched were made whole.
 
@@ -1729,10 +1731,10 @@ That they might touch the fringe. There is reason to believe that they were unde
 Matthew 15:1-9; Mark 7:1-13
 
 
-### Matthew 15:1-9
+### Matt 15:1–9
 
 
-### Mark 7:1-13
+### Mark 7:1–13
 
 **1.** Then scribes and Pharisees, who had come from Jerusalem, approach to Jesus, saying, 2. Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread. 3. But he answering said to them, Why do you also transgress the commandment of God on account of  [fn. 390: "Propter;" -- "par vostre ordonnance;" -- "by your statute."] your tradition? 4. For God commanded, saying, Honor thy father and mother; and, He that curseth father or mother, dying let him die. 5. But you say, Whosoever shall say to his father or mother, Whatever is a gift from me shall profit thee; and shall not honor his father or his mother. 6. Therefore you have annulled the commandment of God on account of your tradition. 7. Hypocrites, Isaiah hath justly prophesied concerning you, saying, 8. This people draw nigh to me with their mouth, and honor me with the lips; but their heart is far distant from me. 9. But in vain do they worship me, teaching doctrines, commandments of men.
 
@@ -1771,10 +1773,10 @@ Teaching doctrines, commandments of men In these words there is what is called a
 Matthew 15:10-20; Mark 7:14-23; Luke 6:39
 
 
-### Matthew 15:10-20
+### Matt 15:10–20
 
 
-### Mark 7:14-23
+### Mark 7:14–23
 
 
 ### Luke 6:39
@@ -1812,10 +1814,10 @@ And pollute the man. Instead of the verb pollute, the Greek term is koinoi, make
 Matthew 15:21-28; Mark 7:24-30
 
 
-### Matthew 15:21-28
+### Matt 15:21–28
 
 
-### Mark 7:24-30
+### Mark 7:24–30
 
 **21.** And Jesus departing thence withdrew into the territories of Tyre and Sidon. 22. And, lo, a woman of Canaan, who had come from those territories, cried saying, Have compassion on me, O Lord, thou son of David; my daughter is grievously afflicted by a devil. 23. But he made no reply to her, and his disciples approaching implored him, saying, Send her away; for she crieth after us. 24. But he answering said, I am not sent but to the lost sheep of the house of Israel. 25. And she came and worshipped him, saying, Lord, help me. 26. But he answering said, It is not seemly to take the children's bread, and throw it to the dogs. 27. But she said, Certainly, O Lord; yet the dogs eat of the crumbs that fall from the table of their masters. 28. Then Jesus answering said to her, O woman, great is thy faith; be it to thee as thou desirest. And her daughter was cured from that time.  [fn. 414: "Et des ce mesme instant sa fille fut guairie;" -- "and from that very instant her daughter was cured."]
 
@@ -1858,17 +1860,17 @@ But how can the woman be said to believe aright, who not only receives no promis
 Matthew 15:29-39; Mark 7:31-37, 8:1-10
 
 
-### Matthew 15:29-39
+### Matt 15:29–39
 
 
-### Mark 7:31-37
+### Mark 7:31–37
 
 **29.** And Jesus departing thence, came near the sea of Galilee, and he went up into the mountain, and sat down there. 30. And great multitudes came to him, bringing with them the lame, the blind, the dumb, the maimed, and many others, and laid them at the feet of Jesus; and he cured them: 31. So that the multitudes wondered, when they perceived the dumb to speak, the maimed to be whole, the lame to walk, the blind to see; and they glorified the God of Israel. 32. And Jesus, having called his disciples to him, said, I have compassion on the multitude, because they have now remained with me three days, and have nothing to eat; and I do not choose to send them away fasting, lest they faint by the way. 33. His disciples say to him, Whence shall we obtain so many loaves in a solitary place as to satisfy so great a multitude? 34. And Jesus saith to them, How many loaves have you? And they say, Seven, and a few small fishes. 35. And he commanded the multitudes to sit down on the ground. 36. And he took those seven loaves, and the fishes, and after that he had given thanks, he broke and gave to his disciples, and the disciples to the multitude. 37. And they all ate, and were satisfied; and they took up of the fragments that were left seven baskets full. 38. And they who had eaten were four thousand men, besides women and children. 39. And having sent away the multitudes, he embarked, and came to the borders of Magdala.
 
 **31.** And again, departing from the territories of Tyre and Sidon, he came to the sea of Galilee, through the midst of the territories of Decapolis. 32. And they bring to him one who was deaf, and had an impediment in his speech, and implore him to lay his hand on him. 33. And when he had taken him aside from the multitude, he put his fingers into his ears, and spat, and touched his tongue; 34. And looking up to heaven, he sighed, and said to him, Ephphatha, that is, Be opened. 35. And immediately his ears were opened, and the string of his tongue was loosed, and he spoke distinctly. 36. Then he enjoined them not to tell it to any person; but the more he enjoined them, so much the more the published it: 37. And were amazed beyond measure, saying, He hath done all things well; he maketh both the deaf to hear and the dumb to speak.
 
 
-### Mark 8:1-10
+### Mark 8:1–10
 
 **1.** In those days, when there wa a very great multitude, and they had nothing to eat, Jesus called his disciples to him, and said to them, 2. I am moved with compassion towards the multitude, because they have now remained with me three days, and have nothing to eat. 3. And if I shall send them home fasting, they will faint by the way; for some of them have come from a distance. 4. And his disciples answered him, Whence shall any man be able to satisfy those persons with bread in this solitary place? 5. And he asked them, How many loaves have you? And they said, Seven. 6. And he commanded the multitude to sit down on the ground; and took the seven loaves, and, when he had given thanks, brake, and gave to his disciples to set before them, and they set them before the multitude. 7. And they had a few small fishes; and when he had blessed, he ordered these likewise to be set before them. 8. And they ate, and were satisfied; and of the fragments that remained they carried away seven baskets full. 9. And they that had eaten were about four thousand; and he sent them away. 10. And immediately embarking, he came with his disciples to the coasts of Dalmanutha.
 
@@ -1895,13 +1897,13 @@ As the blessing of God can make one loaf suffice as well as twenty for satisfyin
 Matthew 16:1-4; Mark 8:11-13; Luke 12:54-57
 
 
-### Matthew 16:1-4
+### Matt 16:1–4
 
 
-### Mark 8:11-13
+### Mark 8:11–13
 
 
-### Luke 12:54-57
+### Luke 12:54–57
 
 **1.** And the Pharisees, together with the Sadducees, came, and tempting desired that he would show them a sign from heaven. 2. But he answering said to them, About the commencement of the evening you say, It will be fine weather; for the sky is red. 3. And in the morning, There will be a storm today; for the sky is red and lowering. Hypocrites, you can judge aright of the face of the sky; but can you not judge of the signs of the times? 4. A wicked and adulterous nation demandeth a sign, and no sign shall be given to it but the sign of the prophet Jonah. And he left them, and departed.
 
@@ -1932,10 +1934,10 @@ Matthew 16:4. A wicked and adulterous nation. This passage was explained  [fn. 4
 Matthew 16:5-12; Mark 8:14-21; Luke 12:1
 
 
-### Matthew 16:5-12
+### Matt 16:5–12
 
 
-### Mark 8:14-21
+### Mark 8:14–21
 
 
 ### Luke 12:1
@@ -1973,10 +1975,10 @@ drawn aside from the simplicity of Christ, (2 Corinthians 11:3.)
 It must now be apparent who are the persons of whose doctrine our Lord charges us to beware. The ordinary government of the Church was at that time in the hands of the scribes and priests, among whom the Pharisees held the highest rank. As Christ expressly charges his followers to beware of their doctrine, it follows that all who mingle their own inventions with the word of God, or who advance any thing that does not belong to it, must be rejected, how honorable soever may be their rank, or whatever proud titles they may wear. Accursed and rebellious, therefore, is the obedience of those who voluntarily submit to the inventions and laws of the Pope.
 
 
-### Mark 8:22-26
+### Mark 8:22–26
 
 
-### Mark 8:22-26
+### Mark 8:22–26
 
 **22.** And he cometh to Bethsaida, and they bring to him a blind man, and implore him to touch him. 23. Then taking the blind man by the hand, he led him out of the village. And when he had spat on his eyes, and laid his hands upon him, he asked him if he saw any thing. 24. And he looking up said, I see men; for I perceive them walking as if they were trees. 25. Then he again laid his hands upon his eyes, and desired him to look; and he was restored, so that he saw them all clearly. 26. And he sent him away to his own house, saying, Neither enter into the village, nor tell it to any one in the village.
 
@@ -1989,13 +1991,13 @@ Mark 8:24. I see men. Our Lord had put the question to the blind man for the sak
 Matthew 16:13-19; Mark 8:27-29; Luke 9:18-20
 
 
-### Matthew 16:13-19
+### Matt 16:13–19
 
 
-### Mark 8:27-29
+### Mark 8:27–29
 
 
-### Luke 9:18-20
+### Luke 9:18–20
 
 **13.** And when Jesus came to the coasts of Cesarea Philippi, he asked his disciples, saying, Who do men say that I the Son of man am? 14. And they said, Some \[say,\] John the Baptist; and other, Elijah; and others, Jeremiah, or one of the prophets. 15. He saith to them, But who do you say that I am? 16. And Simon Peter answering said, Thou art the Christ, the Son of the living God. 17. And Jesus answering said to him, Blessed art thou, Simon Bar-Jona;  [fn. 436: "Simon, fils de Iona;" -- "Simon, son of Jonah."] for flesh and blood hath not revealed it to thee, but my Father who is in heaven. 18. But I say to thee, That thou art Peter, and on this rock will I build my church; and the gates of hell shall not prevail against it. 19. And I will give to thee the keys of the kingdom of heaven; and whatsoever thou shalt bind on earth shall be bound in heaven; and whatseover thou shalt loose on earth shall be loosed in heaven.
 
@@ -2060,13 +2062,13 @@ But though there were no strife or controversy about Peter,  [fn. 449: "Mais met
 Matthew 16:20-28; Mark 8:30-38, 9:1; Luke 9:21-27
 
 
-### Matthew 16:20-28
+### Matt 16:20–28
 
 
-### Mark 8:30-37
+### Mark 8:30–37
 
 
-### Luke 9:21-27
+### Luke 9:21–27
 
 **20.** Then he charged his disciples  [fn. 451: "Lors il commanda expressement a ses disciples;" -- "then he expressly commanded his disciples."] not to tell any one that he was Jesus the Christ. 21. From that time Jesus began to make known to his disciples, that he must go to Jerusalem and suffer many things from the elders, and the chief priests, and the scribes, and be killed, and be raised again on the third day. 22. And Peter, taking him aside,  [fn. 452: "L'ayant prins a part;" -- "have taken him aside."] began to rebuke him, saying, Lord, spare thyself;  [fn. 453: "Seigneur, aye pitie de toy;" -- "Lord, have pity on thyself."] this shall not happen to thee. 23. But he turning said to Peter, Get thee behind me, Satan, thou art an offense to me; for thou relishest not those things which are of God, but those which are of men. 24. Then Jesus said to his disciples, If any man chooses to come after me, let him deny himself, and take up his cross, and follow me. 25. For whosoever would save his life shall lose it; and on the other hand, whosoever shall lose his life on my account shall find it. 26. For what doth it profit a man, if he shall gain the whole world, and lose his own soul? or what shall a man give, that, in exchange for it, he may redeem his soul? 27. For the Son of man will come in the glory of his Father with his angels: and then will he render to every one according to his actions. 28. Verily I say to you, There are some standing here, who will not taste death till they have seen the Son of man coming in his kingdom.
 
@@ -2116,13 +2118,13 @@ Coming in his kingdom. By the coming of the kingdom of God we are to understand 
 Matthew 17:1-8; Mark 9:2-8; Luke 9:28-36
 
 
-### Matthew 17:1-8
+### Matt 17:1–8
 
 
-### Mark 9:2-8
+### Mark 9:2–8
 
 
-### Luke 9:28-36
+### Luke 9:28–36
 
 **1.** And after six days Jesus taketh Peter, and James, and John his brother, and leadeth them to a high mountain apart; 2. And was transfigured before them: and his face shone as the sun, and his garments became white as the light. 3. And, lo, there appeared to them  [fn. 473: "Et voyci, ils veirent Moyse et Elie parlans avec luy;" -- "and, lo, they saw Moses and Elijah talking with him."] Moses and Elijah talking with him. 4. And Peter answering said to Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elijah. 5. While he was speaking, lo, a bright cloud overshadowed them; and, lo, a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear him. 6. And having heard this, the disciples fell on their face,  [fn. 474: "Ce qu'ayant ouy les disciples cheurent sur leur face en terre;" -- "which the disciples having heard, fell on their face to the earth."] and were exceedingly afraid. 7. Then Jesus approaching touched them, and said, Arise, and be not afraid. 8. And when they had lifted up their eyes, they saw no man but Jesus only.
 
@@ -2187,10 +2189,10 @@ In short, Christ is as truly heard at the present day in the Law and in the Prop
 Matthew 17:9-13; Mark9:9-13; Luke 9:36
 
 
-### Matthew 17:9-13
+### Matt 17:9–13
 
 
-### Mark 9:9-13
+### Mark 9:9–13
 
 
 ### Luke 9:36
@@ -2220,13 +2222,13 @@ And will restore all things. This does not mean that John the Baptist restored t
 Matthew 17:14-18; Mark 9:14-27; Luke 9:37-43
 
 
-### Matthew 17:14-18
+### Matt 17:14–18
 
 
-### Mark 9:14-27
+### Mark 9:14–27
 
 
-### Luke 9:37-43
+### Luke 9:37–43
 
 **14.** And when they were come to the multitude, a man came to him, kneeling before him, 15. And saying, Lord, have compassion on my son, for he is lunatic, and is grievously distressed; for frequently he falleth into the fire, and frequently into the water. 16. And I brought him to thy disciples, and they could not cure him. 17. And Jesus answering said, O unbelieving and perverse nation, how long shall I be with you? How long shall I suffer you? Bring him hither to me. 18. And Jesus rebuked the devil, who went out of him; and from that instant the child was cured.
 
@@ -2263,13 +2265,13 @@ All things are possible to him that believeth. Christ undoubtedly intended to te
 Matthew 17:19-21; Mark 9:28-29; Luke 17:5-6
 
 
-### Matthew 17:19-21
+### Matt 17:19–21
 
 
-### Mark 9:28-29
+### Mark 9:28–29
 
 
-### Luke 17:5-6
+### Luke 17:5–6
 
 **19.** Then the disciples, coming to Jesus apart, said, Why could not we cast it out? 20. And Jesus said to them, On account of your unbelief; for verily I say to you, If you have faith as a grain of mustard-seed, you shall say to this mountain. Remove thou hence, and it shall remove; and nothing shall be impossible to you. 21. But this kind  [fn. 490: "Mais ceste sorte \[de diables\] ne sort point;" -- "but this kind \[of devils\] goeth not out."] goeth not out but by prayer and fasting.
 
@@ -2286,18 +2288,18 @@ But it may be objected, that the disciples did not know whether or not the Lord 
 Matthew 17:22-23, 18:1-5; Mark 9:30-37; Luke 9:43-48
 
 
-### Matthew 17:22-23
+### Matt 17:22–23
 
 
-### Mark 9:30-36
+### Mark 9:30–36
 
 
-### Luke 9:43-48
+### Luke 9:43–48
 
 **22.** And while they remained in Galilee, Jesus said to them, The Son of man will be delivered into the hands of men: 23. And they will kill him, and on the third day he will rise again. And they were deeply grieved.
 
 
-### Matthew 18:1-5
+### Matt 18:1–5
 
 **1.** At that time the disciples came to Jesus, saying, Who is the greatest in the kingdom of heaven? 2. And Jesus, having called a little child to him, placed him in the midst of them, 3. And said, Verily I say to you, Unless you be converted, and become as little children, you shall not enter into the kingdom of heaven. 4. Whosoever then shall humble himself like this little child, he is the greatest in the kingdom of heaven. 5. And whosoever shall receive such a little child in my name receiveth me.
 
@@ -2332,13 +2334,13 @@ It will perhaps be objected, that children, even from the womb, have a native pr
 Matthew 18:6-10; Mark 9:42-48; Luke 17:1-2
 
 
-### Matthew 18:6-10
+### Matt 18:6–10
 
 
-### Mark 9:42-48
+### Mark 9:42–48
 
 
-### Luke 17:1-2
+### Luke 17:1–2
 
 **6.** But whosoever shall offend one of those little ones who believe in me, it were better for him that a millstone were hanged about his neck, and that he were sunk to the bottom of the sea. 7. Woe to the world on account of offenses! for offenses must come; but woe to the man by whom the offense cometh! 8. But if thy hand or thy foot offend thee, cut it off, and cast it from thee;  [fn. 501: "Et le iette \[arriere\] de toy;" -- "and cast it behind thee."] for it is better for thee to enter lame or maimed into life, than that, having two hands or two feet, thou shouldst be cast into the everlasting fire. 9. And if thine eye offend thee, pluck it out, and cast it from thee;  [fn. 502: "Et le iette \[arriere\] de toy;" -- "and cast it behind thee."] for it is better that thou shouldst enter into life having one eye, than that, having two eyes, thou shouldst be cast into hell-fire. 10. Beware of despising one of these little ones; for I say to you, That their angels always behold the face of my Father who is in heaven.
 
@@ -2373,10 +2375,10 @@ The interpretation given to this passage by some commentators, as if God assigne
 Matthew 18:11-14; Luke 15:1-10
 
 
-### Matthew 18:11-14
+### Matt 18:11–14
 
 
-### Luke 15:1-10
+### Luke 15:1–10
 
 **11.** For the Son of man is come to save that which was lost. 12. What think you? If a man shall have a hundred sheep, and one of them shall go astray, doth he not leave the ninety-nine, and go to the mountains, and seek that which had gone astray? 13. And if he happen to find it, verily, I say to you, he rejoiceth more on account of that sheep than on account of the ninety-nine which had gone astray. 14. So it is not the will of your Father who is in heaven, that one of those little ones should perish.
 
@@ -2391,10 +2393,10 @@ Luke 15:10. There will be joy in the presence of the angels. If angels mutually 
 Over one repenting sinner. The word repentance is specially limited to the conversion of those who, having altogether turned aside from God, rise as it were from death to life; for otherwise the exercise of repentance ought to be uninterrupted throughout our whole life,  [fn. 511: "Tant que nous sommes en ce monde;" -- "as long as we are in this world."] and no man is exempted from this necessity, since every one is reminded by his imperfections that he ought to aim at daily progress. But it is one thing, when a man, who has already entered upon the right course, though he stumble, or fall, or even go astray, endeavors to reach the goal; and another thing, when a man leaves a road which was entirely wrong, or only starts in the right course.  [fn. 512: "Quand celuy qui estoit du tout esgare tourne bride pour commencer a bien faire;" -- "when he who had altogether gone astray turns round to begin to do well."] Those who have already begun to regulate their life by the standard of the divine law, do not need that kind of repentance which consists in beginning to lead a holy and pious life, though they must groan  [fn. 513: "Combien qu'il soit tousiours necessaire de gemir;" -- "though it be necessary for them always to groan."] under the infirmities of the flesh, and labor to correct them.
 
 
-### Luke 15:11-24
+### Luke 15:11–24
 
 
-### Luke 15:11-24
+### Luke 15:11–24
 
 **11.** And he said,  [fn. 514: "Il dit aussi;" -- "he said also."] A certain man had two sons: 12. And the younger of them said to his father, Father, give me the portion of property which falls to me. And he divided between them the property. 13. And not many days afterwards,  [fn. 515: "Et peu de iours apres;" -- "and a few days after."] the younger son, having gathered all together, set out on a journey to a distant country, and there wasted his property by living extravagantly. 14. But when he had spent all, a sore famine arose in that country; and he began to be in want. 15. And he went and entered into the service of one of the inhabitants of that country; and he sent him into his field to feed swine. 16. And he was desirous to fill his belly with the husks on which the swine were feeding: and no man gave to him.  [fn. 516: "Et (ou, mais) personne ne luy donnoit;" -- "and (or, but) nobody gave to him."] 17. And when he came to himself, he said, How many hirelings of my father have abundance of bread,  [fn. 517: "Combien y-a-il de mercenaires en la maison de mon pere, qui ont force pain;" -- "how many hirelings are there in my father's house, who have plenty of bread."] while I perish with hunger! 18. I will arise, and go to my father,  [fn. 518: "Ie partiray d'icy, et m'en iray a mon pere;" -- "I will depart hence, and will go away to my father."] and will say to him, Father, I have sinned against heaven, and before thee, 19. And am no longer worthy to be called thy son: make me as one of thy hirelings. 20. And he arose, and came to his father. And while he was yet afar off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him. 21. And the son said to him, Father, I have sinned against heaven, and before thee, and am no longer worthy to be called thy son. 22. And the father said to his servants, Bring out the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: 23. And bring the fatted calf, and kill it; and let us feast, and be merry: 24. For this my son was dead, and is alive again; he was lost, and is found.  [fn. 519: "Car mon fils que voyci estoit mort, et il est retourne a vie: il estoit perdu, mais il est retrouve;" -- "for this is my son who was dead, and he is returned to life; he was lost, but he is found again."] And they began to be merry.
 
@@ -2423,10 +2425,10 @@ It is wretched sophistry to infer from this, that the grace of God is not exhibi
 **22.** Bring out the best robe. Although in parables (as we have frequently observed) it would be idle to follow out every minute circumstance, yet it will be no violence to the literal meaning, if we say, that our heavenly Father not only pardons our sins in such a manner as to bury the remembrance of them, but even restores those gifts of which we had been deprived; as, on the other hand, by taking them from us, he chastises our ingratitude in order to make us feel ashamed at the reproach and disgrace of our nakedness.
 
 
-### Luke 15:25-32
+### Luke 15:25–32
 
 
-### Luke 15:25-32
+### Luke 15:25–32
 
 **25.** Now his elder son was in the field; and when he came and drew near to the house, he heard music and dancing. 26. And he called one of his servants, and asked what those things were.  [fn. 540: "Et l'interroga que c'estoit;" -- "and asked him what it was."] 27. And he said to him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.  [fn. 541: The two adjectives, safe and sound, which occur in the authorized version, are here retained as the translation of "incolumem," which conveys both ideas; and this is fully justified by our author's vernacular," pourtant qu'il l'a recouvre sain et sauf;" -- because he hath received him back sound and safe." -- Ed.] 28. And he was angry, and would not go in: therefore his father went out, and entreated him. 29. But he answering said to his father, Behold, during so many years I serve thee, and never have I transgressed thy commandment; and thou never gavest me a kid, that I might be merry with my friends: 30. But after that this thy son, who hath devoured thy property with harlots, is come, thou hast killed for him the fatted calf. 31. But he said to him, Son,  [fn. 542: "Mon enfant;" -- "my child."] thou art always with me, and all my property is thine. 32. But it was proper that we should be merry and rejoice; because this thy brother was dead, and is alive again; he was lost, and is found.
 
@@ -2441,7 +2443,7 @@ This latter portion of the parable charges those persons with cruelty, who would
 Matthew 18:15-20; Luke 17:3
 
 
-### Matthew 18:15-20
+### Matt 18:15–20
 
 
 ### Luke 17:3
@@ -2513,7 +2515,7 @@ In this is displayed the gross ignorance of the Papists, who exclaim that Counci
 Matthew 18:21-35 Luke 17:4
 
 
-### Matthew 18:21-35
+### Matt 18:21–35
 
 
 ### Luke 17:4
@@ -2541,10 +2543,10 @@ Thirdly, It must be observed that, when any man, through his light and unsteady 
 **34.** Delivered him to the tormentors, till he should pay all that he owed. The Papists are very ridiculous in endeavoring to light the fire of purgatory by the word till; for it is certain that Christ here points out not temporal death, by which the judgment of God may be satisfied, but eternal death.
 
 
-### Matthew 17:24-27
+### Matt 17:24–27
 
 
-### Matthew 17:24-27
+### Matt 17:24–27
 
 **24.** And when they came to Capernaum, those who received the didrachma came to Peter, and said, Does not your Master pay the didrachma? 25. He saith, Yes. And when he came into the house, Jesus anticipated him, saying, What thinkest thou, Simon? From whom do the kings of the earth receive tribute or custom? From their own children, or from strangers? 26. Peter saith to him, From strangers. Jesus saith to him, Then are the children free. 27. But that we may not offend them, go thou to the sea, throw a hook, and take that fish which cometh first up; and when thou hast opened its mouth, thou wilt find a stater: take that, and give it for me and for thee.
 
@@ -2563,13 +2565,13 @@ The Pope has not less foolishly than successfully abused this passage to exempt 
 MaTTHEW 19:1-2; Mark 9:38-40, 10:1; Luke 9:49-56
 
 
-### Matthew 19:1-2
+### Matt 19:1–2
 
 
-### Mark 9:38-40
+### Mark 9:38–40
 
 
-### Luke 9:49-56
+### Luke 9:49–56
 
 **1.** And it happened, when Jesus had finished these discourses, he departed from Galilee, and came into the coasts of Judea beyond Jordan. 2. And great multitudes followed him, and he cured them there.
 
@@ -2603,10 +2605,10 @@ Luke 9:51. While the days of his being received up, etc. Luke alone relates this
 Matthew 19:3-9; Mark 10:2-12
 
 
-### Matthew 19:3-9
+### Matt 19:3–9
 
 
-### Mark 10:2-12
+### Mark 10:2–12
 
 **3.** And the Pharisees came to him, tempting him, and saying to him, Is it lawful for a man to divorce his wife for any cause whatever? 4. Who answering said to them, Have you not read, that he who made them at first,  [fn. 593: "Qui feit l'homme des le commencement;" -- "who made man from the beginning."] made them male and female? 5. And he said, Therefore shall a man leave his father and mother, and be joined to his wife; and they shall be one flesh. 6. Therefore now they are not two, but one flesh: what God therefore hath joined, let not man separate. 7. They say to him, Why then did Moses order to give a letter of divorcement, and send her away? 8. He said to them, Moses, for the hardness of your heart, permitted you to divorce your wives; but at the beginning it was not so. 9. And I say to you, That whosoever shall divorce his wife, except for fornication, and shall marry another, committeth adultery; and whosoever shall marry her that is divorced committeth adultery.
 
@@ -2649,10 +2651,10 @@ to remain unmarried, or to be reconciled to their husbands, (1 Corinthians 7:11;
 that is, because quarrels and differences do not dissolve a marriage. This is clearly made out from the passage in Mark, where express mention is made of the wife who has left her husband: and if the wife shall divorce her husband Not that wives were permitted to give their husbands a letter of divorcement, unless so far as the Jews had been contaminated by foreign customs; but Mark intended to show that our Lord condemned the corruption which was at that time universal, that, after voluntary divorces, they entered on both sides into new marriages; and therefore he makes no mention of adultery.
 
 
-### Matthew 19:10-12
+### Matt 19:10–12
 
 
-### Matthew 19:10-12
+### Matt 19:10–12
 
 **10.** His disciples say to him, If such be the case of the man with his wife,  [fn. 600: "Avec sa femme."] it is not expedient to enter into marriage. 11. Who said to them,  [fn. 601: "Il leur dit;" -- "he said to them."] All are not capable of receiving this saying, but those to whom it is given. 12. For there are eunuchs, who were so born from their mother's womb; and there are eunuchs, who have been made eunuchs by men; and there are eunuchs, who have castrated themselves for the sake of the kingdom of heaven. He who can receive it,  [fn. 602: "Qui peut comprendre ceci;" -- "he who can receive this."] let him receive it.
 
@@ -2669,13 +2671,13 @@ He that can receive it, let him receive it. By this conclusion Christ warns them
 Matthew 19:13-15; Mark 10:13-16; Luke 18:15-17
 
 
-### Matthew 19:13-15
+### Matt 19:13–15
 
 
-### Mark 10:13-16
+### Mark 10:13–16
 
 
-### Luke 18:15-17
+### Luke 18:15–17
 
 **13.** Then were presented to him children, that he might lay hands on them and pray; but the disciples rebuked them. 14. And Jesus said to them, Suffer children, and forbid them not, to come to me; for of such is the kingdom of heaven. 15. And when he had laid hands on them, he departed thence.
 
@@ -2696,13 +2698,13 @@ not to be children in understanding, but in malice, (1 Corinthians 14:20.)
 Matthew 19:16-22; Mark 10:17-22; Luke 18:18-23
 
 
-### Matthew 19:16-22
+### Matt 19:16–22
 
 
-### Mark 10:17-22
+### Mark 10:17–22
 
 
-### Luke 18:18-23
+### Luke 18:18–23
 
 **16.** And, lo, one came and said to him, Good Master, what good thing shall I do, that I may have eternal life? 17. Who said to him, Why callest thou me good? There is none good but God alone?  [fn. 614: "Il n'y a nul bon, sinon un seul, c'est Dieu:" -- "There is none good but one only, it is God."] but if thou wilt enter into life, keep the commandments. 18. He saith to him, Which? And Jesus said, Thou shalt not murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness, 19 Honor thy father and mother: and, Thou shalt love thy neighbor as thyself. 20. The young man saith to him, All these things have I kept from my youth: what do I still want? 21. Jesus saith to him, If thou wilt be perfect, go sell what thou hast, and give to the poor, and thou shalt have a treasure in heaven; and come, follow me. 22. And when the young man heard that saying, he went away sorrowful; for he had many possessions.  [fn. 615: "Car il avoit beaucoup de richesses;" -- "for he had much wealth."]
 
@@ -2751,13 +2753,13 @@ Matthew 19:22. He went away sorrowful. The result at length showed how widely di
 Matthew 19:23-26; Mark 10:23-27; Luke 18:24-27
 
 
-### Matthew 19:23-26
+### Matt 19:23–26
 
 
-### Mark 10:23-27
+### Mark 10:23–27
 
 
-### Luke 18:24-27
+### Luke 18:24–27
 
 **23.** And Jesus said to his disciples, Verily I say to you, A rich man will with difficulty enter into the kingdom of heaven. 24. Again I say to you, It is easier for a camel  [fn. 630: "Il est plus facile qu'un Chable passe;" -- "it is easier for a CABLE to pass."] to pass through the eye of a needle, than for a rich man to enter into the kingdom of God. 25. And his disciples, when they had heard these things, were greatly amazed,  [fn. 631: "S'estonnerent grandement;" -- "were greatly astonished."] saying, Who then can be saved? 26. And Jesus, beholding them, said to them, With men this is impossible; but with God all things are possible.
 
@@ -2774,10 +2776,10 @@ Matthew 19:23. A rich man will with difficulty enter. Christ warns them, not onl
 Matthew 19:27-30; Mark 10:28-31; Luke 18:28-30; 22:28-30
 
 
-### Matthew 19:27-30
+### Matt 19:27–30
 
 
-### Mark 10:28-31
+### Mark 10:28–31
 
 Luke 18:28-30, 22:28-31
 
@@ -2788,7 +2790,7 @@ Luke 18:28-30, 22:28-31
 **28.** And Peter said, Lo, we have left all, and have followed thee. 29. Who said to them, Verily I say to you, There is no man who hath left house, or parents, or brothers, or wife, or children, on account of the kingdom of God, 30. Who shall not receive much more at this time, and in the world to come eternal life.
 
 
-### Luke 22:28-30
+### Luke 22:28–30
 
 **28.** You are they that have continued with me in my temptations:  [fn. 637: "Qui avez persevere avec moy;" -- "who have persevered with me."] 29. And I appoint to you the kingdom,  [fn. 638: "Le royaume."] as my Father hath appointed it to me; 30. That you may eat and drink at my table in my kingdom and may sit on thrones, judging the twelve tribes of Israel.
 
@@ -2817,10 +2819,10 @@ forget those things which are behind, and press forward to the remaining portion
 As often, therefore, as we call to mind the heavenly crown, we ought, as it were, to feel the application of fresh spurs, that we may not be more indolent for the future.
 
 
-### Matthew 20:1-16
+### Matt 20:1–16
 
 
-### Matthew 20:1-16
+### Matt 20:1–16
 
 **1.** For the kingdom of heaven is like a householder, who went out at break of day to hire laborers into his vineyard. 2. And having made an agreement with the laborers for a penny a day, he sent them into his vineyard. 3. And having gone out about the third hour, he saw others standing idle in the market-place. 4. And he said to them, Go you also into the vineyard, and whatever shall be right I will give you. 5. And they went away. And again he went out about the sixth and ninth hour, and acted in the same manner. 6. And about the eleventh hour he went out, and found others standing idle, and said to them, Why stand you here all the day idle? 7. They say to him, Because nobody hath hired us. He saith to them, Go you also into the vineyard, and you will receive what shall be right. 8. And when the evening was come, the master of the vineyard saith to his steward, Call the laborers, and pay them their hire, beginning with the last even to the first. 9. And when they came who had come about the eleventh hour, they received every man a penny. 10. And they who had come first thought that they would receive more, and they also received every man a penny. 11. And when they had received it, they murmured against the householder, 12. Saying, These last have been but one hour at work, and thou hast made them equal to us, who have endured the burden of the day and the heat. 13. But he answering one of them, said, Friend, I do thee no wrong: didst not thou agree with me for a penny? 14. Take what is thine, and go away: and I intend to give to this last as much as to thee. 15. Is it not lawful for me to do what I will with my own property? Is thy eye evil, because I am good? 16. So the last shall be first, and the first shall be last: for many are called, but few are chosen.
 
@@ -2843,13 +2845,13 @@ Besides, he did not intend to say that this murmuring will take place at the las
 Matthew 20:17-19; Mark 10:32-34; Luke 18:31-34
 
 
-### Matthew 20:17-19
+### Matt 20:17–19
 
 
-### Mark 10:32-34
+### Mark 10:32–34
 
 
-### Luke 18:31-34
+### Luke 18:31–34
 
 **17.** And Jesus, going up to Jerusalem, took the twelve disciples apart in the way, and said to them, 18. Lo, we go up to Jerusalem; and the Son of man will be delivered to the chief priests and scribes; and they will condemn him to death. 19. And they will deliver him to the Gentiles to mock, and to scourge, and to crucify him;  [fn. 647: "Pour estre mocque, et flagelle, et crucifie;" -- "to be mocked, and scourged, and crucified."] and on the third day he will rise again.
 
@@ -2874,10 +2876,10 @@ Luke 18:34. And they understood none of these things. What stupidity was this, n
 Matthew 20:20-23; Mark 10:35-40
 
 
-### Matthew 20:20-23
+### Matt 20:20–23
 
 
-### Mark 10:35-40
+### Mark 10:35–40
 
 **20.** Then came to him the mother of Zebedee's children with her sons, worshipping,  [fn. 651: "S'enclinant a luy;" -- "bowing down to him."] and asking something from him. 21. And he said to her, What wilt thou? She saith to him, Grant that these my two sons may sit, one at thy right hand, and the other at the left, in thy kingdom. 22. And Jesus answering said, You know not what you ask. Can you drink the cup which I shall drink, and be baptized with the baptism with which I am baptized? They say to him, We can. 23. He saith to them, You shall indeed drink my cup, and you shall be baptized with the baptism with which I am baptized; but to sit at my right hand, and at my left, is not mine to give; but it shall fall to those for whom it is prepared by my Father.  [fn. 652: "Mais ceux ausquels il est apparelle de mon l'ere \[l'auront\];" -- "but those for whom it is prepared by my Father \[shall have it.\]"]
 
@@ -2914,13 +2916,13 @@ It is also worthy of our notice, that these words do not imply that there will b
 Matthew 20:24-28; Mark 10:41-45; Luke 22:24-27
 
 
-### Matthew 20:24-27
+### Matt 20:24–27
 
 
-### Mark 10:41-45
+### Mark 10:41–45
 
 
-### Luke 22:24-27
+### Luke 22:24–27
 
 **24.** And when the ten heard it,  [fn. 659: "Les dix autres ayans ouy cela;" -- "the other ten having heard that."] they were displeased with the two brethren. 25. And Jesus called them to him, and said, You know that the princes of the Gentiles rule over them, and they who are great exercise authority over them. 26. It shall not be so among you: but whoever wishes to be great among you, let him be your minister; 27. And he that wishes to be chief among you, let him be your servant: 28. Even as the Son of man came not that he might be served, but that he might serve, and that he might give his life a ransom for many.
 
@@ -2953,13 +2955,13 @@ And to give his life a ransom for many. Christ mentioned his death, as we have s
 Matthew 20:29-34; Mark 10:46-52; Luke 18:35-43
 
 
-### Matthew 20:29-34
+### Matt 20:29–34
 
 
-### Mark 10:46-52
+### Mark 10:46–52
 
 
-### Luke 18:35-43
+### Luke 18:35–43
 
 **29.** And while they were departing from Jericho, a great multitude followed him. 30. And, lo, two blind men sitting near the road, when they heard that Jesus was passing by, cried aloud, saying, Have mercy on us, O Lord, thou Son of David. 31. And the multitude rebuked them, that they might be silent; but they cried out the more, saying, Have mercy on us, O Lord, thou Son of David. 32. And Jesus stood, and called them, and said, What do you wish that I should do to you? 33. They say to him, Lord, that our eyes may be opened. 34. And Jesus, moved with compassion, touched their eyes; and immediately their eyes received sight, and they followed him.
 
@@ -2986,10 +2988,10 @@ Mark 10:52. Thy faith hath saved thee By the word faith is meant not only a conf
 Matthew 20:34. And followed him. This was an expression of gratitude,  [fn. 673: "Ceci a este un signe de recognoissance du bien receu de Christ;" -- "this was an expression of gratitude for the favor received from Christ."] when the blind men became followers of Christ; for, though it is uncertain how long they discharged this duty, yet it showed a grateful mind, that they presented themselves to many, in that journey, as mirrors of the grace of Christ. Luke adds, that the people gave praise to God, which tends to prove the certainty of the miracle.
 
 
-### Luke 19:1-10
+### Luke 19:1–10
 
 
-### Luke 19:1-10
+### Luke 19:1–10
 
 **1.** And having entered, he passeth through Jericho.  [fn. 674: "Estant entre en Iericho, il alloit par la ville;" -- "having entered into Jericho, he went through the town."] 2. And, lo, a man named Zaccheus, and he was chief of the publicans, and was rich. 3. And he sought to see Jesus who he was,  [fn. 675: "Et taschoit a veoir lequel estoit Iesus;" -- "and endeavored to see who Jesus was."] and could not on account of the multitude; for he was of small stature. 4. And running before, he climbed up into a sycamore tree to see him; for he was to pass that way. 5. And when Jesus came to the place, he looked up, and saw him, and said to him, Zaccheus, make haste, and come down; for today I must abide at thy house. 6. And he made haste, and came down, and received him joyfully. 7. And when they saw it, they all murmured, saying, That he had gone to lodge with a man who is a sinner. 8. And Zaccheus stood, and said to the Lord, Lo, O Lord, the half of my goods I give to the poor; and if I have defrauded any man in any thing, I restore fourfold.  [fn. 676: "I'en rend quatre fois autant;" -- "I restore four times as much for it."] 9. Jesus said to him, Today is salvation come to this house, inasmuch as he also is a son of Abraham.  [fn. 677: "Poutrtant que ceste-ci aussi est fille d'Abraham, ou, cestuy-ci aussi est fils d'Abraham;" -- "because this also is a daughter of Abraham, or, this also is a son of Abraham."] 10. For the Son of man came to seek and save what was lost.
 
@@ -3020,10 +3022,10 @@ In consequence of the Greek word oikos; (house) being of the masculine gender, t
 Matthew 25:14-30; Luke 19:11-28
 
 
-### Matthew 25:14-30
+### Matt 25:14–30
 
 
-### Luke 19:11-28
+### Luke 19:11–28
 
 **14.** For as a certain man, setting out on a journey, called his servants, and delivered to them his goods. 15. And to one he gave five talents, and to another two, and to another one; to every one according to his own ability; and immediately set out. 16. And he who had received five talents went away and traded with them, and amassed other five talents. 17. And likewise he who had received two, he also gained other two. 18. But he who had received one went away, and dug in the earth, and hid his master's money. 19. And after a long time the master of those servant cometh, and reckoneth with them. 20. And he who had received five talents, saying, Master, thou deliveredst to me five talents: lo, I have gained by them other five talents. 21. His master saith to him, Well done, good and faithful servant; thou has tbeen faithful over a few things, I will place thee over many things: enter thou into the joy of thy master. 22. And he also who had received two talents came, and said, Master, thou deliveredst to me two talents: lo, I have gained by them other two. 23. His master saith to him, Well done, good and faithful servant; thou hast been faithful over a few things: enter thou into the joy of thy master. 24. But he who had received one talent came and said, Master, knew thee that thou art a harsh man, reaping where thou didst not sow, and gathering where didst not scatter: 25. And, being afraid, I went away, and hid thy talent in the earth: lo, thou hast what is thine. 26. And his master answering said to him, Wicked and slothful servant, thou knowest that I reap where I sowed not, and gather where I did not scatter: 27. Thou oughtest therefore to have given my money to the bankers, and, when I came, I would have received my own with usury. 28. Take away then from him the talent, and give it to him who hath ten talents. 29. For to every one that hath shall be given, and he shall abound; but he that hath not, even that which he hath shall be taken from him. 30. And cast out the unprofitable servant into outer darkness, where shall be weeping and gnashing of teeth.
 
@@ -3066,13 +3068,13 @@ Luke 19:27. But those my enemies In this second part, he appears to glance princ
 Matthew 21:1-9; Mark 11:1-10; Luke 19:29-38
 
 
-### Matthew 21:1-9
+### Matt 21:1–9
 
 
-### Mark 11:1-10
+### Mark 11:1–10
 
 
-### Luke 19:29-38
+### Luke 19:29–38
 
 **1.** And when they approached Jerusalem, and were come to Bethphage, to the mountain of Olives, then Jesus sent two disciples,  [fn. 698: "Deux de ses disciples;" -- "two of his disciples?"] 2. Saying to them, Go into the village which is opposite to you, and immediately you will find an ass tied, and a colt with her: loose them, and bring them to me. 3. And if any man shall say anything to you, say, The Lord hath need of them; and immediately he will send them.  [fn. 699: "Et incontinent les laissera aller;" -- "and immediately he will allow them to go."] 4. Now all this was done, that it might be fulfilled which was spoken by the prophet, saying, 5. Say to the daughter of Zion, Lo, thy King cometh to thee, meek, and sitting on an ass, and on a colt, the foal of one that is under the yoke.  [fn. 700: "Et la petit asnon de celle qui est sous le ioug;" -- "and the young ass-colt of her that is under the yoke." -- Campbell brings out, in the same manner, the force of Greek, "even the colt of a laboring beast." -- Ed.] 6. And the disciples went, and did as Jesus had commanded them. 7. And they brought the ass and the colt, and laid on them their garments, and placed him upon them.  [fn. 701: "Et le feirent asseoir sur iceux vestemens;" -- "and made him sit on these garments."] 8. And a very great multitude spread their garments in the way; and others cut down branches from the trees, and strawed them in the way. 9. And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed be he  [fn. 702: "Benit soil celuy;" -- "blessed be he."] that cometh in the name of the Lord; Hosanna in the highest.  [fn. 703: "Es tres-hauts lieux;" -- "in the very high places."]
 
@@ -3105,10 +3107,10 @@ In the name of the Lord. He is said to come in the name of God, who not only con
 Luke adds a few words, Peace in heaven, and glory in the highest;  [fn. 719: "Es lieux tres-hauts;" -- "in the very high places."] in which there would be no obscurity, were it not that they do not correspond to the song of the angels, (Luke 2:14;) for there the angels ascribe to God glory in heaven, and to men peace on earth; while here both peace and glory are ascribed to God. But there is no contradiction in the meaning; for, though the angels state more distinctly the reason why we ought to sing, Glory to God -- namely, because through his mercy men enjoy peace in this world -- yet the meaning is the same with what is now declared by the multitude, that there is peace in heaven; for we know that there is no other way in which wretched souls find rest in the world, than by God reconciling himself to them out of heaven.
 
 
-### Luke 19:41-44
+### Luke 19:41–44
 
 
-### Luke 19:41-44
+### Luke 19:41–44
 
 **41.** And when he came near, he beheld the city, and wept over it, saying, 42. O if even thou, and at least in this thy day, hadst known and considered the things which belong to thy peace! but now they are hid from thy eyes. 43. For the days will come upon thee, and thy enemies will encompass thee with a rampart;  [fn. 720: "T'assiegeront de rempars;" -- "will besiege thee with ramparts."] and will enclose thee, and will shut thee in on all sides; 44. And will level thee with the ground, and thy children who are within thee; and will not leave in thee one stone upon another; because thou didst not know the time of thy visitation.
 

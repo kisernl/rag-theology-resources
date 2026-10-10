@@ -2,6 +2,8 @@
 title: "Harmony of the Law - Volume 3"
 author: "John Calvin"
 tradition: "reformed"
+genre: "commentary"
+covers: ["Exod", "Lev", "Num", "Deut"]
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 
@@ -31,7 +33,7 @@ source: "Christian Classics Ethereal Library (CCEL)"
 The Fifth Commandment
 
 
-## Exodus 20
+## Exod 20
 
 Exodus 20:12
 
@@ -43,7 +45,7 @@ Exodus 20:12
 ### Its Repetition
 
 
-## Deuteronomy 5
+## Deut 5
 
 Deuteronomy 5:16
 

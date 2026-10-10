@@ -2,6 +2,7 @@
 title: "The Lord's Prayer"
 author: "Thomas Watson"
 tradition: "reformed"
+genre: "catechism"
 edition: "1692"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

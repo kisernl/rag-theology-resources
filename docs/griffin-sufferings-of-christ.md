@@ -2,6 +2,7 @@
 title: "The Sufferings of Christ"
 author: "George Griffin"
 tradition: "reformed"
+genre: "treatise"
 edition: "1852"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

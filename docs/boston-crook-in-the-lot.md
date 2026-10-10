@@ -2,6 +2,7 @@
 title: "The Crook in the Lot"
 author: "Thomas Boston"
 tradition: "reformed"
+genre: "treatise"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

@@ -2,6 +2,7 @@
 title: "Pneumatologia"
 author: "John Owen"
 tradition: "reformed"
+genre: "treatise"
 edition: "The Banner of Truth Trust, Edinburgh, 1965, 1967."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

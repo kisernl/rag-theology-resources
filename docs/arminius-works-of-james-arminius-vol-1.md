@@ -2,6 +2,7 @@
 title: "The Works of James Arminius, Vol. 1"
 author: "James Arminius"
 tradition: "arminian"
+genre: "treatise"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

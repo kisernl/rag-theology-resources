@@ -2,6 +2,7 @@
 title: "A Dissertation on Divine Justice"
 author: "John Owen"
 tradition: "reformed"
+genre: "treatise"
 edition: "The Banner of Truth Trust, Edinburgh, 1967."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

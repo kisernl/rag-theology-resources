@@ -2,6 +2,7 @@
 title: "The Works of Jonathan Edwards, Volume Two"
 author: "Jonathan Edwards"
 tradition: "reformed"
+genre: "treatise"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

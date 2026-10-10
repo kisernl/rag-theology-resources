@@ -2,6 +2,7 @@
 title: "Vindiciæ Evangelicæ or, the Mystery of the Gospel Vindicated and"
 author: "John Owen"
 tradition: "reformed"
+genre: "treatise"
 edition: "The Banner of Truth Trust, Edinburgh, 1966."
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

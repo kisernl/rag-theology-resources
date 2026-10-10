@@ -2,6 +2,7 @@
 title: "Pneumatologia: A Treatise of the Soul of Man"
 author: "John Flavel"
 tradition: "reformed"
+genre: "treatise"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

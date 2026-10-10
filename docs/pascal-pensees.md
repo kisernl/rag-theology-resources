@@ -2,6 +2,7 @@
 title: "Pensées"
 author: "Blaise Pascal"
 tradition: "catholic"
+genre: "apologetics"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

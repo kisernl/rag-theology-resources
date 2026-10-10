@@ -2,6 +2,7 @@
 title: "The Rent Veil"
 author: "Horatius Bonar"
 tradition: "reformed"
+genre: "devotional"
 edition: "1874"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

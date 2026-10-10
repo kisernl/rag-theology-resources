@@ -2,6 +2,7 @@
 title: "The Two Covenants"
 author: "Andrew Murray"
 tradition: "reformed"
+genre: "devotional"
 edition: "First published by London: J. Nisbet, 1899"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

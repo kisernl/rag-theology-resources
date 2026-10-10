@@ -2,6 +2,7 @@
 title: "The Work of Christ"
 author: "P.T. Forsyth"
 tradition: "congregationalist"
+genre: "treatise"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

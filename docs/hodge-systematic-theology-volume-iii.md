@@ -2,6 +2,7 @@
 title: "Systematic Theology - Volume III"
 author: "Charles Hodge"
 tradition: "reformed"
+genre: "systematic"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

@@ -2,6 +2,7 @@
 title: "Commenting and Commentaries"
 author: "Charles Haddon Spurgeon"
 tradition: "reformed-baptist"
+genre: "reference"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

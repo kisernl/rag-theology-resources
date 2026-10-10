@@ -2,6 +2,7 @@
 title: "Heretics"
 author: "Gilbert K. Chesterton"
 tradition: "catholic"
+genre: "apologetics"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

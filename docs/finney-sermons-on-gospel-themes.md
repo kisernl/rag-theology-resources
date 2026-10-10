@@ -2,6 +2,7 @@
 title: "Sermons on Gospel Themes"
 author: "Charles G. Finney"
 tradition: "arminian"
+genre: "sermon"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

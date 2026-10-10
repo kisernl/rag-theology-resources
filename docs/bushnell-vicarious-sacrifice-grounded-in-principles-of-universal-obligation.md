@@ -2,6 +2,7 @@
 title: "The Vicarious Sacrifice, Grounded in Principles of Universal"
 author: "Horace Bushnell"
 tradition: "congregationalist"
+genre: "treatise"
 edition: "Charles Scribner & Co., 1871"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

@@ -2,6 +2,8 @@
 title: "Harmony of the Law - Volume 1"
 author: "John Calvin"
 tradition: "reformed"
+genre: "commentary"
+covers: ["Exod", "Lev", "Num", "Deut"]
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 
@@ -281,7 +283,7 @@ Exodus 1:15-22
 **22.** And Pharaoh charged. If he had not been transported with wrath and struck with blindness, he would have seen that the hand of God was against him; but when the reprobate are driven to madness by God, they persevere obstinately in their crimes; and not only so, but, like the deranged  [fn. 25: "Vertiginosi, vel phrenetici." -- Lat. "Phrenetiques, ou demoniacles." -- Fr.] or frantic, they dash themselves with greater audacity against every obstacle. It is indeed commonly the case that cruelty, having once tasted innocent blood, becomes more thirsty for it; nay, in general, wicked men, as if excited by their course, grow hotter and hotter in crime, so that there is no end nor measure to their iniquity; but here, in this very desperate rage, we must perceive the vengeance of God, when he had given up the tyrant for the devil to destroy him, whilst we also remember his design both to try the patience of his people as well as to set forth his own goodness and power. The tyrant, finding that his snares and deceit availed nothing, now shakes off fear and flies to open violence, commanding the little ones to be torn from the breasts of their mothers and to be cast into the river. Lest there should be any lack of executioners, he gives this charge to all the Egyptians, whom he knew to be more than ready for the work. He spares the daughters, that, being enslaved and allotted to the Egyptians, they might produce slaves for their masters, whilst by them the races and names could not be preserved. Here it may be worth while to meditate on a comparison with our own times. Antichrist, with all his murderous agents, leaves in peace those who by their treacherous silence deny Christ, and are prepared to embrace as slaves every kind of impiety; neither does he exercise his cruelty, insatiable though it be, where he sees no manliness to exist; and he exults and triumphs, as if his end was gained, when he perceives any who had some courage in professing their faith fallen into effeminacy and cowardice. But how much better is it for us to die an hundred times, retaining our manly firmness in death, than to redeem our life for the base service of the devil.
 
 
-## Exodus 2
+## Exod 2
 
 Exodus 2:1-10
 
@@ -432,7 +434,7 @@ Exodus 2:23-25
 And their cry came up. Moses magnifies the mercy of God by this circumstance, that he took not vengeance on their slowness, as it deserved, but graciously inclined to their tardy cries. In fact, we may observe in this history what is described in Psalm 106, that the most stubborn and hard-hearted in their extremity turn their prayers at length to God, rather from the exceeding greatness of their trouble than from the well-regulated exercise of faith. He says, "by reason of the bondage;" because it is the attribute of God to succor the oppressed, to deliver the captives, and to raise up them that are brought low; and this office he constantly performs. As to what is added, that "God remembered his covenant," it is the explanation of the cause why he heard their groaning, viz., that he might ratify his gratuitous promise made to Abraham and his descendants. He expressly mentions the three patriarchs, because God lodged his covenant with them, that it might continue firm for perpetual generations. And, indeed, since God is inclined towards us to help us of his own free mercy, so he offers himself, and invites us voluntarily; and therefore confidence in prayer must only be sought for in his promises. Thus the copula here should be resolved into the illative particle, that "God heard their groaning, because he remembered his covenant." How far remembrance is possible with God, we must learn from its contrary. God is said to forget when he does not really and openly appear, and stretch forth his hand to help; therefore, when we say he "remembers," we mark our apprehension of his aid; and both expressions have relation to effect. In the same way he is said "to behold," and its opposite, "to turn his back," because we then perceive that he beholds us when he actually succours us.
 
 
-## Exodus 3
+## Exod 3
 
 Exodus 3:1-5
 
@@ -599,7 +601,7 @@ Exodus 3:18-22
 **22.** But every woman shall borrow.  [fn. 47: Lat., "et postulabit mulier;" and every woman shall ask. It will be observed that C. has avoided the error of employing the word borrow here. The verb s'l, shal, means simply to ask or request, and cannot properly be rendered borrow, unless the context makes it incontestable that an engagement to return the thing asked for is implied. C. has followed S M. in employing the word postulabit; and apologizes for using hospes in the next clause, where S M. had used cohabitatrix -- W] Those who consider these means of enriching the people to be but little in accordance with the justice of God, themselves reflect but little how widely that justice of which they speak extends. I acknowledge that it is His attribute to defend every one's rights, to prohibit theft, to condemn deceit and rapine; but let us see what every one's property is. Who will boast that he has anything, except what is given him by God? And all is given on this condition, that each one should possess according to His will whatever God pleases, who is free to take away at any moment whatsoever He has given. The Hebrews spoiled the Egyptians; and should the latter complain that an injury is done them, they would argue against God that He had transferred His own free gifts from them to others. Would this complaint be listened to, that God, in whose hands are the ends of the earth, who by His power appoints the bounds of nations, and reduces their kings to poverty, had deprived certain persons of their furniture and jewels? Another defense is set up by some, that the Hebrews took nothing which was not their own, but only the wages which were due to them; because they were iniquitously driven to servile labors, and had subsisted meanly upon what belonged to themselves. And certainly it would have been just that their labor should have been recompensed in some way. But there is no need of weighing the judgment of God by ordinary rules, since we have already seen that all the possessions of the world are His, to distribute them according to His pleasure. Nevertheless I do not thus suppose Him to be without law; for although His power is above all laws, still, because His will is the most certain rule of perfect equity, whatever He does must be perfectly right; and therefore He is free from laws, because He is a law to Himself, and to all. Neither would I simply say with Augustin,  [fn. 48: Contra Faustum, lib. 22. cap. 71.] that this was a command of God which should not be canvassed but obeyed, because He knows that He commands justly, and that his servants must obediently perform whatever He commands. This indeed is truly said, and yet we must hold fast that higher principle, that, since whatever people call their own they possess only by God's bounty, there is no juster title to possession than His gift. We will not therefore say that the Hebrew women purloined that which God ordered them to take, and which He chose to bestow upon them; neither will God be accounted unjust in bestowing nothing but what was His own.  [fn. 49: Prof. Hengstenberg quotes this passage from C., and calls it "the traditional vindication," -- "which leaves quite untouched the point in which the difficulty peculiarly lies." He also notices the solution of Michaelis, viz., that the Israelites borrowed with the intention of returning the goods; as well as other no less unsatisfactory explanations. His own is, that the idea of a gift, and not a loan, is the only one which either the circumstances of the case or the language itself admits. "They, (the Israelites,)" he says, "asked," and this reference leads to a contest of asking and giving, in which the latter gains the upper hand. It is immediately connected with "the Lord gave the people favor in the sight of the Egyptians," and is marked as a consequence of it. The liberal giving of the Egyptians proceeded from the love and good-will which the Lord awakened in their hearts towards Israel. He traces the misapprehension to "an error in the very faulty Alexandrian version, which substitutes lending for giving. Jerome, who commonly follows it, was led by it to a similar mistake, and, through him, Luther, who alludes mostly to his translation -- the Vulgate." -- Hengstenberg, vol. 2, pp. 417-432.] The word which I have translated "hospitem," or "hostess," some understand as a "fellow-sojourner;" and this is not very important, because we gather from the other word, that the Egyptians were mixed among the Hebrews. In the end of the verse, because the original expresses, "ye shall put them upon your sons, and upon your daughters," almost all interpreters expound it to mean that they should ornament them; but it seems to me that it only refers to the abundance of the spoil; as much as to say, you shall not only obtain as much as you can carry yourselves, but shall also load your sons and daughters.
 
 
-## Exodus 4
+## Exod 4
 
 Exodus 4:1-9
 
@@ -786,7 +788,7 @@ Exodus 4:24-31
 **31.** And the people believed. Either this is a synecdoche, a part of the people being put for the whole, or else Moses signifies that after the announcement was published, all with one consent embraced the message of their deliverance. I prefer the former meaning; because their solemn adoration is immediately subjoined, which could only have taken place in a public assembly. But we shall presently see how fickle and infirm was their belief. It is plain, from its levity and inconstancy, that it was without any living root. But it is not unusual that the word belief should be improperly applied to a mere assent and disposition to believe, which speedily passes away. Thus Christ (Mark 4:15) speaks of the faith of many as transient. "The people," therefore, "believed," when they heard that their afflictions were regarded by God, since that statement carried with it credibility and authority; but it was such belief as might be dissipated by the first adverse wind; and so, indeed, it happened. This passage, then, teaches, that theirs is no great attainment, and that they are deserving of no great praise, who eagerly and joyfully receive what is propounded to them in God's name, unless faith, being deeply rooted in their hearts, sustains itself boldly against the assaults of temptation. Some connect the clauses differently,  [fn. 65: As in A.V.; and this rendering is confirmed by Dathe, "Hi fidem habuerunt; et cum audirent," etc.] "The people believed; and when they heard that assistance in their calamities awaited them, gave thanks to God." But the copula is here rightly resolved into the expositive particle, and the sense is -- "When the people had heard what Aaron reported, they believed." God's visiting them here expresses the actual occurrence, viz., that God was willing to render them aid in their sore distress. Their "worshipping" was in token of their gratitude, because it was not enough for them privately and individually to reflect on the favor of God, unless they also openly manifested their religious feeling; not as if God greatly requires outward ceremonies, but because they are useful supports to our infirmity, and it is right, that not the mind only, but the body also, should be employed in the service of God.
 
 
-## Exodus 5
+## Exod 5
 
 Exodus 5:1-5
 
@@ -909,7 +911,7 @@ Exodus 5:19-23
 **22.** And Moses returned. This return unto the Lord is here used in a bad sense for forsaking his office; for Moses is not related to have either calmly prayed, or, as in a difficult emergency, to have humbly sought counsel of the Lord; but, leaving the men with whom he had to do, to have gone back in disgust to God, to demand his dismissal. He returned, then, to God, that the whole undertaking might be abandoned, as though he had never been sent. This is what the words convey, since he openly expostulates with God, because He had permitted His people to be more cruelly entreated, though He had promised them deliverance. At first sight, his madness would seem to be greater than that of the whole people, because he directly and openly accuses God as the author of all the evil which Pharaoh had inflicted; yet I doubt not but that he rather sorrowfully recounted the complaints of the people than spoke his own sentiments. Still his bitterness is not altogether excusable, when he repents of his vocation, and is indignant, because an unsuccessful charge had been intrusted to him. But when he accuses the slackness of God in redeeming His people, it is made apparent how deep is the darkness which had taken possession of his mind. He had been forewarned in good time of the hardness of Pharaoh's heart; he had heard that he would not yield until crushed by God's mighty hand; now, forgetting of all, he marvels that their redemption is not complete. The same thing often occurs to us, that the doctrine of faith and hope, which in peaceful times shines brightly in our hearts and echoes from our tongue, is altogether lost when we come to serious conflict. Wherefore we ought to devote ourselves with greater goodwill to its study, that even in the most trying circumstances the recollection of it may be our support.
 
 
-## Exodus 6
+## Exod 6
 
 Exodus 6:1-8
 
@@ -1064,7 +1066,7 @@ Exodus 6:14-30
 For what could be less probable than that a great multitude, which would make up many nations, should obey the commands of two men, should be ruled by their counsel, and gathered into one place by their exertions, in order that they should migrate into another land against the will of a very powerful king? For what was their united authority to command twelve armies, separated in their several battalions? What no earthly kings, with all their power and wisdom, their terror and their threats, could effect, God performed by means of two unwarlike men, neither experienced nor renowned; when Moses himself, alarmed by the magnitude of the work, often deprecated the commission entrusted to him. For, at the end of this chapter, he again repeats his excuse, that he was not eloquent, but of hesitating and embarrassed speech. This, then, is the point to which all tends, viz., to assign to God the praise of His loving-kindness, and to heighten His glory. There is some ambiguity in verse 28, for it might be read separately with this sense, that "God not only spoke in the wilderness of Midian, to set Moses over the people in their deliverance, but also in Egypt after some time had elapsed;" thus "on the day," would mean, "after some time," but it seems better to me to read the three verses in connection with each other.
 
 
-## Exodus 7
+## Exod 7
 
 Exodus 7:1-7
 
@@ -1203,7 +1205,7 @@ Exodus 7:14-25
 **23.** And Pharaoh turned. In this word Moses teaches us that the hardness of heart, to which God had devoted Pharaoh, was voluntary; so that the sin rested in himself, nor did the secret appointment of God avail anything to lessen his culpability, for his folly is condemned, because he did not "set his heart to this also." Whence it follows that he was the author of his own obstinacy, because, being blinded by pride and contempt, he took no account of the glory of God. Thus the wicked, although as being vessels of wrath, they are cast of God into a reprobate mind, still harden themselves, because wittingly and willfully they run against God, and thus their security, audacity, and perverseness take away from them the excuse of ignorance or error. Wherefore this example warns us not to slumber when God arouses us, but attentively to consider His works, which may instruct us to reverence and fear Him. The statement that the Egyptians dug wells for themselves increases the certainty of the miracle, as does also what is added as to the seven days; for if the corruption of the water had only been momentary, some suspicion of delusion might have crept in, which was removed both by the continued taste and appearance. Therefore it was said before, that the Egyptians would suffer inconvenience and pain  [fn. 91: He seems to allude to verse 18, which he translates "et molestia afficientur Aegyptii, bibendo aquas ex flumine."] from the want of water; for thus I explain it, that they should be sorrowful and afflicted, viz., because they had nothing to drink.
 
 
-## Exodus 8
+## Exod 8
 
 Exodus 8:1-7
 
@@ -1386,7 +1388,7 @@ Exodus 8:28-32
 **31.** And the Lord did according to the word of Moses. "The word" here may be expounded either of the answer, or the prayer, of Moses. The former pleases me best, viz., that by the result God proved that He ratified what Moses had said, whom He had made the proclaimer of His judgment; but if any one prefer to refer it to his prayer, let him retain his opinion. When he adds that the "heart of the king was hardened at this time also," he aggravates the crime of his obstinacy, since there was no bound to his rebellion under such a series of punishments, by which even an iron heart should have been corrected.
 
 
-## Exodus 9
+## Exod 9
 
 Exodus 9:1-7
 
@@ -1583,7 +1585,7 @@ Although we must, at the same time, recollect, what I have already touched upon,
 **34.** And when Pharaoh saw. Again, as usual, Pharaoh gathers audacity from the mitigation of his punishment, as security arms the reprobate against God; for as soon as the scourges of God rest for awhile, they cherish the presumption that they will be unpunished, and construe the short truce into an abiding peace. Pharaoh, then, hardens anew his heart, which he seemed to have somewhat changed, as soon as he is delivered from this infliction; as though he had not been warned that others remained behind, nay, that the hand of God was already stretched out against him. Therefore, at the end of the chapter, Moses amplifies the crime when he adds, that this had been foretold  [fn. 115: Ver. 35, A.V., marg. ref.] "by the hand of Moses." We have sometimes seen already that the wicked king was hardened, as God had said to Moses; now, more! is expressed, viz., that Moses had been the proclaimer of his indomitable and desperate obstinacy.
 
 
-## Exodus 10
+## Exod 10
 
 Exodus 10:1-6
 
@@ -1746,7 +1748,7 @@ Exodus 10:21-29
 **28.** And Pharaoh said unto him. This ebullition of passion, in the midst of such sore calamities, is a proof of the violent assaults by which Satan precipitates the wicked, when they are given over to a reprobate mind. The imperiousness of kings is indeed notorious, and observed by the ancient poets;  [fn. 130: Cicero pro C. Rabirio Postumo, c. 11 "Nemo nostrum ignorat, etiam si experti non sumus, consuetudinem regiam. Regum autem haec sunt imperia: Animadverte et dicto pare: et praeter rogitatum si querare: et illae minae, Si te secundo lumine hic offendero, moriere." In the Variorum edition, Elzevir, 1661, there is the following note: -- "Animadverte, etc., Explicat isthaec Columna commentariis suis ad Q. Ennium."] "Animadverte, et dicto pare," (attend, and obey my word;) and, again, "Moriere, si te secundo lumine hic offendero," (if I meet thee here again a second day, thou shalt die.) Nor can it be doubted that Pharaoh, with his usual intemperateness, now breaks out into fierce and cruel threats; but had he not been carried away by a spirit of madness, he would not have so boldly opposed himself to God's servant, whom he had so often known, by experience, to be endued with unconquerable power, and to be so accredited by God, as to have supreme dominion over all the elements. Hence, also, we gather, that he had not been hitherto restrained from treating Moses with severity either by kindness, or moderation, or patience; because, when the circumstances of his kingdom were still flourishing, his wrath would have been more excessive; but that he was kept back by some secret rein. But Moses shows by his answer, how completely he set at naught all this froth; for he voluntarily defies him, and by declaring that he will come before his face no more, signifies that he is not worthy that he should labor any longer in his favor. But we see that the wicked king, carried away by his fury, prophesied against the wishes of his own mind, for God returned upon his own head what he threatened against another. Although, at the same time, it must be remembered that Moses spoke thus not without authority, but by God's command; because, unless he had been certainly taught that the last trial was come, he would have ever stood in readiness for the performance of his part. But it will presently appear from the context, that in this saying also he was the true messenger of God.
 
 
-## Exodus 11
+## Exod 11
 
 Exodus 11:1-10
 
@@ -1807,7 +1809,7 @@ by which words he means that the providence of God rules in the various mixing t
 **9.** And the Lord said unto Moses. This seems to be a representation of the reason why Moses was so angry; viz., because he had been forewarned that he had to do with a lost and desperate man. When, therefore, after so many contests, he sees the dominion of God despised by the audacity and madness of the tyrant, deeper indignation bursts from him in their last struggle; especially because he sees before his eyes that detestable prodigy, viz., an earthen vessel so bold as to provoke God with indomitable obstinacy. But God had foretold to Moses (as we have already seen) the end of this his exceeding stubbornness, lest, having so often suffered repulse, he should faint at length. Otherwise, there might have crept in no trifling temptation, as to how it could please God to contend in vain with a mortal man. And it was absurd that the hardness of a human heart could not be either subdued, or corrected, or broken by the divine power. God, therefore, asserts that He was thus designing His own glory, which he desired to manifest by various miracles; and on this account he adds again in the next verse, that Pharaoh's heart was again hardened by God Himself; whereby he signifies, that the tyrant thus pertinaciously resisted, not without the knowledge and will of God, in order that the deliverance might be more wonderful.
 
 
-## Exodus 12
+## Exod 12
 
 Exodus 12:21-28
 
@@ -1938,7 +1940,7 @@ Moreover we must remark, that the generations of the ancient people were brought
 **50.** Thus did all the children of Israel. This chiefly refers to the slaying of the Paschal lamb with its adjuncts, although I do not deny that allusion is also made to the other circumstances attending their sudden departure. But it is not so much their promptitude and alacrity which are praised, as the wondrous power of God in fashioning their hearts, and directing their hands, so that, in the darkness of the night, amidst the greatest disturbances, in precipitate haste, with nothing well prepared, they were so active and dexterous. Meanwhile, Moses concludes, from the obedience of the people, that nothing was done without the command and guidance of God; from whence it is more clearly manifest that He was the sole author of their deliverance.
 
 
-## Exodus 13
+## Exod 13
 
 Exodus 13:17-22
 
@@ -1983,7 +1985,7 @@ as if he had said, that He would really and substantially fulfill what then was 
 refers not to a single day, but to all ages. The statement of Moses, then, that "He took not away the pillar of the cloud by day, nor the pillar of fire by night," is a blessing which God extends to us, as well as to them, except only the visible symbol, which was temporary, on account of the infirmity of the people. As to his saying' that God always appeared to them, that they might march by night as well as by day, he does not mean that they went on continually without any rest, since he had just before mentioned that their first station was in Succoth, from whence they encamped in Etham, but merely informs us that the flow of God's grace was continual, since the token of His favor and protection shone forth no less amidst the darkness of the night than at midday itself.
 
 
-## Exodus 14
+## Exod 14
 
 Exodus 14:1-9
 
@@ -2162,7 +2164,7 @@ Exodus 14:26-31
 But it is more than absurd, that the Pope, with his filthy clergy, should take this to himself, as if he was to be heard when he puts forward God's name; for (to pass over many other reasons which I could mention) it will be, first of all, necessary that he should prove himself to be God's servant, from whence I wish he was not so far removed. For here the obedience of the people is praised on no other grounds but because they "believed the Lord," and, together with Him, "His servant Moses."
 
 
-## Exodus 15
+## Exod 15
 
 Exodus 15:1-10
 
@@ -2325,7 +2327,7 @@ Exodus 15:22-27
 **27.** And they came to Elim. Moses here relates that a more pleasant station was granted to the people, when they were led to a well-watered spot, even planted with palm-trees, which do not usually grow in a dry soil. But we learn from what precedes, that this was a concession to their infirmity, because they had borne their thirst so impatiently.
 
 
-## Exodus 16
+## Exod 16
 
 Exodus 16:1-8
 
@@ -2514,7 +2516,7 @@ Exodus 16:31-36
 **32.** And Moses said. Moses does not proceed with the history in order, but by interposing these circumstances by anticipation, he the more confirms the fact that this food was then created for the people by God's special bounty, because He desired an omer of it to be preserved as a memorial, which, undergoing no putrefaction, handed down to posterity the gloriousness of the miracle. And first, he propounds generally God's command, and then, in the next verse, describes the manner in which it was done, viz., that Aaron put it in a bottle or pot, and laid it up by the Ark of the Covenant. Whence, too, it appears how high importance God would have attached to this His bounty, since he wished its memorial to exist in the sanctuary together with the tables of His covenant. The two expressions, conveying the same meaning, "before the Lord," and "before the Testimony," are used in commendation of the worship of the Law, that the people might know God's power to be near them in the sanctuary, not as if he were shut up in that place, or wished their minds to be fixed upon the visible sign, but, desiring to provide against their weakness, He in a manner descends to them, when he testified to the presence of His power by external images. He descends to them, therefore, not  [fn. 185: "Non pas pour plonger leurs pensees en terre, qui eust ete une lourde superstition:" not to plunge their thoughts in earth, which would have been a gross superstition. -- Fr.] to occupy their minds with a gross superstition, but to raise them up by degrees to spiritual worship.
 
 
-## Exodus 17
+## Exod 17
 
 Exodus 17:1-7
 
@@ -2607,7 +2609,7 @@ Exodus 17:8-16
 **16.** For he said, Because the Lord.  [fn. 194: "Truly the hand is upon the throne of Jehovah." -- Lat. Margin, A. V., "Because the hand of Amalek is against the throne of the Lord, therefore," etc. Heb.," The hand upon the throne of the Lord." Holden agrees with Rosenmuller, and, as he says, the most eminent Biblical critics, in preferring the explanation of the margin, A. V.] He confirms by repetition the same declaration which he had lately pronounced from the mouth of God, viz., that God would be ever at war with the Amalekites, until He should have utterly destroyed them. Translators do not agree as to the meaning of the expression, "The hand is upon the throne of the Lord." Some imagine it to be a form of oath, as though God swore by His throne. Others understand by His throne the Church, which is the rest of God, in which he is said to sit. But I have no doubt but that what was said as to destroying and extinguishing the memory of Amalek is confirmed by this reason, viz., that as God is omnipotent He will contend with this wicked nation. Therefore the hand is said to be upon the throne of God, because he does not sit idly in heaven, (as the Epicureans imagine,) but exercises His dominion in the government of the world, as if he had said, that God, who rules in power, and who by His hand and authority controls and moderates, sustains and overthrows all things, as long as He shall reign upon His throne, endued with supreme and formidable might, will never cease to pursue the Amalekites with His just vengeance. And, indeed, it may have been the case, that He inflicted divers punishments upon them, though their last great overthrow was delayed till the days of Saul.
 
 
-## Exodus 18
+## Exod 18
 
 Exodus 18:1-12
 
@@ -2748,7 +2750,7 @@ Exodus 18:13-27
 **24.** So Moses hearkened. Here is a. remarkable instance of modesty, that Moses is not indisposed to submit himself to the counsel of his father-in-law. For although Jethro was his superior in age and in degree of affinity, in other respects he was far inferior to him. This yielding, then, of Moses to his authority, lays down a rule for all the greatest and most excellent Doctors, that they should not refuse to receive the admonitions of those whom they admit to teach rightly, although they are not of such high dignity. For Cyprian  [fn. 202: "Et ideo vir sanctus Cyprianus, (Ep. 74:12, ad Pompeium,) non solum doctus, sed etiam docibilis, quod in laude episcopi quem designat Apostolus sic intellexit ipse ut diceret: etiam hoc in episcopo diligendum, ut non solum scienter doceat, sed etiam patienter discat.'" -- Aug. contra Donat, lib. 4:7, vol. 9:125.] truly declares that none is a good doctor who is not also docile. It is probable that the old man immediately returned home, not in contempt, or from his dislike to labor or fatigue, but  [fn. 203: "Mais il est vray-semblable, que Moyse l'a volontiers excuse pour sa vieillesse;" but it is probable that Moses voluntarily excused him on account of his old age. -- Fr.] on account of his age; but we shall hereafter see in its proper place that his son remained in the camp.
 
 
-## Deuteronomy 1
+## Deut 1
 
 
 ### A Repetition of the Same History
@@ -2806,7 +2808,7 @@ Deuteronomy 1:9-18
 If this were thoroughly impressed upon the minds both of magistrates and pastors, they would not vacillate so often; for relying on God's aid, they would stand firmly against all the terrors by which they are so pitifully agitated. Wherefore let all those who are called to any public office, sustain themselves by this doctrine, that they are doing God's work, who is well able to keep them safe from the violence as well as the craftiness of the whole world. Yet, at the same time we are taught by these words that all posts of command are sacred to God, so that whosoever are called to them should reverently and diligently serve God, and ever reflect that His is the dominion whereof they are the ministers.
 
 
-## Exodus 19
+## Exod 19
 
 Exodus 19:1-8
 
@@ -2961,7 +2963,7 @@ Exodus 19:21-25
 **23.** And Moses said unto the Lord. Because Moses was persuaded that the people would be obedient, he rejoins that the decree which had already been pronounced would be sufficient, and that the repetition of it would be in some degree supererogatory; for when he says that "the people cannot come up," he replies that he puts himself forward in the name of all as their surety. And this he does honestly, and in accordance with the rule of charity; yet it appears from God's reply that he was deceived, whilst judging of others by his own feelings. Whilst, however, he unhesitatingly executes the task allotted to him, it is plain that he preferred the command of God to his own preconceived opinion; and thus taught us by his example, that whatever may be the imaginations which come into our minds, they must still be submitted to this yoke, that God's authority alone may have the pre-eminence. A doubt may arise because He names "the priests;" since the priestly office was not yet committed to the Levites. Some, therefore, understand it to mean all the first-born, because, by ancient and common consent, it is allowed that they were always invested with the honor of the priesthood. But although I readily admit that they were chosen from the first-born, yet I do not think it probable that out of that immense multitude there were special priests for every house. In the meantime we may conjecture that since no heathen nations were then without priests, there was no less method amongst the chosen people; for what common sense dictated to the blind, assuredly a purer religion more clearly showed, viz., that God's worship should not be separated from the priesthood.
 
 
-## Exodus 20
+## Exod 20
 
 Exodus 20:18-21
 
@@ -2984,7 +2986,7 @@ Exodus 20:18-21
 **18.** And all the people saw the thunderings. Because in the parallel passage  [fn. 218: Au passage de Deuteronome, que nous verrons tantost. -- Fr.] Moses more largely pursues what he here only touches upon briefly, I shall also defer my full exposition of it. If he had been the only spectator of God's glory, the credit of his testimony would be lighter; after having, then, reported the ten commandments, which God Himself spoke with His own sacred lips in the hearing of the people, he adds, at the same time, that the lightning's shone openly, the mountain smoked, the trumpets sounded, and the thunder rolled. It follows, therefore, that by these conspicuous and illustrious signs, the law was ratified before all the people, from the greatest even to the least. The confession of the whole people is added; when, overwhelmed with alarm, they supplicate God to go on speaking no more. For no longer could they now despise the voice of the man, whom they had of their own accord desired to be given them as their mediator, lest they should be consumed by the awful voice of God. He lays before them the object, for which those signs had appeared to terrify them, viz., that God might subdue them to obedience. They were terrified, then, not that they might be stupified with astonishment, but only that they might be humbled and submit themselves to God. And this is a peculiar privilege, that the majesty of God, before whom heaven and earth tremble, does not  [fn. 219: There is a play on the words in the Latin here: "Non exanimet, sed tantum examinet."] destroy but only proves and searches His children.
 
 
-## Deuteronomy 5
+## Deut 5
 
 
 ### The Repetition of the Same History
@@ -3046,7 +3048,7 @@ Deuteronomy 5:22-31
 Preface to the Law
 
 
-## Exodus 20
+## Exod 20
 
 Exodus 20:1-2
 
@@ -3104,7 +3106,7 @@ Deuteronomy 5:1-6, 4:20
 Deuteronomy 4:20. But the Lord hath taken you. He argues that, from the period of their deliverance, they have been wholly devoted to God, since He has purchased them for His own peculiar possession. Hence it follows that they are under His jurisdiction and dominion; because it would be foul and wicked ingratitude in them to shake off the yoke of their redeemer. And, in order to strengthen the obligation, he extols the greatness of the favor, because nothing could be more wretched than they were, when God stretched forth His hand to deliver them. Their bondage is therefore called metaphorically, a "furnace," nay, an "iron" one; and, then, their present far different condition is compared with it; for this was solid and most desirable happiness, that they should be translated into God's peculiar inheritance.
 
 
-## Leviticus 19
+## Lev 19
 
 Leviticus 19:36, 37
 
@@ -3183,7 +3185,7 @@ Deuteronomy 13:18
 **18.** When thou shalt hearken. Although this sentence depends on something else, (as may be seen by referring to it,) yet is it general, and extends to the commendation of the whole Law. Moses teaches first, that the rule of a holy life must be sought from the mouth of God; and then adds that He must be obeyed not partially, but universally. He confirms also what I have said respecting obedience, for men only please God when they listen to His voice. Moreover, the expression is worth our notice, wherein Moses only assumes for himself the character of a minister, and claims power for God alone; for he says that he commands, but expressly explains that the commandments which he sets before them are God's.
 
 
-## Deuteronomy 4
+## Deut 4
 
 Deuteronomy 4:5-14
 
@@ -3286,7 +3288,7 @@ Deuteronomy 4:32-40
 **39.** Know therefore this day. He again inculcates what we have lately spoken of, that the glory of the one true God was proved by the miracles, but he does so by way of exhortation. For he desires them carefully and attentively to consider what God had shewn them, because in so plain a matter there would be no excuse for error or ignorance. He therefore infers from what had gone before, that the people must beware of shutting their eyes against the clear revelation of God's power, and therefore urges them to keep it in memory, because man's ingratitude is but too prone to forgetfulness. He afterwards reminds them wherefore God would be known, viz., that they might keep His Law and obey His statutes. The sum is, that they would be inexcusable if they did not obediently receive the Law, which they knew to have come from God; for they must needs be worse than stupid if the majesty of God, known and understood by so many proofs, did not awaken them to reverence. And lest they should undervalue the doctrine as proceeding from a mortal man, he expressly confesses, indeed, that he is the minister, and yet that he had set before them nothing which he had not received from God.
 
 
-## Deuteronomy 7
+## Deut 7
 
 Deuteronomy 7:6-8
 
@@ -3335,7 +3337,7 @@ Deuteronomy 10:14-17
 **17.** For the Lord your God. Lest they should despise this teaching, he reminds them of God's awful power; for the cause of contempt and negligence is, that the majesty of God does not always obtain its due reverence. Wherefore he inspires them with fear, to deter them from self-indulgence and indifference.
 
 
-## Deuteronomy 27
+## Deut 27
 
 Deuteronomy 27:9, 10
 
@@ -3350,7 +3352,7 @@ Deuteronomy 27:9, 10
 The ground of his exhortation is again taken from the special favor of adoption, wherewith the God of Abraham had honored them; for there was nothing which should have more effectually stimulated them to obedience, than that more than paternal love, and the gratuitous kindness with which He had prevented them. Although, at the same time, they were admonished in these words of the object for which they were separated from other nations; for the conclusion he draws is, that because they were received by God as His people, they, therefore, lay under an obligation to keep His statutes; as Paul more plainly teaches us that we are redeemed from all iniquity, that Christ might purify unto himself a peculiar people, zealous of good works. (Titus 2:14.) Moreover, since the priests were now appointed, from whose lips the doctrine of the law was to be sought, they here come forward in God's own name, and engage the people to respond to His generous calls upon them; and not only this, but also to obey His ministers.
 
 
-## Deuteronomy 26
+## Deut 26
 
 Deuteronomy 26:16-19
 
@@ -3375,7 +3377,7 @@ Deuteronomy 26:16-19
 **17.** Thou hast avouched the Lord  [fn. 231: Thou hast exalted, etc -- Lat.] He shews them from the consequence that nothing can be better or more desirable for them than to embrace God's Law; for nothing can be more honorable to ourselves than to give to God His due honor, and to exalt His glory to its due preeminence. Moses declares that, if the Israelites submit themselves to the Law, this will be, as it were, to place Him in His rightful dignity; and he promises that the fruit of it will return to them, for that God, on his part, will exalt them, so that they shall far excel all other nations; as it is said in Isaiah, (Isaiah 8:13, 14,) "Sanctify the Lord of hosts -- and he shall be for a sanctuary." For no otherwise does He desire to be glorified by us, than to make us in turn partakers of His glory; and thus Moses gently entices them to receive the Law, because their solid happiness consists in this pious duty, if they altogether devote themselves to obedience. But this excellency of the Church, although it shines forth in the world, is still hidden from the blind, and, since it is spiritual, only obtains its praise before God and the angels.
 
 
-## Deuteronomy 6
+## Deut 6
 
 deuteronomy 6:20-25
 
@@ -3406,7 +3408,7 @@ deuteronomy 6:20-25
 **20.** And when thy son asketh thee. The sole point which Moses urges in these verses is, that the people should testify their gratitude by obeying the Law, and that the same religion,  [fn. 232: Addition in Fr., "qu'il a apprinse de Dieu;" which they have learnt of God.] which he commands the fathers to teach, should descend to their posterity. The sum is, that there was good reason why all the precepts of the Law should be observed, since by them it was that God desired His people, after their deliverance, to shew forth their sense of His loving-kindness. Again, therefore, in this passage, he commends the Law by reminding them of their redemption, that the people might more willingly and more earnestly reverence it; for its authority has stronger claims upon them, because it was not imposed before God had laid them under obligation to Himself; and it would have been too base and absurd in them to refuse God as their Lawgiver, when they knew that by Him they had been purchased to Himself. In the next place He reminds them that for the same object they had been constituted the heirs of the land of Canaan, that they should honor God as the author of this special favor; thus he concludes that they are bound by a two-fold tie, for God had devoted them to Himself not once only, but had confirmed His dominion over them by their continued possession of the land. But there is nothing inconsistent in his saying that the land was promised by oath to their fathers before the Law was given; for, although God bestowed this gift gratuitously, yet did He justly claim the testimony of their gratitude; just as now-a-days, although He invites us to the hope of an eternal inheritance of His own free bounty, yet the end of our calling is, that we on our part should celebrate His glory all our life long. When in verse 24 he uses the words "to fear the Lord our God," he briefly defines the sum of the Law; for it would not suffice for us to perform whatever is there commanded, unless our obedience had reference to the fear and worship of God. Integrity and uprightness, indeed, give God delight; but none will say that men's life is duly ordered, if, whilst they exercise equity one towards another, they defraud God of His right. But it is well known that legitimate honor and worship are comprehended under the name of fear. Just afterwards, he commends the Law on account of its profitableness; for God provided for their own good, in delivering to them the rule of a just and pious life. In these words he intimates that they would be doubly ungrateful if they rejected what God meant for their own advantage. For this expression, "for our good," is equivalent to saying that God not only had respect and care for His own rights in enacting the Law, but at the same time regarded what would be useful to them; and this he more clearly states in the next verse, where he says that "this shall be their righteousness if they observe" the Law; otherwise, that the rule of a righteous life, which would please God, was prescribed to them, than which nothing better could be desired. But it will be elsewhere shewn at greater length how the keeping of the Law is in itself righteousness, and yet that no man is justified by the Law; for, that the Law brings only wrath and condemnation, does not arise from any defect or faultiness in its doctrine, but must be imputed to our own guilt, as being far removed, nay, aliens from the righteousness  [fn. 233: La doctrine. -- Fr.] which it contains.
 
 
-## Numbers 15
+## Num 15
 
 Numbers 15:37-41
 
@@ -3489,7 +3491,7 @@ deuteronomy 11:18-20
 **18.** Therefore shall ye lay up these my words. He again demands their serious attention, lest if the doctrine he propounds should be only lightly and carelessly received, it should speedily be let slip; for to lay up in, or on, the heart, is the same as to hide deeply in it; although, where the word "soul" is added, the "heart" refers to the mind, or the intellectual faculties. In fine, he commands them to have the Law not only impressed on the mind, but embraced with sincere affection. In the next place, he commands that aid to the memory which we have just considered, viz., that they should wear the precepts on the arms and foreheads; as if God should constantly meet them, to arouse their senses. For (as has been said) God had no regard to the bands themselves, but would have them seen on their arms and foreheads for another object, viz.,  [fn. 236: C'est de renouveler aux enfans d'Israel la pensee, qu ils devoyent avoir de s'enquerir de sa volonte;" to renew in the children of Israel the care they ought to have in inquiring as to His will. -- Fr.] to suggest and renew their care for religion. Again, He appointed them to occupy the place of ornaments, in order to accustom the people to take their chief delight in meditating on the Law. Thus that foolish ambition is sufficiently refuted, when hypocrites sought after a reputation for holiness by their fringes and other fopperies, as well as that gross error of the whole people, in thinking that they discharged their duty to God by their outward dress. What follows afterwards, that the precepts should be written on the gates of their cities, and on their private houses, tends to the same thing; for we have said, that since men's minds are prone to vanity, and are easily distracted by innumerable allurements, they have need of such stays to hold them back. And this object is plainly expressed, when He commands them severally to speak of the precepts of the Law, whether they are sitting at home, or going abroad, or lying down, or rising up; because without diligent exercise, it usually happens that whatever men have once learnt is soon lost. He adds, also, another effect of this diligence, viz., that not only should each of them consult their own individual advantage, but also teach their children, whereby God's Law would ever be maintained in rigor by perpetual succession.
 
 
-## Deuteronomy 27
+## Deut 27
 
 deuteronomy 27:1-4, 8
 
@@ -3516,7 +3518,7 @@ deuteronomy 27:1-4, 8
 **1.** And Moses, with the elders. This precept is of the same character as those that have preceded it; for, as God would have His precepts written on the door-posts, and on the borders of their garments, so that they might constantly meet their eyes, so also would He have a monument existing at the very entrance of their land, from which the people might learn that they dwelt in it, in order that they might worship God purely. Wherefore, lest by the people's carelessness the knowledge of the Law should be obscured, or in any way obliterated, God would have its sum inscribed in a conspicuous place. Hence may be gathered the similarity I have adverted to between the private houses of individuals and the whole land. When the precepts were written on the doors, every one was admonished that his house was sacred to God, and the same was the case with the whole land, so that whosoever entered it might know that it was, as it were, the sanctuary of heavenly doctrine, and thus their zeal might be stirred up to the pure worship of God. The object of the plain and distinct writing of the Scripture, referred to in verse 8, was to take away (the excuse of  [fn. 237: Added from the French.] ) ignorance.
 
 
-## Deuteronomy 31
+## Deut 31
 
 deuteronomy 31:10-13
 
@@ -3543,7 +3545,7 @@ deuteronomy 31:10-13
 **13.** And that their children, which have not known anything. Again, we see that their present assembly is not referred to, but that which was to be repeated every seven years, in order that their posterity might be retained in the path of duty. Another use, then, of this recitation is adduced; that many who, from their age, could not be witnesses of the first promulgation, might thence learn how God was to be served. The possession of the land is again set before them, that God's bounty may attract them to obedience.
 
 
-## Deuteronomy 6
+## Deut 6
 
 deuteronomy 6:10-12
 
@@ -3566,7 +3568,7 @@ deuteronomy 6:10-12
 First of all, he shews how base and unworthy would be their ingratitude, if, when loaded with so many excellent benefits by God, they should cast away the recollection of Him; for, as His goodness was inestimable, in giving them cities built by the hands of others, and in transferring to them whatever others had prepared by their great labor and industry, so would their impiety be the more detestable in neglecting Him, when He daily set Himself before them in this abundant store of blessing. Let us learn, therefore, from this passage, that we are invited by God's liberality to honor Him, and that whenever He deals kindly by us, He places His glory before our eyes; but, on the other hand, we should remember, that what ought to be as it were vehicles, to lift up our minds on high, are, by our own fault, converted into obstacles and clogs, and that therefore we ought to be the more upon our guard. At the end of verse 12, he reproves their folly by another argument, if being thus suddenly enriched, they should give way to intemperance; as if he had said, that their absurdity would be insupportable, if, when uplifted by God's bounty, they should not remember their origin; for nothing should have served more to incline them to humility than that wretched state of servitude from whence they had been rescued. Therefore he contrasts with that ample dominion to which God had exalted them, the house of bondmen,"  [fn. 245: Margin of A. V.] in order that the recollection of their former lot may restrain all frowardness.
 
 
-## Deuteronomy 9
+## Deut 9
 
 Deuteronomy 9:1-6
 
@@ -3603,7 +3605,7 @@ Deuteronomy 9:1-6
 **5.** Not for thy righteousness. First of all, he would have the punishment inflicted upon these nations awaken the Israelites to fear, and thus that they should attribute nothing to themselves; because it was God's design not to reward their merits, but to shew the severity of His judgment. Secondly, he confirms this by two arguments; viz., because God thus had performed what He promised Abraham; (which promise, as has been already seen, was founded on mere grace;) and, again, because the people itself was naturally perverse and rebellious. Hence, it sufficiently appears that there was no room for merits, since by them God's covenant would have been nullified, nor, if there were, could any such be found in so depraved and contumacious a nation. And besides, God had made His covenant with Abraham almost four centuries before they were born. Hence it follows that this benefit proceeded from some other source. But he still further represses their pride, by reproaching them with being "stiff-necked;" for it would have been too absurd to imagine that God, whom they had not ceased to provoke with their sins, was under obligation to them, as if they had duly discharged their duty. This metaphor is taken from oxen, which are useless until they are accustomed to bend their necks; it is then the same as saying that they were not only unsubmissive, but that in their obstinacy they shook off the yoke. By his impressing on them, for the third time, that the Israelites had not deserved the land by their righteousness, we learn that nothing is more difficult than for men to strip themselves of their blind arrogance, whereby they detract some portion of the praise from God's mercies. Now, if in regard to an earthly inheritance God so greatly exalts His mercy, what must we think of the heavenly inheritance?  [fn. 250: L'heritage celeste, et permanent. -- Fr.] He would have it attributed to Himself alone, that the children of Israel possess the land of Canaan; how much less, then, will He tolerate the obtrusion of men's merits in order to the acquisition of heaven? Nor is there anything in the pretense of the Papists that they attribute the first place to God's bounty; because He claims altogether for Himself what they would share with Him. But if any object that this was only said to His ancient people, I reply, that we are no better than they. Let each retire into himself,  [fn. 251: Pour se bien examiner. -- Fr.] and he will not excuse the hardness of his neck. But they who are regenerated by God's Spirit, know that they are not naturally formed unto obedience; and thus that it is only mercy which makes them to differ from the worst of men.
 
 
-## Deuteronomy 10
+## Deut 10
 
 Deuteronomy 10:21, 22
 
@@ -3656,7 +3658,7 @@ Deuteronomy 11:1-7
 **5.** And what he did unto you. These things will be spoken of in their proper place in the regular course of the history, from which my method of teaching has compelled me to wander a little. For Moses, to heighten the authority of the Law, sets before them compendiously the circumstances which had occurred in the desert, partly in order that God's judgments might alarm them by their severity, and partly that His mercies might draw their minds towards Him by their graciousness. Finally, he concludes by saying that he does not speak of unknown things, but that he merely recalled to their recollection the works of God whereof they had been themselves spectators.
 
 
-## Deuteronomy 8
+## Deut 8
 
 Deuteronomy 8:1-6
 
@@ -3767,7 +3769,7 @@ Deuteronomy 8:7-10
 **10.** Comedes igitur, et satiaberis: et tunc benedices Jehovae Deo tuo in terra illa quam dedit tibi.
 
 
-## Deuteronomy 11
+## Deut 11
 
 
 ### A Repetition of the Same Declaration
@@ -4069,7 +4071,7 @@ THE LAW
 The First Commandment
 
 
-## Exodus 20
+## Exod 20
 
 Exodus 20:3
 
@@ -4336,7 +4338,7 @@ The Ceremonial Supplements of the First Commandment
 The Institution of the Passover
 
 
-## Exodus 12
+## Exod 12
 
 Exodus 12:1-20
 

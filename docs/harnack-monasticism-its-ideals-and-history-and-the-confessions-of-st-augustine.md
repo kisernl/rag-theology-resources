@@ -2,6 +2,7 @@
 title: "Monasticism: Its Ideals and History and The Confessions of St"
 author: "Adolf Harnack"
 tradition: "liberal-protestant"
+genre: "history"
 edition: "Originally published by Williams and Norgate in 1911"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---

@@ -2,6 +2,7 @@
 title: "A Plain Account of Christian Perfection"
 author: "John Wesley"
 tradition: "methodist"
+genre: "treatise"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

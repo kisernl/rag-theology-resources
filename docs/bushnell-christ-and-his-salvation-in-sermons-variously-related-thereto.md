@@ -2,6 +2,7 @@
 title: "Christ and His Salvation: In Sermons Variously Related Thereto."
 author: "Horace Bushnell"
 tradition: "congregationalist"
+genre: "sermon"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

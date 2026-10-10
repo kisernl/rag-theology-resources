@@ -2,6 +2,7 @@
 title: "Christian View of God and the World"
 author: "James Orr"
 tradition: "reformed"
+genre: "apologetics"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

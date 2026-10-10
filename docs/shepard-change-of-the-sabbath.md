@@ -2,6 +2,7 @@
 title: "The Change of the Sabbath"
 author: "Thomas Shepard"
 tradition: "reformed"
+genre: "treatise"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

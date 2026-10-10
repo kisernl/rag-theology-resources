@@ -40,6 +40,8 @@ against the checklist at the bottom.
    title: "..."
    author: "..."
    tradition: "..."         # see vocabulary below — required
+   genre: "..."             # see vocabulary below — required
+   covers: ["Rom", "1Cor"]  # commentaries only: OSIS books/ranges covered
    translator: "..."        # if applicable
    edition: "..."           # if applicable
    source: "<gutenberg URL or other origin>"
@@ -75,6 +77,25 @@ against the checklist at the bottom.
    tradition the *work's theology* belongs to — a study of
    Schleiermacher is `liberal-protestant` even if the scholar who
    wrote it was a Baptist.
+
+   **`genre` vocabulary** (single lowercase value):
+
+   - `systematic` — systematic / dogmatic theologies
+   - `treatise` — focused theological monographs and essay/works
+     collections
+   - `commentary` — scripture commentaries (see rule 12)
+   - `sermon` — sermons and sermon collections (incl. Puritan
+     sermons-in-print sold as "discourses")
+   - `devotional` — meditations, prayers, practical piety
+   - `catechism` — catechisms and catechism expositions
+   - `history` — church history, history of doctrine
+   - `biography` — lives, autobiographies, memoirs
+   - `apologetics` — apologetic works
+   - `illustration` — sermon illustration collections
+   - `letters` — correspondence collections
+   - `liturgy` — prayer books, liturgies, orders of service
+   - `reference` — bibliographies, dictionaries, guides
+   - `other` — catch-all
 
 3. **Title block**: `#` title, author line, edition/imprint lines in
    italics, then a `>` blockquote source attribution. Gutenberg license
@@ -117,6 +138,19 @@ against the checklist at the bottom.
 
 11. **Typography**: preserve Unicode as-is (curly quotes, `‐`, æ/œ,
     Greek). Do not silently "fix" apparent source typos — stay faithful.
+
+12. **Commentaries — scripture references**: for `genre: "commentary"`
+    works, scripture coverage is the primary retrieval axis ("what do
+    commentators say on Romans 8?"). Two requirements:
+    - Front matter gets `covers: [...]` — a YAML list of OSIS book
+      codes or ranges for the whole volume (`["Rev"]`,
+      `["Matt 13–28"]`, `["Exod", "Lev", "Num", "Deut"]`).
+    - Heading text for commented passages is normalized to OSIS form:
+      `### Rom 8:18–25`, not `### Verses 18–25` or
+      `### The Eighth Chapter`. Keep the book's own descriptive title
+      after an em dash if it has one: `### Rom 8:18–25 — Future Glory`.
+      The ingest splitter parses these headings to attach a
+      `scripture_refs` list to every chunk, so never drop the range.
 
 ## Verification checklist (always run)
 

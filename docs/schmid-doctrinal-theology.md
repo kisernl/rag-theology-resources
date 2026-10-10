@@ -2,6 +2,7 @@
 title: "Doctrinal Theology"
 author: "Heinrich Schmid"
 tradition: "lutheran"
+genre: "systematic"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

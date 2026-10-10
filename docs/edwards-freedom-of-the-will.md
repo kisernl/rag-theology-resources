@@ -2,6 +2,7 @@
 title: "Freedom of the Will"
 author: "Jonathan Edwards"
 tradition: "reformed"
+genre: "treatise"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 

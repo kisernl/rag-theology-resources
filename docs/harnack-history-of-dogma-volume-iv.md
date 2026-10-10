@@ -2,6 +2,7 @@
 title: "History of Dogma - Volume IV"
 author: "Adolf Harnack"
 tradition: "liberal-protestant"
+genre: "history"
 source: "Christian Classics Ethereal Library (CCEL)"
 ---
 
